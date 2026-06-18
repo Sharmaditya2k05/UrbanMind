@@ -1,0 +1,2001 @@
+permit_id,builder,zone,building_type,approval_date,cost
+fb0c88ca-1480-4435-a4d9-64d315be31c7,Chad Ltd,North,Residential,2024-01-21,56398.25
+562c3eb7-88ee-4992-bd06-95607a9fcde5,"Bhakta, Sarkar and Iyer",West,Residential,2020-12-18,53952.95
+0958ddc5-3445-4261-9bff-68e789a17342,Dey-Muni,South,Commercial,2022-06-23,55824.05
+6ab08101-b0b9-4edc-be81-574166e7e5ef,Patel Inc,East,Industrial,2020-09-08,65974.66
+43bb4c22-06b6-4211-a3b1-aa583a7310ee,"Sura, Rege and Doctor",South,Commercial,2022-03-07,49662.08
+8ccc0622-61f3-4d55-85cc-0adea6532f2b,Sarkar Ltd,South,Residential,2023-02-05,62461.95
+ba092cd0-067f-4efe-9fb7-1f2d9d60a147,Sangha Inc,South,Industrial,2024-07-30,59822.45
+205c5fc9-5b3c-4935-9fa1-2dd2edcab245,Suri-Edwin,North,Residential,2024-01-10,45605.18
+9212473b-acd6-4457-8743-63ce19395119,"Dey, Pillai and Bajwa",East,Residential,2022-02-22,32492.65
+41430c6c-5f49-4df2-8922-c1054c0da770,Kari-Kalita,North,Residential,2020-11-30,49488.99
+b1a3b399-eefd-45c6-8bcd-6a0e7cdc21a6,Memon Ltd,West,Commercial,2024-08-17,51118.04
+93789290-af6f-424e-aa91-ce0962565b40,"Kumar, Wason and Kibe",West,Residential,2019-09-30,49105.02
+11245f4c-68e5-4f85-b310-2a090a4d3885,"Om, Gara and Modi",Central,Residential,2020-03-26,36707.8
+e5604929-724b-4e90-981f-d7993f0fa581,"Maharaj, Din and Datta",East,Residential,2022-03-26,64527.74
+770d2d02-7ceb-4795-9e66-25236b223ff4,Chacko-Rau,East,Residential,2023-03-21,53292.15
+1765091e-c2f8-4146-a837-9bb5308f2434,"Buch, Purohit and Rana",East,Residential,2024-09-12,46021.6
+745ff6c3-98c6-4bc2-8f78-5bdf2c53c24f,Shanker-Patla,West,Commercial,2022-02-21,47625.31
+84ced48d-934b-419e-8453-6bcf04570299,Bhavsar-Chana,South,Industrial,2024-03-28,42127.85
+a65d1b6a-0de8-4172-9be8-7fac80fa87a3,"Kalla, Radhakrishnan and Sibal",Central,Industrial,2023-09-27,71227.8
+dfea572c-1161-46b2-95f8-96579cc564ef,"Sahota, Sur and Bir",North,Residential,2022-12-02,48423.31
+4cfadbbd-6d8f-437a-8336-449850c8ca81,Suresh and Sons,Central,Residential,2020-04-23,48633.9
+b90a5ff2-59db-43f0-a38a-d5a0180bbeac,Thaman-Patel,West,Commercial,2022-10-22,48712.19
+36d1309f-509b-4be3-9dae-abe140d79873,Dixit Ltd,South,Residential,2023-12-09,41936.11
+4e6b2f81-7808-4cc7-bd52-97580a34e6a2,"Palan, Krishnan and Khanna",Central,Residential,2022-12-29,43680.36
+b945f008-e1c6-4fe3-b444-315b8480ea9f,Sankar-Bose,North,Residential,2024-10-21,49394.36
+f963f270-7380-4699-be0e-46bf3a5c9c0a,Jain-Roy,North,Residential,2024-06-25,57192.19
+838832d6-d549-4de3-83eb-50ce66b45fea,"Comar, Dewan and Hans",Central,Residential,2023-04-01,51011.6
+46f7f126-acaa-4696-8ddf-6dbd3b3d6360,"Wadhwa, Mann and Sen",East,Commercial,2024-06-11,40073.24
+5531fbfd-743d-47a6-b744-f151466f4d00,Nigam LLC,South,Commercial,2020-12-05,41065.51
+67e602bf-34ca-4388-ab96-9ff537cf82d2,"Virk, Dada and Grover",North,Commercial,2023-07-03,44249.73
+399bf662-292b-4da7-92ff-2f2850bc6894,Solanki LLC,South,Commercial,2021-05-19,47021.47
+5e85088f-d414-4ecd-be54-2928441c9b9e,Sarna-Ganesan,South,Commercial,2019-12-31,55768.5
+a6708b4c-a602-4dd3-a253-ad85cee326dc,Jaggi Ltd,East,Commercial,2023-10-01,60238.75
+c355d215-1eab-41c6-803a-b5a70a3f402d,"Bhandari, Mammen and Banerjee",South,Residential,2020-07-09,44544.7
+bd86cba0-7789-4472-9ba0-11585ef597f8,"Hora, Srinivas and Vasa",Central,Residential,2024-06-10,51219.77
+84c812c4-0e61-4eb3-aef3-25d9701efd15,"Choudhary, Dugar and Vasa",East,Residential,2022-12-09,61615.32
+62294193-556e-4e7f-bc4a-a23772d48898,Chhabra-Kalita,Central,Commercial,2023-08-16,53691.45
+970992bc-9010-4aaa-8085-59ea249642ec,Reddy PLC,East,Residential,2022-07-14,61134.75
+8dc94f77-f32c-49e6-8a5b-c863a721d225,Raval-Dhillon,Central,Residential,2022-03-04,40173.79
+5422896d-6319-4fb3-92f5-3e86ce6cf18f,Memon-Wali,Central,Residential,2019-12-16,33310.16
+171a98fe-f19c-4155-b398-331f7279fda0,Patla PLC,East,Residential,2023-09-17,39114.82
+23800c88-a15c-47e6-8408-9025f7ca4091,"Memon, Munshi and Jaggi",North,Industrial,2020-11-16,47845.24
+f50f883b-457c-49a1-8033-cce9bb14c85d,"Golla, Dhingra and Biswas",South,Residential,2023-03-25,57975.05
+6610d5bc-0cd4-4d87-8be2-123cbb70a740,"Ramakrishnan, Natarajan and Thaker",South,Residential,2019-10-28,41392.29
+51c24152-0c77-4150-bf21-4ac093e8fd5b,Kant-Bhatt,Central,Commercial,2019-07-07,57561.14
+28e3c9c6-8f78-4c08-bf2f-84886c00b6a8,Mane-Bahri,North,Commercial,2024-07-22,60622.88
+3ed423e7-ec06-4299-95f4-5a4c2d54019a,"Sankar, Barad and Jha",Central,Residential,2023-11-01,55587.9
+cd857c07-f103-46d4-8613-c8a2263c8d30,Dugal-Vyas,East,Commercial,2020-11-02,45356.04
+0b9b1384-6fff-4c5b-a0d8-d2bce00433dd,"Sagar, Chaudry and Bir",West,Residential,2021-11-10,33110.71
+7a990827-ec10-4ab8-9184-c740c3e69fd1,Som-Goswami,West,Commercial,2022-03-02,49901.13
+730ee9ab-bb5c-4f07-a900-3df66041a707,"Rajagopalan, Kunda and Apte",West,Industrial,2024-12-18,37599.52
+669e544e-840d-42af-9f11-be66f5441bed,"Dara, Dugar and Ranganathan",West,Residential,2022-07-26,70402.13
+64a0ac0c-5d48-41e4-b089-1502d559e731,Divan-Chopra,West,Commercial,2022-11-02,51116.24
+a6d281c6-1941-4eaf-af67-54e332c514e9,Mand Inc,South,Commercial,2022-07-03,67389.04
+70d78b40-9136-410c-bbff-2d1c5136e6f7,Kashyap Ltd,North,Residential,2023-04-10,63234.7
+e93fbda3-d2f8-4cfe-998c-b285338bf274,Sethi PLC,Central,Commercial,2020-10-18,37504.0
+b89df4f6-dba7-49f7-9088-8db961296893,Kala-Roy,North,Residential,2020-12-12,67801.95
+2f4874a2-6aa7-4f2c-9a2a-3beb6c9c5d56,Sastry-Ramesh,East,Commercial,2019-02-13,70027.33
+621419a1-7324-4d9a-aba3-8c4ac0b02fb3,"Chakraborty, Ramanathan and Kumar",West,Residential,2019-01-20,39615.09
+9072aec7-71ac-4bc4-bfb6-1fc587a5832d,Desai Group,West,Residential,2023-02-06,53340.14
+0364aaa8-d729-4ba5-90a6-3b062ff04fcb,Chacko-Vyas,Central,Residential,2023-08-31,55795.32
+f2e68527-23c8-491e-b2fa-cddac310a7bd,Chowdhury PLC,South,Commercial,2021-05-18,62335.36
+6e47574e-298e-4b5d-83a3-d18bc1f6c74f,"Dewan, Panchal and Krishnan",Central,Residential,2020-04-27,39578.9
+52bfe10b-1c74-412b-9e31-b480657756a4,"Kakar, Karpe and Atwal",East,Residential,2023-07-17,71189.27
+b1aef3e1-22b6-4f20-a56c-33972e508bb2,Vora-Basak,South,Commercial,2020-02-10,40923.08
+7da63843-fcc8-4fa2-ad9c-8dfa94a8f60f,Patla-Puri,North,Commercial,2024-08-20,61489.88
+21065370-d493-47f2-a85b-9ae112c5915d,Divan-Ghose,East,Industrial,2024-01-24,29779.31
+016f669a-7a3e-4fc7-b421-655b045aafe8,Acharya Inc,East,Residential,2023-09-22,51159.93
+989064d9-411b-494b-8888-c9c4547a3241,Lanka Group,North,Residential,2019-10-01,59143.54
+9992631d-948c-43ce-8ccb-53d7f6d50dfe,Chander and Sons,West,Residential,2020-10-30,67564.66
+93664a72-1963-4bfa-b824-28ad30be9476,"Pillay, Majumdar and Lanka",West,Commercial,2023-03-08,54976.82
+3f0f0b77-ccb8-4fba-99e5-cc94dcc65f81,"Prabhakar, Prabhakar and Sarna",North,Industrial,2019-07-05,48981.28
+eabd5144-d78a-49b6-ba7b-6f3104a3d751,Kapadia-Manda,East,Residential,2022-05-30,33554.22
+2be51f53-c835-41d7-b9c5-8711719f7c7e,Sathe Inc,North,Residential,2023-11-15,51163.87
+3e742545-8750-4688-af4e-9d9e804da8b9,Bora-Mangat,West,Residential,2022-11-23,50741.92
+821b4244-067e-4790-be9d-590067d298de,Zachariah-Deep,West,Residential,2021-07-10,57259.16
+7e460c75-b538-4279-bb97-031a2e6f7958,Goswami-Munshi,Central,Residential,2024-07-05,58665.57
+fe107765-aa50-4d4e-ac49-35327d7a6363,Pillai Group,West,Residential,2021-05-26,31555.63
+bbcd1e23-5dbb-44b9-a5ca-cfd6e106ecd5,"Chakrabarti, Gaba and Rajagopalan",Central,Residential,2022-12-05,41250.55
+524db7a0-dd1c-45c9-a76a-1f79d0eba752,"Lad, Rana and Jain",West,Residential,2024-11-08,61107.23
+46b637b2-ccdf-4e9d-9375-3dbf26ef8282,Varughese-Chowdhury,West,Commercial,2021-10-09,53483.52
+3e59fcdd-bb9a-46db-8713-46ff11405a5b,Karpe Ltd,West,Commercial,2020-09-10,28444.14
+48c14924-3b0e-4a04-8a6b-3731ba76d606,Rau-Ahluwalia,West,Industrial,2024-11-13,51529.28
+53e9a22d-1570-4b5b-b51e-079bcc146899,Bakshi-Upadhyay,East,Residential,2021-07-30,60872.13
+5154452f-a137-4ea1-9d24-b12e819d4cc1,Sunder-Dugar,Central,Residential,2023-03-14,45746.66
+ca507d3b-2239-4127-8b3e-c2a6a694f7b6,Peri-Mishra,North,Commercial,2024-05-29,40835.11
+85646db1-c053-432e-a342-425ccb6a8f1d,"Datta, Anne and Madan",West,Industrial,2020-05-05,31213.03
+0978e90f-2738-448e-9cd0-8fc45f7c9048,Bajaj-Bajaj,East,Residential,2024-12-29,49764.66
+6b6ce4cb-338e-4bac-8e2d-38465f0a333d,"Dani, Kohli and Vaidya",West,Residential,2024-09-02,69571.89
+318b8c85-c5b5-4ed6-bfcc-5645dee836f0,Mand and Sons,East,Residential,2022-07-31,49250.83
+83c482dc-e90c-48aa-8097-53a3cbcefa6e,"Kant, Rama and Biswas",North,Residential,2024-03-26,32881.87
+9f92ca71-2979-44b2-8de8-bfe73d2bd832,Ramakrishnan Inc,North,Residential,2020-09-10,55791.59
+91dc9156-20ad-4d7b-b75b-718f2c42c56d,Sarraf Ltd,East,Commercial,2023-05-18,71045.16
+0e801445-249b-4ac4-b950-9e600c964161,Varkey-Mody,Central,Residential,2023-11-04,42217.86
+bfab3e95-e8b5-455d-83e2-30b57b8becff,"Oak, Parikh and Bahri",West,Industrial,2021-02-11,30589.64
+fcd27f1f-dda3-43f1-a7f6-00316a373cdb,Johal Group,Central,Commercial,2019-05-21,58046.96
+5ea2053e-106d-4fcd-983c-09d1a6e5091b,Dyal and Sons,South,Industrial,2020-04-14,39736.03
+ea195e86-831e-416b-8667-2c7165d75ed9,"Bawa, D’Alia and Minhas",South,Residential,2020-10-18,50485.99
+b404b943-a666-4633-975f-0b2b735b2ae2,"Pillai, Sarin and Trivedi",East,Residential,2021-04-29,42629.84
+30799334-0d22-45cf-8c20-f81792daec8b,Apte PLC,West,Commercial,2024-07-31,39739.69
+58780114-f68c-4c14-a19f-2b1f4a2cccc7,"Samra, Nath and Nadig",East,Commercial,2020-02-04,53752.23
+49b4187d-3936-483d-8560-8d5f6c2cd12f,Chana-Solanki,West,Residential,2023-07-06,54772.39
+8d5fe1e1-bf3b-40fa-b2e7-7e040a9e6dd0,"Seth, Parmar and Dhaliwal",South,Residential,2020-12-22,45836.77
+edca2a91-f902-4370-bc4c-82eee229ceaf,Raja-Palan,West,Commercial,2019-04-13,42822.92
+813ef672-1520-4792-94c2-962c18688fab,"Doctor, Kothari and Sama",Central,Residential,2020-09-27,35397.98
+272c2b55-3d88-4b08-8457-363da1c3471a,Nayak Ltd,Central,Residential,2023-07-15,62672.27
+691db0c2-558d-4438-a2da-edc2c2f9d21c,Rajagopal-Sathe,West,Residential,2021-04-04,44117.73
+afd19acd-26a5-4e62-a229-c08168175412,Trivedi-Ramakrishnan,West,Industrial,2024-01-13,49505.55
+a29f0db5-a8f1-480d-b9db-1d53efea5e14,Sha Ltd,Central,Residential,2021-01-14,53558.02
+7b0f0610-3381-47d1-b88d-c36259e6e720,"Johal, Apte and Sachar",Central,Residential,2021-12-20,40379.16
+305e019d-c77d-44cc-85a8-300e8fdc769f,Ramaswamy PLC,North,Commercial,2022-11-16,39885.01
+62fdec97-3e63-4ea7-a28b-b8152117b0d1,"Mani, Vora and Buch",North,Commercial,2019-04-24,46247.47
+a7da3d9d-5496-4596-9979-5a9999237e1f,Rama-Mistry,Central,Commercial,2023-01-20,51387.83
+43ac54f4-2963-4561-8873-4b1869c72d0b,Ram-Halder,Central,Residential,2022-06-11,54806.04
+e3892b8b-1a22-4324-be53-062b26ef999a,"Oza, Nayak and Bawa",North,Commercial,2023-02-18,59410.51
+35b7fb08-9291-4139-ba5b-befdbf159552,"Thakur, Sridhar and Parekh",Central,Residential,2021-08-25,70088.34
+5d855a31-2603-4f91-a8ee-469dfe77936b,"Kadakia, Master and Goswami",West,Residential,2021-10-07,46087.61
+04aba57f-1b38-407d-abda-0b665e042644,"Boase, Balay and Issac",Central,Residential,2019-11-05,41932.5
+ac80c2e4-24a3-474e-8cbb-1bcbb097ead5,Devan LLC,Central,Commercial,2022-10-15,45288.84
+d65ee3df-59d3-4681-9c73-22e5cd1579f0,Sehgal PLC,Central,Residential,2024-11-15,42327.59
+4195cd01-9102-4075-bf7d-3e795f61b975,Yogi-Badami,South,Residential,2023-08-25,54548.81
+7ee3489b-25ff-495a-9c84-926c8bec8207,Dutt Inc,North,Commercial,2019-04-27,38051.0
+7aefdc15-c9ec-432c-ad66-9f9af2f205ef,Loke Ltd,Central,Commercial,2019-05-29,46752.91
+440768b2-da6f-412f-ae3b-bbd2bea5d617,Savant-Kannan,East,Residential,2019-04-25,47011.81
+cdb5ce15-74b2-4a23-a125-3de794c78364,Randhawa Ltd,West,Commercial,2022-06-11,47969.8
+3429c70a-ee14-4815-a0ed-fb9142ccb8d2,"Chopra, Dani and Boase",East,Residential,2021-05-07,51232.88
+4c98d26e-86b3-4fe8-89d3-dcf1719e52f3,"Jayaraman, Batta and Khare",South,Commercial,2019-07-22,42583.17
+86793d3a-8cc0-46a6-94bf-e6a69ace873e,Sandal-Kala,Central,Residential,2020-12-04,44036.08
+c72a62f8-b5b7-4869-88e3-920d1b228b42,Dugar-Lad,Central,Residential,2022-12-21,36442.65
+33d593a2-e2ab-40dc-a2e7-4c289633c70a,Kala-Kaur,East,Commercial,2021-08-28,38120.54
+cc6edca3-e189-4da4-83f5-e3c36238428b,"Dayal, Loke and Hegde",South,Residential,2024-12-29,60784.87
+9e936017-f2d1-4e78-86dd-188fe2a855f9,"Tak, Jani and Gole",North,Residential,2024-07-07,56311.02
+01edfefd-aba5-4e00-807d-e772f797f2c4,"Mukherjee, Mital and Ranganathan",South,Industrial,2023-01-07,48718.62
+c90772bc-ed42-4610-90ce-1cd58b987cf2,Radhakrishnan-Chandran,West,Residential,2020-01-15,39369.13
+74aa3d3f-9c95-4e0b-b5e2-2e8ea24389a4,"Dass, Pau and Tak",North,Residential,2021-08-15,63433.67
+7ba65249-24f2-4891-aaae-2f5591582f04,"Mittal, Kapur and Malhotra",South,Residential,2022-07-13,49509.5
+0ed27961-3d58-4d15-9214-cf28da0336b7,Patla-Lal,North,Residential,2019-03-15,46120.52
+37b5136d-e99c-4193-bf95-accd166ce87c,"Agarwal, Vohra and Sankaran",North,Commercial,2024-11-25,65063.3
+3a9ca365-5f07-40c3-833b-5ed7586625da,Balakrishnan-Kala,Central,Residential,2022-03-21,50122.96
+9c7a8390-9a55-4087-a0df-e32c93fc0f09,Apte LLC,South,Residential,2020-03-24,38959.39
+36920909-e2d1-4679-b3de-f6448349c743,"Barad, Bhatt and Golla",North,Commercial,2019-07-27,37969.86
+651df9f5-682c-4d6d-8bd2-133983ef84d4,"Yogi, D’Alia and Nazareth",South,Residential,2021-12-13,43151.61
+75cf103e-f670-4fe2-8fe7-89eed0567a60,Kapur PLC,East,Residential,2019-11-14,46296.51
+b19a26c4-7870-4009-b0a0-900b6acae707,Swaminathan LLC,North,Residential,2019-06-08,48017.91
+043dbe53-d03e-49ea-b894-c5fa5584a7a5,"Loke, Vaidya and Nanda",North,Commercial,2020-06-03,49771.65
+1c5e3c03-5e09-45da-b09e-c3a02a67dbab,"Gulati, Sibal and Mane",West,Residential,2019-12-21,52669.76
+fe97ba9b-68c4-4627-ae4b-45a1fdc14c73,Sabharwal LLC,West,Residential,2023-07-25,50747.99
+613bdbf1-e589-4507-957e-1099b3787c6a,Sandhu-Ramesh,Central,Commercial,2022-07-26,35784.21
+e17c7905-0f16-4311-8db0-f9c0ea86b96a,Soman Ltd,East,Residential,2022-01-27,51211.87
+f52edade-9b5b-4698-a97a-d9272a141477,Madan Group,Central,Commercial,2024-03-04,60342.38
+c3a91477-06af-4b59-afc5-be10f0844c95,Deo-Naidu,North,Industrial,2019-02-11,68825.74
+eb823878-388b-4ab6-b959-35d40e50b9de,"Bakshi, Kothari and Parmer",East,Residential,2022-09-19,60230.24
+e76b23ff-c15c-4871-a853-dd70e12bf61f,"Apte, Lal and Bains",Central,Commercial,2020-10-15,49840.57
+6d48f5a5-a61c-42e4-86c6-0331d6b572c5,Bhat-Buch,West,Residential,2024-04-08,52602.28
+2e23690f-8e19-40ad-9e58-be6a170855d0,"Bhasin, Gera and Savant",South,Residential,2020-07-16,65357.36
+42541d8e-c4ab-4bc1-8725-36f50d28e655,Sachdeva LLC,East,Residential,2019-07-18,61187.46
+47c68bf7-49c2-4a68-979a-1d99d59397df,"Kalita, Das and Mann",Central,Residential,2019-03-17,48376.79
+6aa3fad6-8c46-4f06-ba13-b586bc1ab8d1,"Bala, Goda and Master",North,Residential,2020-11-29,48439.87
+cafa2942-3ce3-40e6-bffc-09e3498c7ac2,"Sura, Patil and Sengupta",South,Commercial,2020-04-22,53580.62
+fe1d507b-6442-41d8-923b-4f9ed8762593,Shan-Sethi,East,Residential,2022-12-03,46104.84
+e4e97f25-0dbe-4ebc-8e13-f20b5e47a93f,Padmanabhan Ltd,Central,Commercial,2023-03-08,59440.29
+d8c08eac-ae7c-42df-a97c-2d7725f369aa,"Shetty, Pillay and Kapoor",South,Commercial,2020-10-20,83086.75
+30510722-4d25-4dd2-ab15-8c9a489f8b92,Atwal-Narasimhan,West,Commercial,2022-01-10,60606.02
+02f8d362-59dc-4dee-99a0-790d17541181,"Bumb, Kari and Mann",South,Industrial,2024-09-01,57060.47
+be8561c2-ffdf-4860-9d90-e2bc68acc866,Sarkar-Gopal,South,Commercial,2023-08-28,55131.43
+0aaeca44-212c-4d1a-9732-8f1fac8ac00a,Kuruvilla Group,East,Commercial,2024-06-17,53963.97
+7f4d28aa-854b-41d4-9a9f-6c584fdc1c89,Dora Inc,West,Commercial,2023-10-24,46581.94
+f2d31633-a5b2-48ab-8a5c-5380ba138eca,Bora-Kanda,Central,Commercial,2024-11-05,68682.44
+2dd3617d-28c0-4435-b76b-e7d5e9fc24bf,Mane-Bhasin,East,Residential,2021-01-14,61576.74
+7f12d6e1-43a7-480c-8eb3-9d37c07fee1d,"Ratti, Sura and Pai",North,Residential,2021-07-03,54179.95
+72c0953d-de17-4921-b089-575501e67fb1,Mukherjee-Sen,South,Industrial,2021-05-29,66547.41
+ba918cb1-7a98-47e3-916b-92b8d3961698,"Sabharwal, Bala and Sekhon",South,Commercial,2022-07-05,49537.69
+2630e9f7-2510-4826-bf8b-bdc63c43815d,"Srivastava, Lad and Palla",South,Residential,2023-04-27,43976.11
+2e755a8a-02a9-4d5b-b4ee-fd63a8276328,Konda-Randhawa,West,Residential,2023-05-12,36822.57
+4efe3da9-f90d-4c52-88ea-f01b98b75070,Kunda Group,West,Industrial,2022-04-29,45729.46
+8fde1621-5da2-4262-ad7e-7dbc8ccb4fe9,Bassi and Sons,South,Residential,2019-04-22,50321.61
+c3756a29-a12f-4d95-a146-b74a72bb6da3,Kamdar and Sons,East,Commercial,2021-05-01,50659.02
+364d9bc5-2ede-4774-8579-44fa53d4704d,Pall LLC,Central,Commercial,2019-07-14,37836.29
+6def8562-c1d1-4e88-b9d1-494fd8250b98,Mangal Group,East,Industrial,2021-01-22,56278.42
+689f527e-229d-4470-898a-24ae98a91f84,Rajagopal Inc,Central,Industrial,2020-01-17,46405.84
+9bb4151d-13ff-40bc-876b-c6caebd3f9e7,Srinivas-Ram,West,Residential,2024-02-17,34131.55
+256ed663-589b-473a-9894-50cd610e3ae2,"Dhillon, Raj and Deep",South,Residential,2021-06-12,63892.28
+b2bb2270-49e0-44ee-a4bb-38842d4586c7,"Narang, Merchant and Taneja",Central,Residential,2019-03-04,58840.14
+25dbfc32-9e62-4339-8f14-9f93a367511d,"Balakrishnan, Grewal and Sodhi",Central,Residential,2019-07-04,39563.92
+b661091d-aa96-4723-b922-7a9e0af71441,Karpe-Boase,East,Residential,2024-07-29,36422.48
+6121ad38-d5b3-4137-8418-c64d6b80d8ef,Sankaran-Ganesan,West,Residential,2019-01-20,41716.37
+e2905d04-e432-4c97-b5ed-45e8e802aba7,More and Sons,West,Residential,2023-11-08,38582.71
+24ff60aa-02a3-4a03-8c4b-6387d0b0b16d,Chaudhuri Inc,East,Commercial,2024-06-22,58535.21
+849cd2e5-ac1e-4651-b04f-85e962d6960b,Mani and Sons,North,Residential,2020-03-12,49371.78
+fa8f4adf-26e6-468a-9906-7473ef202987,Lata Inc,North,Residential,2020-07-27,59040.99
+e4920c9a-0d9d-45dc-85a1-0f4ff64c5e0a,Chaudry and Sons,West,Industrial,2021-01-28,53018.66
+74232422-ff4f-4585-8ec9-6298d21464c9,Sami-Krish,North,Commercial,2021-05-26,52855.52
+179e5506-7a43-4e64-84ba-f39b0b29781f,Chokshi LLC,West,Residential,2023-07-16,47977.48
+20498079-f2d7-4778-a4a3-09bccea1a68a,Tripathi and Sons,Central,Residential,2019-07-01,43418.81
+237a643a-71a1-4ea5-91a4-7723961cb240,"Murthy, Vora and Chanda",South,Residential,2020-06-19,53351.21
+8abd5d3d-8f35-45ee-b76b-cd2cd133d83d,Char Ltd,South,Industrial,2021-06-28,38094.51
+f8d13e1d-da85-4f93-adfb-1f1bf88cb9ac,Tara Group,East,Residential,2020-05-13,41666.64
+d3644ef1-cb9a-4fdc-9f76-9cf37cf78945,Garde-Hora,South,Residential,2022-10-25,59344.0
+3d4f4a2d-b858-4635-ac0c-37c5bc8859da,"Chaudhary, Chowdhury and Purohit",East,Residential,2022-02-13,54101.2
+d993635f-7f7d-4802-b59e-e0c2a23e7535,Roy-Vohra,North,Residential,2019-04-19,54236.07
+cf22b362-8beb-456a-9190-5c0060a1a030,Mohanty PLC,Central,Industrial,2024-05-05,34358.98
+0f1a28e7-e544-41c5-bf0e-ec8217f8a96d,"Salvi, Parekh and Chand",South,Residential,2021-10-10,23972.74
+796f042a-8788-493e-adae-44b6d16cbcf8,Hans-Raval,East,Residential,2021-08-22,61420.95
+fa3f44b9-53ab-4604-806b-74423942a591,Loyal-Ganguly,North,Residential,2024-02-19,54668.59
+6ed617ed-d792-4039-83a7-ee77616a968e,Palla-Prakash,Central,Industrial,2021-08-20,44795.61
+3752918b-2391-4515-a01b-f01cab8cf10e,Dhawan-Patel,East,Industrial,2021-09-23,68015.83
+e52b4ed1-1473-4304-a2e9-03fad4a91fb6,Sehgal PLC,Central,Commercial,2023-09-25,58511.89
+62f26b2e-b782-4408-978a-2aaaaa4ee9ee,"Bansal, Ranganathan and Kakar",East,Residential,2019-12-07,69224.04
+7ca57642-d597-4567-b6a1-a63466ddc305,Zachariah and Sons,East,Residential,2020-08-25,56931.54
+ced3e8f6-413e-41a2-8d69-06d4ce6a3111,Maharaj LLC,Central,Residential,2019-04-28,49610.74
+c56adcef-b456-42de-95da-17177472948e,"Balan, Kale and Kant",South,Residential,2019-07-02,49019.79
+89b3d16f-3bf7-4e76-905b-b764e4974baf,"Garg, Venkatesh and Nazareth",West,Industrial,2022-12-01,54851.71
+8b73151f-b170-4665-8273-47710418e7c2,De-Lal,Central,Residential,2022-03-24,62723.83
+fbd27556-7a4a-4070-8535-536f4eaf5f45,"Chacko, Mishra and Bora",East,Commercial,2022-07-06,61391.16
+6dfcaebe-db55-4701-8ecc-a1cecd7f3d19,Ratta-Dugar,South,Residential,2022-04-06,59742.05
+f43dafb1-b21e-4bd6-89c3-903155898936,Nagi-Oommen,East,Residential,2021-10-05,37662.77
+6688eeaf-d8ec-4ace-b53b-1900d64ae0bc,Chawla Group,North,Commercial,2020-10-05,61077.83
+ba100f6a-8661-400b-8718-fc4ac24cdd57,"Mahajan, Munshi and Mutti",North,Residential,2024-12-14,55335.15
+182a7c53-f46a-4a2b-a835-c8e156e5033c,Edwin-Chand,South,Residential,2021-06-01,55693.47
+f26381ee-52c7-4d03-a60e-303746e09c24,Tata PLC,South,Commercial,2023-07-21,63085.48
+98552f9e-dc39-4ee7-b91d-fbdaa0b4bc0c,Sharaf Ltd,North,Residential,2020-03-03,50974.54
+c1b5e6ab-42bf-4daf-b958-7df50724815e,Arya Group,East,Residential,2021-07-01,36901.28
+4fcfcf0a-3cb4-4ae4-ba3c-c2c8f587052e,"Kulkarni, Goyal and Kade",East,Commercial,2022-04-16,41735.53
+e780e0a5-cbcb-4542-976f-65a6ab75d5c8,Saran-Chowdhury,West,Residential,2024-05-26,41160.7
+3080cd6c-6e02-444b-a59d-00e3c31e492a,Mukherjee and Sons,North,Industrial,2020-12-27,53443.53
+c65102b2-d3d0-4d9d-9ddc-7ef4c495ea15,"Sandhu, Puri and Sharma",West,Industrial,2021-12-01,49943.86
+81abbb32-b955-4a52-b873-a8bacfa1a82c,Singh Inc,Central,Residential,2023-04-13,29986.85
+e36a2c33-356b-47f5-926a-077e8307cf16,Chaudhry Ltd,North,Residential,2023-11-30,44777.88
+df8772bf-40f7-41c6-a85f-9c10663f8fe9,"Baral, Wadhwa and Hari",South,Residential,2019-02-16,55174.53
+889adf2b-8879-48e7-a89b-0a220fd5c2b2,Dhar LLC,South,Residential,2022-04-09,64496.86
+badb8133-d42b-4457-9a0d-6131f1266fda,"Ramaswamy, Pillay and Toor",Central,Commercial,2022-06-05,42643.06
+1ad09ad0-9946-4be6-88a5-4757b13178be,"Raghavan, Kade and Handa",West,Commercial,2023-05-22,42094.4
+dc7373b7-2e20-4f79-b703-65836381dba3,Puri-Rege,Central,Residential,2020-11-14,44451.32
+9efd331e-8c16-4869-af34-fe33d5adba78,"Yadav, Agrawal and Saini",Central,Residential,2022-08-29,52400.99
+9ced65a3-e8ca-4638-aedb-ded8585a9413,Saran-Shetty,West,Industrial,2020-02-20,59542.92
+6de84c0c-6c8a-4a47-a638-544cfe118998,Banerjee LLC,Central,Residential,2020-03-05,46273.46
+b6596532-39de-40b6-afe3-2c9d40b23403,"Narula, Thakkar and Divan",East,Residential,2024-07-17,51518.83
+9adfee05-36d8-4b26-a45f-54c9a3eb865c,Lal and Sons,Central,Residential,2023-01-08,46815.0
+ac1f76e3-c76c-47e4-aa53-4e3711838bc1,Chakrabarti-Kar,North,Residential,2022-04-13,45243.3
+1e0be7db-a633-47c1-8525-5fe17ce10fde,Mani-Peri,Central,Residential,2021-03-03,44964.66
+84cd3481-9761-4854-9655-ca65e89907c4,Sekhon-Pal,Central,Commercial,2020-09-08,44332.44
+6994cc52-2bb8-4c8c-9bcd-07a03b33c24a,"Pandya, Dave and Patil",South,Residential,2020-12-16,55819.47
+f8415f8c-9e4c-4e7a-bc33-55889f80446d,Peri-Borra,Central,Commercial,2023-01-25,43084.43
+81e57e67-8fab-4d8c-8c5b-9902840b7c5b,Mane Ltd,North,Residential,2022-06-09,33739.2
+72b967ca-a78d-4333-a070-98bd68ad2b4b,"Lata, Bhardwaj and Choudhry",North,Residential,2021-02-25,60221.38
+b6308704-389e-4ccf-bbeb-a0bcc57a3251,Deep LLC,West,Commercial,2024-10-26,45216.9
+1bf212ca-0d0e-45b3-a88b-96e2ab3a16af,Raman LLC,West,Commercial,2024-02-05,47410.86
+102db5a1-223b-4fc1-9f0a-72c97e58ce54,Bhargava-Gupta,East,Commercial,2021-04-07,49852.54
+a53885df-78a9-4b7b-9dcf-e0000dc2b539,"Mistry, Kata and Patil",North,Commercial,2022-03-07,50826.44
+21010613-73c1-4e73-9c30-efb24f2f2430,"Thakkar, Chacko and Mand",Central,Residential,2023-11-01,38181.24
+5504cee7-663e-48f1-bf38-ab70c9622fe7,"Manda, Raja and Srinivasan",West,Commercial,2020-10-11,53264.58
+c41eac06-e00e-4c58-a5a2-46bfd0116d65,Dhingra-Seshadri,East,Commercial,2019-04-07,50044.99
+7f4dc387-4739-405a-8ace-9cdd1088367f,Setty-Nagi,South,Commercial,2021-02-07,38393.03
+5643c313-56f5-4614-b883-89d852c6930d,Seshadri Ltd,East,Residential,2022-12-16,47439.51
+7f5343ef-88a2-4a06-b075-a72ae722c8fe,Kashyap PLC,North,Commercial,2022-04-22,39172.23
+fc421d12-bce1-4a2b-8ef1-455db34afa45,"Sridhar, Gokhale and Dugar",North,Residential,2019-01-22,55809.85
+b2f1d3ac-e559-4e31-bbfb-cd05fc8942f4,Dara Group,West,Residential,2024-04-26,47149.21
+8dbc07fc-30e4-445f-801b-8d3cd4e2fdeb,Tank Ltd,West,Commercial,2019-01-21,63712.0
+d3e55d31-e1b6-45c1-98b4-94a1f0320652,Gara-Kala,South,Residential,2019-06-21,48554.0
+a69fae8e-e344-4bde-ac0f-5a3e6e5c7d5b,"Nigam, Shah and Chatterjee",Central,Residential,2019-05-20,50041.18
+8d560a0a-07e4-46f9-a770-fa109508d6ba,Jhaveri-Chokshi,East,Residential,2020-01-22,56606.39
+b2c18a64-a920-43e7-bd62-eb0b5c132c53,Narang Inc,West,Residential,2019-05-08,39719.21
+c0efdf10-aafa-48b7-93cb-35b3ef72a1ec,Krish-Mohan,South,Industrial,2023-07-25,49139.87
+991eeb9f-d50b-468c-a5d4-4dfd007840b5,Viswanathan LLC,West,Commercial,2020-01-30,67052.41
+47c32a7f-2564-4e99-8a2e-85e3a089be4f,"Bhatnagar, Varty and Chhabra",Central,Industrial,2020-03-04,63560.68
+a946186a-b463-4587-a87e-aa54e60960bf,Dhawan-Cheema,West,Residential,2023-12-15,68743.83
+21fcd424-2934-4248-bf17-279081e33f13,Gole-Dhar,North,Residential,2020-04-26,32713.72
+7c715873-1df5-4b08-b775-41c6a4ba1a78,Bail-Shukla,West,Commercial,2019-06-26,70707.51
+efdb3eb6-5562-4131-93fe-ea614be30544,"Saini, Chakrabarti and Tak",Central,Residential,2019-05-28,29428.74
+eeb2fff2-83ed-4d7b-97c8-81524cc5f408,Kakar LLC,South,Residential,2022-07-13,53010.05
+c203d59e-d12e-493d-979d-fa2797628890,Master-Acharya,North,Commercial,2020-11-12,51021.31
+019cfe9b-e2aa-4623-8cda-bd0091e26318,Chaudhry Inc,South,Residential,2021-01-08,39798.75
+92d6db1c-1ac2-49a0-b74d-0c7641e59c7d,"Jayaraman, Suresh and Murty",East,Residential,2020-12-12,42148.81
+6a046f02-17b3-429a-a270-be3a507f68db,Radhakrishnan-Mane,Central,Residential,2020-12-03,54784.98
+1a28c3eb-b4fb-4175-bc00-3b21c2d60820,Vyas PLC,East,Commercial,2021-07-03,69091.28
+9cf53577-cfe2-4878-94a8-ff3b73de7270,Kuruvilla-Nanda,West,Commercial,2023-01-20,52431.5
+0a5080c3-8d99-4641-b378-1c31c01d74e7,Thaman Ltd,Central,Residential,2024-06-14,51642.93
+10c04997-61ff-45e0-9285-95197c483693,Cheema Group,South,Residential,2023-02-28,49579.21
+26bb74e8-2863-42ec-bd38-a7f440ad9fa6,Shankar Group,Central,Residential,2023-08-11,60905.84
+cabd5a06-7ca9-4b98-8c45-413ec772afd6,Ramesh-Rao,East,Commercial,2019-04-11,59943.23
+a115f2b6-1312-40b0-b599-aed45d161793,"Narang, Deshpande and Edwin",South,Residential,2019-02-10,43231.49
+ca9efd08-3481-486c-9b03-822c8b393500,Kalita LLC,Central,Residential,2020-09-12,51802.22
+ea2f6a1c-eec8-4745-a718-5839f635a55a,"Buch, Bahl and Datta",Central,Industrial,2019-09-16,41292.65
+b2433afd-e8dc-449a-9f86-9a2e8c045f54,Loke-Krishnamurthy,South,Residential,2022-08-09,55691.02
+dfec6084-51bf-470c-b655-1091c5e02b0f,Pradhan-Gaba,West,Residential,2023-10-07,52100.32
+56f297cb-a4ae-4c54-a140-ad70fd27a3a6,Iyengar and Sons,South,Residential,2020-10-03,40673.28
+3f747bf6-a358-4e50-97dd-b54dc7b6da9c,Bhatt Inc,North,Commercial,2019-07-05,51371.67
+c3d9bf67-2e0d-4792-bdd1-83a9de852ca1,Saini Ltd,East,Residential,2024-02-08,29037.11
+9f2c11f2-41a7-4947-bafb-a4f79c1cd610,Gera-Tank,East,Commercial,2020-01-23,48990.17
+6eab5af0-1784-4db8-b9dd-f04692bd3a9a,Bahl and Sons,East,Residential,2019-05-25,48646.89
+7c23d289-db52-4ead-b158-81f7419dacc0,Ray and Sons,West,Commercial,2019-02-22,57207.63
+3e2df2a1-6260-4ff7-b35e-1bfe1fef23ac,"Sura, Sheth and Krishnamurthy",South,Residential,2024-11-13,42581.85
+933f33d1-434e-4c2f-b6cb-1b5191970639,Modi LLC,South,Commercial,2023-07-28,50584.69
+efc20bc0-2e1d-462b-a98d-3ed1bce7d281,"Dhingra, Kala and Pradhan",West,Residential,2022-02-27,55237.51
+b2089686-7842-4fb7-980d-2e0e1dfe80fd,Sen LLC,West,Industrial,2024-05-22,53104.47
+80970ca2-ed0a-4fea-baab-fba8671222a0,Thakkar-Butala,South,Commercial,2020-07-11,50050.06
+31285d21-7049-48a0-8691-dcc3d5e5108f,"Kohli, Sandhu and Bawa",Central,Residential,2020-04-26,59100.53
+5da5cfa7-f3c8-401c-8068-eb6ff8fe92c0,Agate-Vig,West,Commercial,2023-02-25,58005.55
+f6c9f72e-5369-4b43-a287-01d6aa6ffa0f,"Chad, Tak and Bhargava",South,Commercial,2024-02-14,38759.47
+f3e48aa8-3876-426e-9f4c-281eeea5432e,Menon Inc,Central,Residential,2020-05-13,42027.45
+7f2292ea-047b-4c6a-b4ce-462feb9b17f4,Kara Inc,Central,Industrial,2020-02-09,62394.54
+2b12c673-2808-4862-80ee-cac5f6388322,Sibal-Muni,East,Residential,2023-09-05,50696.13
+62446343-0e6e-44cc-a534-09388585432d,Pai-Biswas,East,Commercial,2023-05-22,61279.35
+1fbf1736-5230-4c8a-9e23-1f8502bfdf94,Kari and Sons,West,Residential,2021-08-06,51203.93
+6b2caf62-00e6-45c7-bc26-99940c04dac1,Chhabra-Nayar,East,Commercial,2019-05-02,62558.0
+2fdcbea7-62bd-497e-bafc-6737db8e5211,Chander and Sons,West,Residential,2024-06-27,60702.22
+f99324d7-5285-4094-903b-7bae254761a5,Natt Inc,East,Residential,2022-11-04,42831.62
+54b4a474-0b5c-4ccf-97fd-1d62dc02e832,Karnik-Narayanan,East,Commercial,2019-06-14,59867.26
+1c14c8e9-5ee8-47b4-8ea9-a5114df02bb2,"Uppal, Bobal and Patla",Central,Commercial,2020-04-18,50395.02
+f7ea8102-ac4d-4841-9c12-e3dc1be7b7e9,Sachdev Inc,Central,Residential,2019-03-01,45700.88
+e262c3ca-231b-4586-96d6-d68a047890d5,Ganguly Group,West,Residential,2023-05-14,47176.13
+7bca170c-c164-4fdb-b05f-d66e3cc33f54,Kalita-Hegde,North,Residential,2023-10-08,53622.66
+5135e888-5f93-4c6a-9845-f25ab72537a4,Gade PLC,Central,Commercial,2023-01-11,59810.77
+0b039fa3-8833-408f-845d-bf62c2b109b9,Mitra and Sons,South,Residential,2019-01-31,44160.23
+61b8f551-e0e0-49a4-8f98-ce30d78c145c,"Dubey, Arora and Balay",Central,Residential,2024-08-23,52694.02
+836c49ec-0981-4f54-97eb-f8f46e761cda,Prabhu-Mohanty,Central,Industrial,2024-07-04,53822.21
+d07385cf-10a5-4196-a19b-fd378f8220f1,"Sengupta, Ray and Zachariah",West,Residential,2021-02-17,57924.94
+044dcdcc-0594-4a48-9ea5-9d8717ff4f0e,Raman-Parekh,East,Commercial,2021-09-26,54879.38
+92d1b242-1265-4a65-b14d-0ace14bbfe5e,Lalla-Anand,East,Commercial,2019-12-05,33569.53
+10cbe1bd-bea3-4c31-b5dd-c3926a1a81eb,"Ahuja, Kala and Chaudhuri",Central,Residential,2021-12-13,46717.04
+1c88e6ea-36f0-40a2-8ca1-148e81be2cc2,De-Seth,North,Commercial,2020-05-19,44368.15
+d1d9ee94-03f1-4d7d-9a7a-399a7d002b2a,Jain-Dar,West,Residential,2021-10-05,47993.4
+9267c20e-9dbd-442b-ab74-43bfb1a6feda,"Iyer, Chahal and Choudhry",East,Residential,2020-05-04,55671.83
+83371e86-6c21-42fd-a67e-f004c622639d,"Bahl, Dubey and Varughese",East,Commercial,2021-03-14,63429.16
+3961e77c-6b0c-429b-89b7-3a8c96820b2a,Zachariah LLC,East,Commercial,2020-03-29,54560.56
+b70139b6-e9f1-4b37-95d4-8fe879973697,Walia-Dhingra,South,Residential,2021-05-07,52167.87
+7c0296b6-8a37-42f0-9129-1b885cf72521,Chowdhury-Mishra,Central,Residential,2023-09-25,43916.86
+8765bd98-49c3-4aab-bfe3-9555b45157ad,Raja PLC,Central,Residential,2019-07-23,39112.37
+0cf828b3-043d-42be-8c46-f243b2bc1884,Bhandari-Uppal,Central,Residential,2022-08-16,44053.19
+ddf146ef-5c03-4a45-a53a-ed39dfb74835,"Sekhon, Rama and Comar",East,Residential,2022-03-14,62628.87
+b5f763ad-d9c2-455f-8387-7757faddc182,"Sehgal, Raghavan and Sengupta",West,Residential,2020-07-15,52885.04
+a2a021f1-810a-474e-8535-0ab0ce43fd35,"Kakar, Bhakta and Bahl",East,Residential,2023-08-19,53670.09
+4b4a69d7-3836-44de-9c68-bbf2b8a24013,Wali-Chaudhary,West,Commercial,2019-10-20,42716.14
+a96128bb-d56e-4a9b-b298-0960013f84b2,"Natt, Chokshi and Saraf",East,Residential,2021-01-05,54779.21
+8c88758e-7c7c-417c-a34f-f577b95a045b,Ahluwalia Inc,East,Commercial,2021-11-05,34927.07
+f3b8f8a4-aa58-48b6-8104-843a564e819a,Bhattacharyya-Karan,Central,Residential,2019-10-03,49527.61
+21a0792b-2037-4e17-8126-cbf93d07359d,Das Inc,North,Residential,2021-08-05,46718.77
+e46bef90-1b2f-4def-a2ba-88133de6fde2,Natt-Natarajan,South,Commercial,2020-12-13,58260.93
+0b575a77-a240-4f0f-8e64-c799a415d92c,Kade Group,North,Residential,2019-12-22,53177.26
+b351e8d7-1a01-4c7c-a8bb-e1ef62439951,Oommen-Palla,South,Commercial,2019-04-26,57916.18
+00466f52-bd90-4788-b25c-e70bd173097c,Chahal Group,East,Residential,2023-02-01,55352.55
+14c2e9eb-189c-41ce-8ca1-ffa3d2c18206,"Mallick, Puri and Rau",North,Commercial,2019-12-29,43766.73
+b28ad01e-378d-4e96-8346-d751a03c95e4,Subramanian Ltd,South,Residential,2021-12-17,46228.97
+7293c7f2-126b-4b64-811e-e30028a19de2,Balan Group,North,Commercial,2020-01-08,55448.79
+5c1bfd55-af7f-41e9-abe6-59541a98e0b9,Arya and Sons,Central,Residential,2021-10-16,57277.83
+7a200a68-a5ca-45c3-8b78-5e0d9142bb90,Sami and Sons,Central,Commercial,2021-08-28,62225.21
+29333f93-f892-44e3-a2c2-3f0ab6be8b7d,"Sibal, Devan and Dey",East,Residential,2022-04-03,45707.83
+497b9c06-16c5-499e-a59f-14bcb6f9d016,Yohannan-Roy,West,Residential,2021-01-13,42351.19
+dca5c5f2-9732-43e2-8d69-76c82557a700,Choudhury Ltd,West,Commercial,2020-12-25,68250.52
+8b238d31-b2a8-4057-a111-442927b48926,"Sundaram, Loke and Badal",South,Industrial,2022-08-30,48387.03
+9e33c994-c0a0-4ba1-8aa5-da555ae54856,Dyal and Sons,East,Commercial,2019-09-16,35386.82
+6873ef96-fa68-42db-b0ad-f31c1a9551cf,Sahota-Lalla,West,Commercial,2022-03-06,58022.02
+3a9f29c3-5c8d-4b59-8f60-c625f5026293,Banerjee Ltd,Central,Residential,2020-06-03,47640.36
+a940ca4d-b986-4b97-be04-aca8af56e57b,Kar-Srinivas,South,Residential,2021-08-22,37168.42
+6a1c8084-c3a3-4942-b633-8eae8a597f4b,Reddy-Kapoor,North,Commercial,2022-10-26,53074.41
+20e32d87-e397-4999-911b-e0309f900934,Subramaniam Group,Central,Industrial,2022-10-11,59763.84
+70f14e5a-226b-4e06-9d6c-44ec1a49a9e0,"Palan, Batra and Sengupta",East,Commercial,2019-08-01,54601.82
+87d07d11-1c5f-4c63-91bf-5c07bd64e1ee,"Palan, Lad and Bhattacharyya",West,Residential,2021-10-17,64213.5
+ff81e47c-299a-4f74-a7cd-43d8d15ba5f5,"Gulati, Datta and Barad",West,Residential,2019-08-04,40613.64
+a2154d5c-4e56-4743-8180-0fab607018b3,"Kurian, Mammen and Oommen",North,Residential,2020-05-28,50420.41
+86565ab0-a8fc-4ed1-b014-f47073a3cb6a,Radhakrishnan-Kalla,West,Residential,2019-03-25,52474.23
+67c1c051-8a90-4078-81c2-3d4a3b49f1c4,Krish PLC,West,Residential,2019-07-26,61555.53
+e26a205e-8301-4fb1-90e6-8fc80ca5bf29,Hora Group,West,Commercial,2022-05-23,53326.21
+ad89b138-1580-4f66-a9db-f70d29b4cdf4,"Choudhary, Chana and Deo",South,Residential,2022-07-28,50288.91
+28b32dac-8245-4791-aa27-d087412549a3,"Bhatti, Varkey and Nagar",North,Industrial,2020-09-21,50411.22
+0636d6e2-8e67-4830-af48-c7e4b73078fb,Mohan LLC,West,Industrial,2021-10-31,52208.4
+1ace03fc-4a17-46b2-b4a5-00e40fe6eb26,Muni-Bahl,East,Commercial,2023-03-26,63053.45
+4d6872b7-ac04-4660-99a3-b1892ca60858,Ray Group,North,Residential,2019-11-08,59175.8
+90de08d9-ff20-4ff6-b6ed-c6d295c598cb,"Nazareth, Tank and Dada",Central,Residential,2024-08-14,52931.03
+95c7133a-326c-4b71-8182-9e5341a18a70,Baral and Sons,East,Residential,2023-02-16,49270.25
+b1a2bdaa-9dcb-4db7-a691-131e2f477ae6,"Naik, Bhatia and Chada",Central,Residential,2020-03-26,48444.53
+36b1c007-0687-40a5-8ca2-88ecf1138697,Korpal-Sangha,South,Residential,2022-09-05,59707.51
+29e60351-f37c-45f7-8a5b-6bd56e9ac18a,Sagar-Kade,East,Residential,2023-07-05,39605.65
+ea5a8b61-2872-4313-b400-76e3a70393f1,Raman Group,South,Commercial,2023-04-16,61009.87
+45c0e107-2f47-407c-a69f-db1d615e2b03,"Uppal, Krish and Bal",West,Residential,2020-12-19,66498.67
+e91de1d0-749c-4b28-9d9b-a82fd8012ef5,Sarma Inc,East,Industrial,2022-07-24,60648.03
+bf50fda4-cd17-4dc9-b0a3-2161f289f262,Suresh Inc,West,Commercial,2021-02-17,40302.62
+a1240c2b-0999-4ea9-9e91-80bb4c75f5ed,"Chand, Raju and Lanka",West,Commercial,2021-07-26,34083.28
+9fbde533-3014-4607-8f4b-7b3f6d9d646d,Sethi-Mahal,North,Commercial,2021-07-25,51732.01
+4f39ae70-0148-43fb-8912-7aa795373c92,Jhaveri-Sibal,Central,Commercial,2024-02-29,61924.81
+63cbe2a8-aef1-468b-8440-ae5e5517a4df,"Oak, Srinivasan and Kant",South,Commercial,2021-03-03,40724.66
+036f9638-5bb8-4cb6-a013-6e27e08ef2e5,Chadha Inc,East,Residential,2022-12-13,69545.09
+cd9cae06-6744-4734-9508-12714b45aaf2,Brar Group,North,Residential,2021-03-15,69067.02
+04136799-d5dc-4dec-b13c-5544c5ec0836,Chad-Chaudhuri,South,Commercial,2023-02-27,33247.33
+868a7f4c-6b25-496e-a0fd-169f61713a59,Kala-Naidu,Central,Residential,2023-01-12,57438.25
+ac6dc423-158a-4588-b3dc-0baeef802790,Krishnan-Basu,West,Residential,2019-05-13,46050.53
+d01d3526-f53a-4051-9e3a-a659ca2aa8c1,Batra PLC,Central,Residential,2019-03-23,41743.01
+d5fcae64-c979-41b6-9801-602feed24296,"Butala, Soni and Datta",West,Residential,2022-06-21,45352.17
+4dd74e9d-5e7b-45a9-8a1a-c6b54ae73c49,Dutt-Puri,South,Residential,2024-05-04,56544.98
+38fc0422-d442-4626-ba8c-4e181dcc3ccb,Padmanabhan Ltd,East,Residential,2021-10-14,49821.28
+7703a15e-baf9-4e69-b63f-032d710584b5,"Char, Bala and Muni",West,Residential,2019-11-12,48924.63
+a1c93cd2-76b7-4a16-bb87-91cc03af8d37,Madan PLC,Central,Residential,2020-04-03,58117.48
+1e16865a-ed2b-499e-8b25-60282e144d1b,Soman Group,West,Commercial,2019-06-24,55594.3
+af37febf-17c3-4697-b578-fa2ad390cd1c,Ganesan-Sundaram,North,Residential,2023-05-08,47846.12
+c83e1a51-9edb-4c6e-af28-18157c0faedf,Lata-Gupta,North,Residential,2021-06-24,51276.44
+8782af75-21cf-4a79-bc29-cb5fc9acce9e,Joshi-Jaggi,South,Residential,2019-12-01,53790.91
+50f228c2-5909-4296-9c85-8c7777cade3c,Raghavan-Narula,East,Commercial,2024-12-01,60380.8
+2e725f7f-9c6a-4145-adcc-fe9f748eb324,"Roy, Parsa and Lad",South,Commercial,2019-10-28,40308.12
+f3e493e1-da38-448e-b947-f08831c9ab8c,Bala Ltd,North,Residential,2020-09-23,38234.51
+1f1cee7e-158f-4c91-89b1-bc32193239b8,"Sridhar, Palla and Chowdhury",East,Industrial,2023-09-21,58521.44
+fe271d1b-f5c1-4a8b-b1a1-3f2b1e4c0232,Barman Ltd,West,Residential,2024-10-11,37736.54
+2ca9b4ba-915f-40c0-87fc-e69ef4552538,Bandi-Badal,West,Residential,2024-02-06,50331.28
+1cd694c8-5a0f-4263-a0e1-fa4ba2da2345,Bhalla-Wable,North,Residential,2024-11-15,44191.92
+7c7ee94d-1989-45f1-9cfd-350c9147f455,"Malhotra, Sinha and Subramaniam",Central,Residential,2019-04-10,33620.34
+3bdb2d3b-abef-4cce-947f-b6aa47d24044,Garg-Saraf,East,Commercial,2020-12-11,63445.26
+e56315de-1a90-4c1c-bb47-ea8dafaa0a60,Kar-Chokshi,East,Residential,2023-09-29,46572.57
+4ef8e94d-8e40-47ab-aaa2-33bc26a291ae,"Gandhi, Atwal and Garde",Central,Residential,2020-08-01,44142.49
+4d5f0089-db76-48ef-b995-58e59219e914,Doctor-Natt,South,Commercial,2019-01-16,47535.51
+309a9680-ffe6-4deb-8839-5ec0c51d0532,"Atwal, Bhargava and Ray",South,Residential,2020-03-04,66188.99
+b813eb0b-741f-482d-8fcf-6afa2611bf53,Rai Group,South,Residential,2020-01-05,47733.07
+bee7ffc2-ef58-40d0-bc7c-4e33a8fc4003,"Chaudhari, Issac and Saran",South,Industrial,2022-04-27,53287.84
+f738aeaf-7b78-4275-a7c4-bd260befddc2,More and Sons,Central,Residential,2021-08-05,38941.29
+0104c907-e459-4c95-8882-96a2a400d500,Gade Inc,South,Residential,2022-07-31,41673.06
+e2e847d9-af7f-416e-b078-5f784bef609a,Rajan Ltd,South,Industrial,2024-05-03,46589.74
+af9824cb-6c05-47f1-9ac5-c802fabd1ce5,Sami-Muni,South,Residential,2023-08-03,53376.37
+6cfdf538-06fc-411d-9528-7d68fe9a0443,Ganesh LLC,East,Residential,2023-06-10,49002.84
+486d5b2f-bfc6-4a54-9d6e-c471180ef7c1,Kakar-Shankar,Central,Industrial,2024-12-16,54991.26
+b5f2accb-d13f-4e0b-97f9-95484a02743d,Vyas and Sons,North,Residential,2021-11-27,48219.39
+e17f3079-3260-418f-9678-70e0812ff095,"Kunda, Korpal and Nath",North,Commercial,2021-11-10,47849.87
+92fc059c-5363-4b09-8d85-cd4e3f3cc9a5,Din-Chander,South,Residential,2024-08-01,50089.92
+4e858d60-fc19-45ba-bdc2-15f55c8aa405,"Oza, Dhawan and Mannan",West,Commercial,2022-06-10,56710.53
+a3101642-4288-48d9-8936-2e78a96ede05,Samra Ltd,South,Residential,2022-08-12,59059.77
+39c9014e-587f-45c4-b2e7-241388e16158,"Ganguly, Ratti and Sane",East,Commercial,2021-06-07,40673.46
+d1055747-c16e-47f7-8f4d-df7c90a43ad6,Cheema-Kota,South,Commercial,2019-05-06,51919.8
+46cf7aca-6be7-4640-9ac8-d5172ad2897e,Sarin-Master,East,Residential,2023-08-06,44782.18
+b41bea6b-38e5-4f62-883d-4daddc622618,Bhargava-Anne,North,Commercial,2023-07-25,54100.77
+ed13477f-aac0-4a8b-a1b6-346dda3c3769,"Biswas, Gour and Rajan",West,Residential,2020-06-15,71779.31
+4a584216-e455-4f2c-bec6-c0a530c29289,Chopra LLC,North,Residential,2023-06-15,30173.71
+ef8155f3-0710-4dd8-a60f-acf98b31e869,Taneja and Sons,West,Residential,2024-09-07,35487.0
+a2ad2bbb-8586-4f36-996f-64f5b20f69df,"Toor, Divan and Lal",South,Residential,2020-05-08,54861.12
+c4fbfdd1-e0ea-4349-a5e6-f3a7b5b03549,Bandi Ltd,East,Residential,2019-01-30,29369.81
+b1ef9532-32ef-4a1c-9f95-40a0ea64b6ba,Saraf-Dugar,Central,Residential,2022-12-18,45020.18
+eea909dc-b930-461d-ba45-4c1ef2a90b90,Nori Inc,West,Residential,2023-07-22,44925.45
+3aab58d9-f355-486b-9470-b2b952cd3cd3,Mody-Dugar,West,Industrial,2024-12-30,46523.38
+b42e8ee1-7616-4e9d-a6cd-f59b547727c4,"Loke, Dua and Sahota",West,Commercial,2024-10-25,58925.85
+729029a2-fbcf-4e86-ab31-105314e67b69,Krish-Joshi,South,Residential,2019-11-20,79245.89
+f2718d08-1901-4e83-9846-73baa2a75b79,Loyal PLC,Central,Residential,2022-09-30,55286.68
+eccafb63-c6b3-462a-911b-c0730af30385,"Gola, Som and Lata",North,Residential,2019-12-20,49608.84
+0c1fa4b4-3903-4bf0-a5d7-79a0fb6691b5,Dash and Sons,Central,Commercial,2024-07-18,51110.5
+fca99480-90bf-40ab-8f12-13f24636ade8,"Vala, Yadav and Tella",North,Residential,2021-11-18,55052.3
+31d7d967-5d1e-4810-9f07-39b29e4b6800,Pant-Deshmukh,South,Residential,2022-12-29,51738.07
+08187b3e-cc8f-4ec1-93c8-8a7c9224c299,Ramachandran Group,South,Residential,2024-09-26,51902.84
+48a020f7-9169-42cc-b1cc-65be19e4a246,Sekhon PLC,North,Commercial,2024-08-26,53991.32
+92b53af4-d7c2-40eb-bf85-95ad85ee2cf3,Khurana-Thaman,East,Residential,2022-11-28,41347.32
+908a7eae-21af-4e5e-968f-94e34a355758,Contractor Group,Central,Industrial,2024-06-07,54122.35
+0b9ebcc0-4d9d-44f5-b65c-4cb6c40f0869,Kapadia Group,West,Commercial,2022-06-23,47434.74
+95945eb1-8267-4602-9bc6-8cfc1ea1600c,Trivedi LLC,South,Residential,2024-09-30,50102.69
+adc8c428-0c6b-451a-8877-424e1a346e56,Dutta PLC,Central,Commercial,2019-08-24,38361.99
+816a92e8-1acb-4c8c-8b36-7492583d7284,Barad-Bhatt,Central,Residential,2020-08-18,54769.22
+a7086576-8d31-49cf-8eaf-0a24cbca4225,"Sathe, Wason and Hari",South,Commercial,2023-05-28,35744.02
+732caa42-4e92-4621-b7e2-4e1d2f864929,"Thaman, Chhabra and Narain",Central,Industrial,2021-08-15,27950.02
+ffa262c3-c655-4964-9ce1-a787aab7264c,"Mitter, Iyengar and Rajan",South,Industrial,2024-11-20,54014.75
+ae86d9c7-e157-45e7-9a3f-4d1b9c4edef8,Chadha LLC,Central,Residential,2021-12-30,50952.54
+3540de1e-1d86-410c-861a-3929c2cc66f7,Chawla Group,South,Residential,2021-10-05,52884.53
+6a9030ea-7b70-4c6e-9122-cfe7e879f033,Khosla PLC,West,Residential,2019-06-06,47797.94
+3b45818c-cf9c-4382-bea6-657e0a2ab6fd,Ramaswamy-Savant,North,Residential,2019-01-24,52434.36
+2de6b0d4-53a0-4c07-9b2e-a5a487653564,Jaggi Group,North,Commercial,2022-02-01,54939.01
+c30bd018-7daf-412a-8847-3291cba87f57,Lalla PLC,Central,Industrial,2024-10-23,43010.06
+23891aa5-f3cf-4cb0-b58c-b224b9f86ad6,"Raj, Chaudry and Bajwa",North,Residential,2021-06-29,69069.97
+bc912395-a092-41f3-afef-7b74cb166183,Banik Ltd,East,Residential,2022-03-17,43669.98
+c4868994-c9f7-431b-af43-7d878109ad1b,Bera LLC,Central,Commercial,2023-11-26,41203.63
+8e04e6ae-e182-440c-8ce7-3fb009a11dd7,"Bains, Pall and Purohit",East,Industrial,2020-06-28,59804.8
+b7502164-abdf-4681-967c-b9d7c9deefac,More Ltd,North,Residential,2022-02-02,68514.26
+03319e42-3a2d-4974-b977-6bfd8eab9c85,Devan Ltd,East,Industrial,2020-02-25,55621.29
+9ecee20d-d87f-4472-9b43-8d05fc5a1123,Wali-Vig,East,Commercial,2023-02-02,41486.77
+1ada7cff-92c7-4fa3-a494-f370bd459ed9,Palan-Bhavsar,East,Commercial,2024-09-02,48540.66
+13dcfa34-f80b-4b9c-89d7-f5be9bcf74c0,Ghose Ltd,East,Commercial,2024-10-13,46683.83
+da85a4a5-b0a8-4845-b9fa-4888ecde81bb,Chakraborty and Sons,West,Residential,2020-01-11,60770.85
+60af6652-88f0-41c2-9226-4f766971c283,Divan-Mahal,East,Residential,2023-11-05,34010.88
+7678b339-8d4c-4b5f-adb0-18f01adfc4b1,"Ramakrishnan, Deo and Varughese",East,Commercial,2022-11-14,69437.69
+237013ae-033e-4752-9e85-0dc416206667,Kaul Ltd,South,Residential,2022-06-10,37817.94
+c26149ae-f725-4966-9d48-fc2ee73ebf66,Prasad Inc,Central,Residential,2020-06-23,61839.42
+2a1b34b1-68fb-40cd-b870-d30fe2ded896,"Kota, Natarajan and Chakraborty",East,Residential,2019-06-16,52172.89
+f3ccab16-4c18-4f1f-ae9e-161f975bc03e,Mistry-Bera,North,Commercial,2024-09-02,56850.44
+302b5cc0-ebec-4181-ba30-0fee592c2e6a,"Mitra, Bail and Sodhi",West,Residential,2024-05-21,53230.5
+a8f2c47e-5bf3-4340-a07a-7c6e50870afe,Sura-Edwin,Central,Commercial,2020-06-05,54685.32
+11c4fa83-ccba-40f5-bfaa-749fc22bda08,Sunder-Saini,East,Residential,2022-07-08,65625.75
+49b0928a-be47-4742-9c9f-97c3e1e66ae6,Dhar PLC,South,Industrial,2020-12-09,50944.85
+ae2c99c2-6c12-4c13-9872-dedfce050358,Prakash and Sons,South,Residential,2022-01-22,43466.93
+6beecd29-7553-4f2c-becb-54b03c6c211c,Warrior PLC,South,Residential,2024-11-02,47292.81
+11e4298f-22b4-4f33-a2db-5059d7d7d1be,Badami and Sons,Central,Residential,2024-07-25,54665.09
+5fe907ab-f48e-4308-8c74-9b33866c51cc,Dutt Group,West,Residential,2021-01-31,47171.47
+925e2675-571d-48fd-b5b3-9c6603d6e6c4,Hans Ltd,East,Commercial,2024-02-29,40029.05
+a8b4ef77-64cb-400e-9a1c-7c7a612150c7,Pingle Ltd,Central,Commercial,2022-06-28,53403.71
+f3aacab5-2fdb-4662-a7c2-6c5c74e917fe,Bhardwaj LLC,Central,Residential,2019-02-16,65956.34
+4feaffcf-57ff-45eb-8120-197cc1599c6a,"Padmanabhan, Comar and Tiwari",West,Residential,2020-07-06,49751.35
+23780699-ce54-427b-a826-f69d8e494584,Morar-Rattan,Central,Residential,2022-08-16,51896.95
+a11f0989-cc40-423f-8e6f-0a27d4e8db5a,Rama Inc,North,Commercial,2024-09-10,54322.39
+dde53ebf-b87e-4d3b-8e74-e9f7955e9018,"Hayre, Mahajan and Bhandari",South,Residential,2020-02-25,47520.58
+5505b42e-330b-4268-ad5c-3e5dc1147251,"Merchant, Bhakta and Johal",West,Residential,2021-01-29,49395.1
+6223de06-c924-45cf-9f83-90c7811fd0fa,Mangal-Jha,South,Commercial,2022-08-13,65440.58
+61bd4f72-2423-4cdb-8ee0-b0577d9793e0,"Garde, Lal and Garde",North,Commercial,2023-11-02,50117.63
+80bfd4f8-0397-489c-bdfe-d18700ef2c6c,Om-Pal,West,Industrial,2023-11-12,33555.16
+29fb482c-75eb-46e8-a620-e9a3dab06807,Patla-Dugar,West,Residential,2023-05-04,66582.58
+594f2144-8fc3-4037-b6af-ccff05051c2a,Patil and Sons,West,Commercial,2022-02-12,40150.69
+5c9963ed-f7ba-4c38-a857-2bdf6f66d7cd,"Kaur, Upadhyay and Naik",South,Industrial,2024-02-07,60491.4
+2553f041-62a1-495b-9708-2049b0888e37,Bakshi PLC,East,Residential,2021-03-08,57246.74
+51eab8e8-4845-406b-b33b-5d81947982ab,Nanda-Rastogi,East,Commercial,2020-02-19,46853.41
+14ae4d65-5e12-46c1-9d0c-3ed9663f5229,Hegde-Golla,South,Residential,2020-12-27,56947.2
+1aa46538-d826-4c1a-b52d-2e0dfba1b797,Ramakrishnan Ltd,Central,Residential,2019-01-25,36831.68
+f98fa742-e61c-4eb5-872d-6253fe8d30b5,Sachdeva-Narain,Central,Residential,2019-05-13,57507.88
+816dd18d-3333-46ed-8aa0-78dd81e30b15,Babu-Chaudhuri,West,Residential,2021-10-21,53509.5
+d121d9b0-dfda-4090-acac-ac4deccca99e,Pai LLC,West,Residential,2020-02-09,48278.31
+a197c325-8d59-4ae2-8f32-1c42cb97979e,Gaba-Sarin,North,Residential,2020-05-11,47358.55
+6413cee3-16b8-44b1-9154-25fa76fbeb0c,Devi-Khare,Central,Commercial,2020-03-13,60697.27
+d68f9804-fdb0-44e2-b09c-8a2e3c2c4fc6,"Ben, Anne and Zacharia",North,Industrial,2024-04-11,55022.07
+2c1b6265-0c70-4cce-944c-e16fdc3a8097,"Devan, Sule and Misra",West,Residential,2020-01-17,55682.78
+e3912fa9-48f3-4acf-b8c0-1632cceabe2d,"Nayak, Misra and Panchal",West,Residential,2021-12-27,29104.46
+5aaa9ba7-c892-4969-b0a3-81ef72d12bd1,Kulkarni and Sons,North,Residential,2019-07-12,46717.97
+5d998011-2f61-4f14-925f-3815418a8b5f,"Raval, Dash and Tata",South,Residential,2023-07-04,36815.67
+64e48a15-3c84-412f-856e-adced6116dbc,"Boase, Bal and Bail",East,Commercial,2023-09-26,55096.38
+4b17b4ce-5ff8-4847-92c4-86952d7e77a2,Kant-Seth,North,Residential,2022-04-15,44509.6
+49070244-13bd-4b57-83d5-4d8cc4262e07,Minhas Ltd,South,Residential,2023-11-12,48261.17
+bb022f98-8c57-4f12-8bad-1ae6c948149a,Karan and Sons,Central,Industrial,2021-08-02,41949.89
+09aacd04-d36e-41ad-9bc3-94e1ddacd2c1,Grewal PLC,East,Residential,2020-02-28,63081.5
+02551ac7-0bbd-4004-bd18-21c7005714cd,Vyas-Murthy,East,Residential,2019-02-21,71533.19
+5ba0318a-98b5-487f-bee4-6b58777cb4e6,Sarna PLC,West,Commercial,2022-02-24,45659.33
+b67cca46-8703-45d7-b6c3-654b55ade626,Dutta-Brar,South,Residential,2019-04-16,52799.28
+f3e29011-a66e-43ff-ae7c-a005b9ccebf5,Bhagat-Dalal,South,Commercial,2024-02-04,44229.78
+44e060c7-a7fe-4b87-aacb-c8488f6b51d6,Korpal-Ganesan,North,Commercial,2024-06-29,49002.67
+a5710b38-7363-4e6d-9b53-72778d15dad3,"Deshmukh, Dhingra and Rai",South,Residential,2022-11-08,71269.1
+3f0c7816-08d0-4e8f-a94d-4012b7cb0ef5,Kala-Garde,Central,Commercial,2023-12-02,42456.03
+3c3bf9e6-5c4d-4981-bcb7-99aeb56b08ef,"Vaidya, Dalal and Sami",North,Residential,2019-01-06,47389.99
+c6ac11e7-c516-4bed-b355-a330176abb0a,"Ben, Kakar and Seshadri",South,Residential,2022-01-24,52544.95
+043510de-b228-44ad-aef7-8407cce1dd3f,Batra-Deshpande,Central,Residential,2022-04-13,48308.68
+e6a48f22-0e77-4668-b0be-4eff316e2f67,Dar-Mutti,West,Commercial,2021-10-05,66206.28
+59b4bad4-ecfa-4d09-bb5a-70be7925f354,Shankar LLC,West,Residential,2024-11-10,44440.03
+5cbc23a5-a691-4e40-a2e3-5a14af0694f4,Goyal Inc,Central,Residential,2019-08-03,33957.69
+32a13e43-4416-4de0-be44-cc1fa4a79e45,Borra Inc,East,Residential,2023-01-31,55718.74
+f6d2be9c-ddb4-440d-8000-04b5aeb2ddf1,Viswanathan-Aggarwal,Central,Commercial,2021-08-06,56165.4
+e261f594-7eed-4c60-90ee-4a584907630b,Hans and Sons,West,Commercial,2019-09-12,23895.08
+0c83340b-18a8-4686-b25c-a2f70020edd6,"Dhaliwal, Batra and Raval",North,Residential,2024-10-15,50556.73
+d36360c6-c359-4f8a-a671-d94af01b7868,Karnik Ltd,South,Residential,2023-07-24,39313.93
+79e6c5c4-cb2c-4fac-9cb8-a231997ae162,Saraf PLC,South,Residential,2021-07-09,62986.6
+1e96c37b-41d8-4f2a-ad14-87ddd401adb1,Baria-Shroff,North,Commercial,2024-06-14,36361.64
+2d1946b2-54ff-4253-9002-25fd0f0bafdb,Shankar-Hans,North,Residential,2019-02-25,42815.67
+2857c2a8-af3e-4412-8c38-39f9e9d4d012,"Brahmbhatt, Grewal and Vyas",South,Residential,2021-12-12,32100.77
+f39a654c-5929-4151-8a2b-cc013f7f130c,"Bhagat, Garde and Ray",East,Residential,2019-10-03,40819.07
+ef514904-f571-4898-88fe-141767758687,Sarraf Group,North,Residential,2024-09-16,57835.04
+1f607b4f-fc4f-4454-bb96-201bbc243db3,Contractor-Jayaraman,North,Residential,2019-08-03,57428.33
+f796f656-3967-4bc5-8c5c-9c62ac301c7e,"Chand, Behl and Dara",West,Industrial,2022-12-26,52164.03
+6336a701-0245-4506-b779-08c207f84e42,Mangat-Ranganathan,North,Residential,2021-03-21,30897.86
+ceae6230-525a-4665-bc05-4eeda3b4647b,Mane Group,South,Residential,2020-04-05,48353.27
+acf36697-5a9c-4c7b-a062-894d5822afa8,Kaur-Parmer,Central,Industrial,2022-12-25,49097.93
+97e5beee-65a3-4239-88c0-d99a141a40eb,Merchant-Yohannan,South,Residential,2022-11-13,48971.74
+fedb4548-9f93-47db-beca-493dc93d804f,Varma Group,Central,Residential,2024-12-05,42393.45
+c5176362-3991-4dae-94d9-1d2d76a1f55e,"Soman, Thakkar and Memon",South,Residential,2019-04-06,53313.32
+6d062d62-1fb6-4aa3-9485-7bbab6cf6937,Mahal Group,West,Commercial,2022-08-31,47105.44
+384dcebe-1c69-4ce1-8284-84954b6aca00,Dutta-Shroff,Central,Residential,2024-12-29,32726.94
+e9e4d33f-5ac4-48e3-ba25-20d7eaab2540,"Nazareth, Cherian and Chaudhary",Central,Residential,2020-04-02,24302.94
+61de16d3-8a33-464c-a43b-b423852efbcd,Dhawan-Barman,West,Commercial,2019-09-16,45201.97
+d7003f92-c4cb-4269-b105-1a56d8c8185c,Malhotra LLC,South,Commercial,2024-01-04,51795.8
+4c5235e6-3d6c-49ae-96ef-ecf3ce03d7ac,Loke-Patil,East,Commercial,2024-08-05,35259.96
+1697e723-0dc1-4eb3-ace5-e4e7eda48593,Natt-Bawa,North,Commercial,2023-10-19,37609.75
+6d1bc7bd-dd5c-4dd3-8c1e-671017fd89d1,Cherian and Sons,Central,Residential,2021-12-19,57020.84
+07b26049-a2f5-442b-bcd1-f484f0bc637b,Pant LLC,Central,Residential,2023-07-27,53627.45
+e50d5156-6c56-4b7e-8faa-8ed807a09206,Chokshi Group,East,Residential,2020-01-12,64404.24
+0b3989c7-e687-43b1-9f86-a6b084021212,Pandey-Andra,West,Residential,2020-08-31,56965.13
+589f0118-e024-4f9a-92b9-4de0602824f8,Mutti PLC,North,Commercial,2020-08-02,55967.05
+f78977fe-2c76-4af5-9697-26be53a76069,Dyal Inc,East,Residential,2021-08-03,53084.66
+9be6c579-5e92-40d9-b133-54655dbf258b,Rajagopal-Choudhary,South,Residential,2023-03-06,76190.86
+3bc41ac0-e2bb-4b69-9f35-1641129ab18e,Atwal-Chakraborty,North,Residential,2024-09-15,50003.38
+3aebb3cd-5d87-491f-b6fd-ccf2f92ee231,Sem Group,South,Industrial,2022-04-18,47370.36
+7f89a319-f1ec-4efb-8dc1-e0ab95bdabee,"Atwal, Chana and Rastogi",South,Commercial,2022-07-09,43308.6
+5eab109f-80f9-4bfb-bd19-f2400e9ad661,"Bhatti, Anne and Hegde",South,Commercial,2024-06-09,48320.81
+7052069f-4409-4961-8b5b-e8a6e07ea4d8,"Narayan, Bhavsar and Dhar",East,Commercial,2021-04-16,62794.88
+7f73b7ec-5042-4282-a2da-31bb841f0423,"Lad, Kala and Mitter",West,Residential,2019-09-17,51866.03
+6d8775c4-6c21-4a5e-b6fb-8f9cee133d1f,Vala-Ramesh,South,Commercial,2022-02-16,25893.11
+add12194-1c97-4d31-9941-bdbc79c9c7f9,"Barman, Kapoor and Oommen",South,Residential,2020-11-05,53538.74
+d502e735-8148-4e13-8f51-e0c53f9e3f8a,"Mohan, Raju and Goswami",Central,Commercial,2022-08-28,49691.52
+2934c489-fcb1-4b1f-ae48-5c9ca33ab8f2,"Setty, Narayanan and Radhakrishnan",Central,Residential,2022-03-02,59130.47
+fd90abaa-3ff6-4753-bdb1-190d4e03b3e1,Badami-Sheth,Central,Commercial,2022-12-21,54797.15
+674e8311-6cc5-4f03-a921-526186733611,"Dayal, Grover and Wason",North,Residential,2019-06-18,48196.11
+ceddd6b3-408e-441b-a98f-0b30d33fae47,"Khatri, Ahluwalia and Biswas",North,Residential,2020-08-04,55854.36
+1dd2b2e6-ef44-4823-8a4b-ea596b0a6d8a,Kalla-Subramaniam,East,Residential,2023-04-25,40399.62
+66a86339-ba87-4e89-a25c-a0fb1c1395d6,Wadhwa-Kakar,West,Commercial,2019-10-04,56981.99
+d3c5e94d-c2a5-49cf-bf31-58278eea4c32,"Datta, Kapoor and Kashyap",South,Residential,2024-09-26,41782.21
+427220fe-9fe7-40ce-b8bc-1391aa2b500f,"Mutti, Nadig and Sarna",Central,Commercial,2022-12-15,51701.15
+44ba04fe-9874-4b82-b528-cb37202d0d9b,Chada-Chhabra,South,Commercial,2022-05-23,30822.89
+8cc4303d-ebc7-478d-a916-42f6b853746d,Shere-Khanna,South,Residential,2023-05-03,34492.76
+e8a2de77-4267-40c4-9a1b-bf7840dd44b0,"Venkataraman, Dhillon and Bhatia",South,Residential,2022-05-05,51019.25
+cba65bad-1923-48ca-a349-935ca63d7220,"Jhaveri, Barad and Thakur",West,Residential,2019-01-01,51071.21
+6a958e59-f9d7-4eec-b82e-ae994547b7bc,"Swamy, Samra and Lall",Central,Industrial,2021-07-08,51946.58
+7b8b3014-26f3-41e2-a723-98f3ae37731a,Pall Group,West,Residential,2019-06-29,47469.67
+34916ca4-cb11-44fc-9629-71251c73dab3,Soni-Naidu,Central,Residential,2022-04-18,52590.96
+c6ec79d2-25a8-4848-8516-767beeb37984,Banerjee LLC,North,Residential,2021-11-05,59420.33
+a13a41c3-b2bc-4fe7-9d13-9fca53b181f3,Wable-Gokhale,East,Commercial,2024-01-28,59979.78
+e1a38f02-efbb-433f-a83e-1a4dc675de0e,Saxena and Sons,East,Residential,2024-12-06,44176.09
+f26fc21b-483c-47f8-b97d-dda7dda8b8f9,"Loyal, Sharaf and Iyengar",Central,Residential,2020-09-09,50692.31
+e9ca0ecb-d975-4a4e-9f41-1089e1af68a1,Choudhury and Sons,North,Commercial,2021-02-10,39678.04
+09c7a843-9bb4-4680-863d-98ca3880f6c9,Chanda LLC,West,Commercial,2020-10-14,46354.28
+267aa8b9-9af8-4cb9-86ae-b3604609a82b,Peri-Jayaraman,East,Residential,2022-06-09,55676.05
+37987e5b-7fe8-4e10-9b38-9a1f6363e910,"Doshi, Dubey and Chaudry",South,Residential,2019-12-16,41251.07
+2fb5d177-e952-4bdb-a417-a027c6355972,"Solanki, Sarma and Tandon",Central,Residential,2024-06-23,41132.7
+3a9d79dc-a404-4472-947e-d70051b2b921,"Sibal, Bose and Dara",North,Commercial,2019-12-04,52786.32
+9323d829-b3b0-4ad4-993b-116d17d948f1,Ahuja-Venkatesh,South,Residential,2024-09-06,29227.94
+8a18a123-bea1-418d-ba26-2bb896d60463,Dua-Karan,South,Residential,2019-02-11,53670.67
+a401e7b7-f55d-4000-aec2-00913edbeecc,"Gola, Batta and Ramesh",North,Industrial,2022-05-19,42257.39
+e21f05b7-1b35-4173-8b57-c74c39d46670,"Muni, Varkey and Rama",East,Commercial,2023-07-01,55651.13
+6576804d-b2b5-4072-bad7-ff8d30e5c15a,Shukla-Gour,South,Residential,2023-11-04,55054.05
+e0562609-9190-4879-95f0-15a394aff9f1,Zacharia-Mukhopadhyay,South,Industrial,2023-10-21,46123.2
+8026413e-ed1c-460b-8cfb-dd433280ea75,Chakrabarti PLC,West,Residential,2020-09-25,48606.66
+91bca464-20bb-45dc-b923-5820fcf9d966,"Lanka, Mann and Nagarajan",South,Commercial,2020-05-09,54531.65
+e99f2825-58ad-4b67-8665-2378d11d8c83,Sanghvi Inc,Central,Industrial,2021-11-15,53436.64
+25783c53-35a2-47bd-98d3-29a25db44892,"Joshi, Borde and Dixit",Central,Residential,2023-10-11,55001.17
+3b767c53-57ba-47e7-9ff6-b22f01f48d61,Ray-Lal,East,Residential,2020-06-20,50402.89
+eb3c5f22-d949-4734-b0d8-d8dc32742a8c,"Prasad, Kakar and Mane",Central,Industrial,2022-06-23,54114.55
+afab0914-4707-417e-9e91-f5be8abb7340,"Joshi, Johal and Kapadia",West,Residential,2019-08-24,47853.92
+f2f2b1bb-4e43-4f7c-ad32-3363a1ab7840,Master Ltd,North,Residential,2024-09-22,44485.13
+a99b4549-d997-487c-838d-0267f206b313,Vaidya and Sons,South,Residential,2020-07-25,42928.41
+1e7bc6df-6876-4ca2-b880-b36cb990a4fb,Buch Inc,North,Commercial,2024-12-07,45854.64
+5bd5b6a8-ddea-4d73-8566-327b9a7ce612,Chander LLC,East,Residential,2019-12-28,36577.74
+47db425a-a39e-406a-909b-734ebce60a79,Mahal Ltd,East,Residential,2022-06-15,43197.35
+bb0be565-1736-4566-8b78-20b5397b831e,"Bhatia, Palan and Sant",East,Residential,2020-11-04,43164.37
+e00e17b0-e981-445c-ad1d-d18a9e392ec8,"Iyer, Zacharia and Nagar",Central,Residential,2019-08-13,39048.07
+3a128328-352a-401d-b55d-fca7901a1918,Purohit-Warrior,Central,Residential,2019-05-12,36421.37
+732e941f-3779-4447-b9f4-6c32aa1c2a18,Banik PLC,North,Residential,2021-02-28,42229.56
+0e1f9ccd-f168-4231-ac58-720479d096c9,Kota-Badami,Central,Commercial,2022-01-05,58631.75
+9ba7bb2c-ade3-4b60-a066-1251218af308,Keer Ltd,Central,Residential,2024-02-21,60501.54
+2ef39c55-689d-4360-af55-82629ae80f92,"Datta, Dugar and Gopal",South,Industrial,2024-05-19,55173.85
+82dda106-72b0-426c-ba89-fdddd7f9800c,"Kumer, Swaminathan and Rattan",West,Commercial,2019-06-29,45468.92
+413a944c-abd8-4b7a-90f0-945fc700a46a,Badal-Grewal,West,Residential,2020-01-06,47054.71
+52fe780a-9691-4f33-a8c7-9cceb307fd54,Gara-Gola,South,Residential,2020-12-17,50899.9
+42a47a03-0975-44a6-bbb0-87660e68ec2b,Muni-Kala,North,Residential,2021-07-30,42771.48
+2be76a83-f515-422d-9b21-31a3e99cb127,"Sami, Guha and Ahluwalia",Central,Residential,2022-11-07,40269.07
+62642fb7-db38-4b07-8caf-dec6eafc4c2a,Chada-Dayal,West,Commercial,2024-02-04,34075.5
+826d34fa-6e19-4e46-b572-2ab0ec9d6cf7,"Wali, Jha and Chaudhari",North,Commercial,2021-04-29,53076.11
+9859da4a-0f07-4050-8537-74ef671129a5,"Sahota, Saran and Mani",Central,Commercial,2023-08-31,59659.23
+e968308d-1fe5-46eb-bb46-2179f4d4cc31,Bajaj Ltd,North,Residential,2020-12-04,47332.64
+099630a6-c145-4470-a790-6653f18ccb87,"Raval, Sinha and Rajan",South,Residential,2024-09-30,43137.72
+df4c700a-87fa-49ce-a445-b00f43b0e9a0,"Sankaran, Prabhakar and Ramachandran",West,Residential,2020-09-04,49254.09
+9a2524f8-432b-48b2-871a-4b11281d0285,Venkatesh Inc,North,Residential,2019-05-03,61886.97
+b155c168-d13a-4efa-aa01-62b95ae9ee4c,"Borah, Bains and Dubey",North,Industrial,2019-10-16,48868.8
+3c05f4a9-f0c5-401a-9b23-305abb44119d,"Gour, Wali and Iyengar",West,Residential,2024-03-31,38657.7
+45821519-b639-478b-9116-61e54f712c95,Chand-Doctor,West,Residential,2021-06-13,51457.82
+f32fbb3b-a909-45fa-9049-5132079b6b2f,Varma-Rau,West,Residential,2021-04-04,49267.77
+d363f551-d955-413c-9d6e-796a7e6dabd6,Dayal-Chaudhry,South,Commercial,2022-06-01,42282.04
+0343ad03-333e-4ef0-8b6f-b4325a89bce0,Bhatnagar-Dass,Central,Residential,2023-06-12,28044.98
+8a9930d3-3c1b-4e71-a175-bbe132005c9f,Das-Butala,East,Commercial,2022-09-02,45656.44
+82d2c9f7-ef09-4aee-a0a4-2f062723cccb,Palla Group,East,Residential,2023-06-21,58046.3
+203cf2f5-750f-4a8b-9f8f-a0555bf61c85,Bawa Ltd,Central,Commercial,2024-12-08,51416.21
+6d7807fa-1037-4446-9aaf-58d66284db89,Ramaswamy LLC,North,Residential,2022-11-19,55498.62
+f7245d4d-5e55-4659-8157-37fb42a8237a,Kalla LLC,South,Residential,2022-06-23,50108.18
+0edb027a-930a-40c9-b460-47d795294a60,Joshi-Deol,Central,Residential,2020-09-21,46045.71
+1dcfb53c-c337-448c-98b4-82caabea2983,"Venkataraman, Ganesan and Grewal",Central,Residential,2021-03-17,53540.29
+786ca993-02f7-4de5-82e4-d3d094cfe93a,"Nayak, Raja and Sinha",North,Residential,2023-03-07,29914.61
+6e1f37f8-6c19-4fff-9663-17e1ff91844a,Ravel-Bawa,Central,Residential,2024-01-09,62870.6
+df7f6e01-ac27-4ea7-b7b2-85fb0ecba1f1,Dyal-Karpe,South,Commercial,2021-06-15,53151.28
+552778b7-4f3d-4b85-aebd-02f01d23836f,Khatri-Ravel,Central,Residential,2022-12-29,35871.07
+9d5d3288-baa2-4d22-833e-08969763c635,Mandal Inc,North,Residential,2023-04-21,44664.2
+12f8f70c-de18-4e44-8283-011aa2bdd3b7,"Saha, Sami and Cherian",East,Residential,2024-07-30,56314.53
+4a5f9b47-7935-49cc-bf35-a9a7c2cb883d,Ratti Ltd,North,Residential,2019-07-20,70621.94
+2f9585bb-dc38-4757-b383-50243c43d2ac,Borra Inc,Central,Residential,2020-01-14,58028.2
+5289b2f4-7600-4e2f-a7b0-a1da8491c03a,Krishnamurthy Ltd,Central,Residential,2020-07-21,61245.63
+2c70c886-4304-4538-99d2-c0e71c154cf5,"Oza, More and Walla",South,Residential,2019-11-21,37788.04
+836cfd3c-6a91-42a4-bad9-29b77dbb5b65,"Sane, Dugar and Dave",South,Residential,2023-09-12,49932.6
+b51a57c4-3198-4d45-9bfb-b480eca58beb,Saini-Malhotra,East,Commercial,2024-08-05,36427.79
+980c19fd-88fb-42e7-8f8a-f67828cb8d0c,Krishnan-Khatri,South,Commercial,2023-06-30,38943.02
+793c2fab-491f-4dbd-aae1-8d3851ac05c1,"Loke, Shroff and Prabhu",Central,Commercial,2020-11-20,27331.42
+884c79e2-2559-4a69-8cc8-f2a36a66ccf8,"Acharya, Mani and Khare",East,Commercial,2020-01-01,40255.71
+69717952-b88a-440a-8f9c-9e07c655d220,"Garde, Malhotra and Sur",North,Residential,2021-07-02,48765.92
+803b2ac2-6d22-4394-aa9a-fe9879a9bd78,Chacko-More,West,Residential,2019-05-29,58726.47
+0c5f4367-b44d-4da8-bdd6-27214fca36de,"Loyal, Parsa and Kohli",Central,Residential,2019-03-30,54026.14
+f0c69b80-2455-4aa3-9a9c-903aa7b9b1d7,"Soman, Natt and Parmar",Central,Industrial,2022-09-15,45479.57
+7aec8426-e221-4fb7-bc76-40e1829cca52,"Koshy, Borde and Sridhar",East,Residential,2021-04-19,41523.41
+f5f67c9d-55f7-45b1-8b45-8bae07c1549f,Bhatti Inc,East,Residential,2022-09-03,47299.75
+026ae364-ff61-44e1-8e11-28c7d5477d99,"Pandey, Ahuja and Prabhu",North,Residential,2022-10-29,49868.09
+49a0d282-2337-49fc-958e-bd1228e9b91e,Mallick Inc,Central,Commercial,2021-10-02,34990.16
+90af9ebe-9d6c-49bb-807e-78086da0d776,Pau LLC,Central,Commercial,2020-03-13,54264.33
+aa81e563-31f9-471c-8648-724c116c20b2,Chada-Raghavan,North,Residential,2024-03-13,29253.9
+8edc919a-bb20-4575-b9aa-34a568ec1742,Mangat Group,Central,Commercial,2019-04-12,51541.62
+a809fbff-8734-47f8-b577-9656210fbf50,Muni-Gole,Central,Residential,2022-10-08,66791.12
+d66206d0-990b-4a5e-b086-ed09f1dfbcf7,"Rana, Prabhu and Issac",East,Residential,2019-08-26,51799.56
+1cca807b-e211-4c0e-9995-eee772495479,Vohra and Sons,North,Commercial,2020-11-04,62513.91
+cf13b957-8498-42bc-9668-c84948ac8f1c,Brar LLC,West,Residential,2021-03-30,56791.1
+14151f97-4e29-4dc8-9c0e-16ea45b4bb68,Bhatia Ltd,South,Commercial,2023-12-13,51019.92
+d3091d1f-546f-45c0-8133-3d8a25c8acef,Dugar Inc,South,Residential,2022-05-19,52159.19
+e60a8be9-d42d-4b1d-80f5-7dafda784df6,Chanda-Mani,East,Residential,2019-10-08,50251.11
+c1a75a7d-5722-4489-b24c-a625ddf8160c,Solanki Group,South,Residential,2024-08-30,36188.27
+ac4c463d-ed90-4fdb-a3df-fe474b674ca0,Jain-Palla,South,Commercial,2022-03-24,62706.81
+b7dc9da6-5c9f-49ed-a97e-e1c6b3a03e41,Dutt and Sons,East,Commercial,2022-08-02,31440.83
+0b9c7f78-1dd2-4611-90f6-9be56347d2b5,Balasubramanian-Dara,West,Commercial,2023-04-18,56655.01
+7709956d-9576-4783-8916-5b8c696e84d9,Mital Inc,East,Residential,2019-01-03,53741.34
+9d1b77fc-7339-4ab4-9c67-aaf15e488021,Nadig and Sons,North,Commercial,2023-08-20,46810.64
+f59bedf5-fd4b-495e-9213-fe9e619fa9a3,Bahl-Apte,North,Residential,2022-03-08,48966.39
+d658e176-f449-4276-83d6-03b63f193784,Joshi and Sons,East,Commercial,2022-07-01,48794.32
+af58e983-7895-456c-bb5b-43cea50fd202,Ramakrishnan Ltd,Central,Residential,2024-01-17,46851.82
+e04d51ee-1171-4753-8b71-bc2dbc1e4a80,"Thaker, Bansal and Amble",North,Commercial,2023-09-12,43933.32
+ad442612-f44c-41aa-b9dc-408a28f8ebb4,Mitter-Bhatti,West,Commercial,2020-07-03,54719.37
+03d91e5d-1997-49aa-9749-808310041c54,Handa-Bhatnagar,North,Commercial,2022-05-09,49573.59
+eafeecec-6479-46d1-af89-88e35cedc0d2,Datta-Rattan,West,Industrial,2019-09-01,27829.96
+240b713a-9386-424a-b685-a887177e15b1,Borah Group,North,Industrial,2024-04-14,49385.21
+0cda3aa5-890f-47a2-ae73-b231e2624274,Kamdar Group,West,Residential,2023-12-08,61570.3
+58d8ddc5-8987-4333-ba23-8c8e04f634a0,Maharaj-Purohit,East,Residential,2024-06-06,45664.99
+bca87f37-964c-4b0a-8817-0177a4ce6c3b,Chaudry and Sons,West,Residential,2024-07-29,41266.46
+6e9056ef-3cd1-4b1a-89ee-88fbae40eb12,Yohannan Inc,South,Residential,2023-10-03,44764.88
+a68f4c3d-2951-47e6-905d-a64923bbeb59,Koshy LLC,South,Commercial,2021-10-05,42500.53
+e2c04226-418a-42fc-9bd1-73f3c2baefd2,"Dey, Dave and Narasimhan",East,Residential,2020-02-24,62426.37
+15fbc71a-6b37-44c2-833e-3ea156404e7f,"Luthra, Gola and Ben",West,Commercial,2020-01-28,48154.51
+2a5bc5d8-2457-4c88-abc5-c3cdd9126176,Gour-Kant,Central,Residential,2019-07-06,50185.16
+e9a34662-3fe2-4061-9869-aac49ca44c58,Reddy Inc,East,Commercial,2019-07-09,37095.82
+fed4cfd1-f082-4e67-b582-02ad2d2fc27f,Chana Inc,North,Residential,2021-07-31,56377.59
+97fc634f-a0e5-4a58-9e51-85682f168ad8,Nigam-Krishna,North,Commercial,2024-02-01,66183.77
+33f32658-8fd8-4aa5-8050-b77e906d6418,Saxena-Sidhu,South,Residential,2019-08-15,44994.82
+08a5f0f9-b124-49ca-96bc-2cb96c0a9a41,"Sabharwal, Batta and Ganguly",Central,Residential,2024-03-13,55811.59
+7a690b64-4279-4aa7-bfe3-bdd7a5fe5b95,"Sathe, Dhillon and Chand",Central,Residential,2021-04-21,55378.44
+2b3a4ecf-b5ad-4a28-943a-9cd7ab1543af,Krishnan Ltd,East,Residential,2021-01-08,67757.94
+abd8879d-62f9-4e67-9601-0d7fdffdadda,Varty-Shere,North,Industrial,2019-01-28,37261.86
+569fd87c-2bff-41b2-b0a6-896faf1e3e0e,Chandran PLC,West,Residential,2022-03-18,58095.01
+c94d07cb-6265-47ea-93cf-c3fac156e842,Wagle-Anne,East,Residential,2020-06-23,62564.06
+f99b2f66-dcb5-4422-bec6-52a920d7e7db,Krishnamurthy and Sons,West,Commercial,2024-08-15,53551.01
+56e6f0b8-cfb4-4eb2-b9a6-dc75231bd884,Mody PLC,East,Residential,2021-07-15,48896.75
+9f3153df-a74e-4cc4-8f5b-964d30e2b989,Patla LLC,South,Residential,2019-02-15,50177.62
+556f892b-395c-482a-b4f2-36edac1f3d93,"Pradhan, Suri and Sawhney",East,Residential,2019-04-14,53188.32
+f0b4488a-e706-4a9b-b5bb-8b96da915b30,Suri Group,West,Commercial,2022-03-09,62633.62
+67f4b5bc-641f-49e0-9d6d-4ed06930bb90,"Madan, Tank and Gill",East,Commercial,2019-10-06,35974.71
+0819f3ac-1cca-4b7c-bd21-d907bef60623,Raju-Gill,South,Industrial,2023-08-14,41738.31
+067d68ea-a88a-4de4-8d7c-b9af5dece3f9,Varty LLC,Central,Commercial,2024-03-06,53167.99
+915741b1-f96b-4f1d-8e56-edd2b1a1d2aa,Loyal-Trivedi,East,Residential,2020-10-13,50875.98
+a5c8835d-1ce2-490d-81b5-0f3ccea04599,Chauhan-Andra,West,Residential,2024-03-31,37473.96
+c5b2c816-738f-477e-a0d2-6b2ea3202e95,Anne Ltd,East,Residential,2020-04-21,51134.23
+35af393c-c287-4c44-82e9-67c8b6029267,Vohra-Vasa,Central,Commercial,2020-04-20,57485.96
+92da41f9-2d23-4d9f-a749-550a338cc0cb,Mutti Inc,East,Residential,2021-01-13,46669.53
+5deaf528-ff91-4c6c-81cc-79c3d70eb2ef,Jain Ltd,North,Residential,2024-11-04,53557.73
+f95c5312-686a-4548-8dbf-8b875b160450,Varkey LLC,West,Commercial,2022-06-24,41091.23
+409af393-6a7e-4a60-a355-a23b1c889a93,Dada Ltd,North,Residential,2020-11-27,36925.22
+99afa005-a754-4578-a04c-e4cf60324867,More and Sons,West,Residential,2019-04-15,53420.23
+ec43d664-b398-4ddc-a156-fda11a892030,"Shukla, Kar and Sarin",South,Commercial,2022-08-19,39800.59
+15d9f677-9834-4d71-b0ea-a7e7793cdb71,Shroff and Sons,West,Industrial,2020-09-28,55454.17
+3db92646-7c92-488f-a590-07a1039df6de,"Dave, Chaudry and Keer",North,Residential,2021-03-08,50824.19
+439caaaa-59b6-486f-a559-fb29c2732e95,"Dhar, Shankar and Yadav",North,Residential,2020-04-25,44524.0
+6d38b9c6-00d5-4d44-84aa-8eb2ab97ad4e,"Seth, Sibal and Dora",East,Residential,2022-10-29,49440.53
+7ec316a5-0c69-4242-a36d-4d646687a143,Bhavsar-Chokshi,South,Commercial,2021-01-23,43240.38
+9385a47e-e682-4558-9fb0-0f170baa3d6a,Doctor-Dube,West,Commercial,2021-03-23,66456.86
+4249dee4-aeaf-4098-9975-1eb7e820ba74,"Prashad, Lad and Sur",Central,Residential,2023-01-17,52932.05
+3242ff23-7838-442a-9e6b-de9b9392aeec,"Deep, Wali and Kara",North,Industrial,2021-01-31,64590.46
+646d4948-a9af-45b0-b641-6f562ac5ee8d,Thakkar Group,East,Industrial,2024-08-10,63059.99
+caa167b2-b2d4-4c59-96b6-47491b86f148,"Sha, Mann and Palan",North,Residential,2020-10-18,50009.88
+65f02589-b46d-4140-9749-7ca1ded8aa4b,Nayar Ltd,Central,Commercial,2021-10-28,47972.73
+5bfc008d-9aad-42a6-a205-cf1452bd814b,"Singhal, Wason and Kari",West,Residential,2019-06-09,49504.45
+7675fbc4-b6b2-4e43-bc02-acbc31ea4d56,Loyal-Dayal,Central,Residential,2021-01-27,36925.17
+6f7a860b-748a-4e76-a1c7-6ef855d7f0a2,"Tara, Bala and Varkey",West,Residential,2022-03-27,60090.73
+bc36d14d-053c-4688-aaef-c94794eeb8f9,Mallick-Johal,East,Commercial,2024-10-16,30303.57
+1585651d-ffb5-4ba0-955d-ac52172e57c5,"Dutt, Grover and Chada",South,Residential,2024-06-08,40375.47
+ca2cc413-e62b-472d-a37d-3e0b3c1379e0,Tata-Bal,North,Commercial,2020-04-16,44583.68
+6955ad44-fafc-4be2-9f77-9b8cab23b743,"Loyal, Ramakrishnan and Wagle",Central,Commercial,2020-03-30,41159.27
+ec8f8d70-5540-4255-ad79-c27b645cd097,Bala LLC,East,Residential,2019-05-09,56926.95
+b2ac4131-e487-4e98-aebd-aed5cd4bb5c3,"Sunder, Patel and Raghavan",East,Residential,2019-02-24,44641.65
+0a1bf191-bdab-4b25-b244-f172ff49ccac,Subramanian LLC,East,Residential,2020-03-18,20220.65
+fd1d711e-d73d-496a-a7a4-cf323083154e,Morar-Bansal,Central,Residential,2021-04-09,49089.35
+566c63e5-92e6-4800-a83f-84439c27bb41,Nayak-Mital,West,Residential,2019-01-24,49540.59
+6e94ab6f-5981-48b3-8b00-667c06c9af5a,Singh-Gill,South,Residential,2022-10-16,33614.76
+e09e37a9-40f1-4223-9c48-3a7d0dd2686b,Sane Ltd,North,Residential,2024-01-06,54289.58
+27c6ab15-47e5-43ab-befe-3f7a3e0efcc0,"Devi, Pathak and Dube",Central,Residential,2023-08-18,34441.55
+1f656ac0-c3dc-4d85-a9aa-1d938ae6821a,Devan-Khalsa,West,Industrial,2019-01-20,60679.43
+53f56e89-ce48-47cb-a2ed-e808cc57a0bd,Acharya-Yohannan,Central,Residential,2022-05-24,52312.51
+9846de75-53c9-4cba-b971-756e28db73aa,Bassi-Gill,North,Residential,2021-07-11,57960.89
+837e2f93-6f83-4a91-b210-1f5b15a8043f,Taneja-Chandran,North,Residential,2020-12-20,46120.65
+b97005ec-4050-4d5d-b4b0-c9330675769d,"Butala, Srivastava and Gill",West,Commercial,2023-03-07,56080.21
+6082321a-3044-4809-82e4-40857884d47e,Divan-Gill,Central,Residential,2023-06-07,31652.69
+c92ec016-bf3f-4273-8f00-599264262c28,Zacharia and Sons,West,Residential,2021-11-15,47509.44
+f254164a-5d16-46f6-b6ff-f9c211dcba92,Keer-Bhalla,South,Commercial,2022-03-28,63811.45
+1e75296c-a6a0-470e-afe5-c48b76f62068,"Biswas, Doctor and Pal",North,Residential,2024-04-14,55496.19
+b11b7348-70fc-4843-ab84-7af6f24c3eed,Shroff-Borah,South,Residential,2024-07-08,34384.99
+72f95d47-be38-4dcd-b22f-18dbd5ec8842,"Viswanathan, Pall and Bains",East,Residential,2023-02-13,21687.75
+1f85c67d-44b9-47b5-a128-edd248c8098d,"Balan, Amble and Bera",East,Residential,2024-05-03,41583.74
+2210ec3c-3197-439b-b602-1f070a929340,Amble Ltd,East,Residential,2019-12-04,54942.52
+a64257b5-9fb7-4a07-981c-c7e581a07000,"Bajwa, Ramesh and Kumar",North,Residential,2022-08-28,37830.59
+27ae8792-6bae-430e-8c7d-fa3e30d4e26b,Sarna PLC,North,Residential,2024-08-29,64049.25
+51943b08-a0e1-40f6-8719-00ac53c61753,"Walla, Shan and Prabhakar",South,Residential,2021-11-26,61203.73
+6bfb0c8c-62c8-4991-aec9-5d4ef092762d,Tella-Thaman,West,Commercial,2024-10-06,35513.47
+026da032-8203-49c0-80c6-cef48e8d819f,Badami Group,Central,Industrial,2021-11-22,49655.73
+1faee53a-5ea7-4d83-8238-1d4b9712a7ee,Batta Group,North,Residential,2019-11-10,47526.89
+9ef53960-2610-46d5-914a-da9a46e1988a,"Arora, Ganesh and Gera",Central,Commercial,2019-08-07,63858.57
+c0d58d46-dc5a-4517-91c9-0c7d88107a58,Nagy-Solanki,West,Residential,2023-05-11,53088.66
+1507de11-0e03-4deb-b05b-2ebf9772336f,Saran-Bala,West,Commercial,2021-09-27,48993.27
+2050275d-81d8-4eee-b740-488f7ddeb878,"Subramanian, Murty and Yadav",East,Residential,2019-05-11,56075.58
+ca4bfe0b-c9ab-468d-9a8e-90de6dbc82f7,"Tandon, Narula and Sinha",North,Commercial,2021-10-12,49812.22
+6448e3fe-6c90-4e2c-a9e5-b655bd91d307,"Sharma, Lalla and Sridhar",South,Residential,2019-09-27,51329.37
+782bf2dc-94ae-42d4-87ec-b34ed46c944b,"Mann, Sharaf and Ram",South,Residential,2019-04-19,61502.49
+b6f5f17a-2332-4675-91da-d932595e5fbc,Ratta LLC,West,Commercial,2022-10-26,39936.14
+024e41a3-441e-48d2-a235-b28dc78470b7,"Barad, Tak and Pai",West,Residential,2024-01-10,51144.81
+646a74ea-e9e3-4d02-9df1-644ebeab974e,Kara-Chokshi,Central,Residential,2019-07-19,58071.95
+ae45f671-8683-4530-b437-3ade814e4441,Tandon-Patel,Central,Industrial,2021-08-03,49475.33
+ae715edc-f113-46ea-a808-a8b58eed4daf,Acharya-Chawla,West,Residential,2024-08-07,40937.46
+83581890-08fc-44e3-b3a9-d035df00aa04,Hora LLC,Central,Commercial,2023-02-07,64320.06
+68bc380b-79cc-4353-8d10-89830fbe4a1d,Merchant Group,North,Residential,2021-05-13,32672.15
+e41e8b37-65d6-42ac-be5b-bb79eb53d2b0,Ram-Samra,South,Residential,2019-06-24,51983.86
+f95da74e-0a2d-47e0-bc70-dfbf9a0d4263,"Sridhar, Chahal and Hegde",North,Residential,2020-01-06,67638.79
+dc6bb147-4891-4745-8a9c-a1f877e2919a,Dhawan Inc,East,Residential,2019-09-12,46506.06
+b7b85872-9ee8-40a3-8a2b-fed06a57aa1a,"Roy, Mandal and Sarkar",West,Residential,2019-07-02,41013.35
+f2e3d9ed-3ca5-447a-bdc5-c43c11909476,"Ratti, Sengupta and Khanna",Central,Commercial,2023-09-01,46831.4
+9f6d8936-93f5-4453-ac2b-e9b7906a7433,Ramanathan and Sons,East,Industrial,2019-12-13,44084.08
+e9cadc2e-b6f5-46ef-91d9-07fbf9d919d8,"Patil, Minhas and Parsa",West,Residential,2023-11-15,69124.77
+069105a3-d358-4b33-bf06-ff38b1aa9cb1,Acharya Ltd,South,Residential,2021-06-20,38614.04
+46f09669-3267-43c9-b52f-c025c0d35248,"Kashyap, Hayer and Bains",East,Residential,2023-03-09,55377.76
+2967c4ff-1965-4b8c-b185-9c911d0a3207,"Ganesan, Sunder and Kamdar",South,Residential,2022-08-05,42335.37
+0f734aae-f8c6-4d90-8290-c78c7e6d030c,"Cheema, Vaidya and Pai",Central,Commercial,2024-10-18,50467.85
+5d61b1c8-5746-4970-b69f-6c36a33503f2,"Char, Khare and Karpe",South,Commercial,2020-03-13,50762.82
+674e753a-1f94-40dd-a019-15e5368ffa52,Walla-Dass,Central,Residential,2019-07-01,27222.66
+3a52f78e-dae1-43bf-b7d6-cd1b337b370a,Koshy Ltd,South,Residential,2024-04-13,52760.13
+d853f816-c587-4812-ae51-a12cd37a3748,Bahri PLC,West,Commercial,2021-09-20,49230.12
+ca672a07-f1ae-4ee8-ae00-45a312618153,Vora-Kaul,East,Residential,2019-09-29,42063.95
+dac09dc4-966e-40f8-85a9-7e34547e97a7,Korpal-Nagar,North,Industrial,2020-06-13,53130.15
+3aa9fec0-adef-4d46-adf8-e1f3275d3fe8,"Chadha, Zachariah and Mahal",Central,Commercial,2023-08-13,64880.2
+a61d5ae8-ae50-4a36-8e51-64a4597b7e4f,Bhandari-Pandya,West,Commercial,2022-03-27,39686.94
+9286c114-aecf-4cc8-8e9f-ae64099a9969,"Khosla, Nori and Kala",Central,Residential,2019-07-29,40021.9
+98f1123b-d736-45f4-be47-e519cc125656,Roy LLC,South,Residential,2022-03-21,54649.59
+e85d70a1-0015-4b01-949a-73a6f4882c5f,"Handa, Oza and Deshmukh",East,Commercial,2024-05-23,35615.89
+63c42ea5-2cf1-4c13-b49f-8323f2c114b9,Venkatesh LLC,Central,Commercial,2023-10-17,48845.92
+010c45f7-f99a-4be1-85ab-7c52904c061e,Bora Group,East,Commercial,2019-04-21,51146.36
+0224288c-6f89-4e52-959e-c609565c14b1,"Contractor, Mahal and Sarkar",North,Residential,2020-04-13,68212.15
+7b32d420-4204-4a84-b5a3-abc7222aa021,Narain PLC,East,Residential,2024-07-14,40415.9
+c2a1c6f8-468a-4851-986a-fe611362a711,"Dash, Chandra and Shan",West,Residential,2020-06-23,31467.7
+cffacc5d-7f83-4a9c-9782-c3a6a9415158,"Nayar, Sharma and Sama",South,Residential,2020-02-26,52596.92
+6fbbc40a-9ba1-42bb-b520-540512fd4c97,"Merchant, Arora and Dayal",West,Commercial,2021-03-08,60405.6
+5d223076-e22d-452a-956e-b8541a96d8a1,"Gill, Walla and Sangha",Central,Residential,2020-03-22,53660.14
+d6401d72-fc7f-4717-bf91-9c8f53f20c9a,"Ramakrishnan, Lata and Suresh",North,Industrial,2021-09-08,57059.13
+073bcdbe-deb4-4fa7-a939-7a8ff71176fc,Savant and Sons,West,Residential,2022-11-20,38543.89
+a2d85ee8-a8d0-43d6-9623-f8ef0c195b7a,Mishra-Karpe,East,Industrial,2019-11-09,65251.41
+39a22a68-321a-41c6-ac2c-2af8f078bf3d,Minhas Ltd,North,Residential,2021-02-23,56317.65
+ffc30f57-4c27-4b01-bc71-b8ba768812a0,Agate-Sem,Central,Residential,2020-08-13,46628.96
+a097517a-dfd5-4e65-b5d0-09e9d5ed346f,"Ben, Varty and Rama",South,Commercial,2023-10-29,55402.42
+c7df544f-c4fc-481c-8268-8810b56a0c8c,Ray Inc,South,Industrial,2019-10-10,36907.91
+7fa97d1c-8345-4f0e-a4c3-058151d5438c,Raj-Chanda,East,Commercial,2019-01-05,53700.93
+d073f561-5f05-4c07-8df5-68e3d39ec0fe,Gopal-Sathe,South,Residential,2023-12-20,52510.59
+547a05bf-bac0-4b2a-bd05-fb61216a5c2d,"Narula, Toor and Kuruvilla",West,Residential,2021-12-14,44144.55
+78dd7f9a-d898-4530-9735-93e8fe97720e,"Guha, Dutta and Wagle",Central,Commercial,2022-10-07,40152.61
+96e3c017-80b6-414b-b200-26604ed99520,Kakar-Thakkar,Central,Industrial,2019-02-18,50614.73
+7499d77b-6305-4fe7-98e3-45a72a78dc2d,Batra LLC,Central,Residential,2023-07-07,35186.6
+6d2bc297-3976-433a-a6a9-0891c123264e,"Chacko, Gopal and Mangal",East,Industrial,2019-12-12,53086.08
+65a49ffb-3953-4c73-993c-7654d49a2804,Srinivas-Bhasin,Central,Industrial,2022-04-22,44667.8
+c55c8b79-d036-4ba4-8a07-28cb27a35e96,Sampath Inc,West,Residential,2019-02-24,36413.67
+168963fe-1124-42dd-9a2f-26e2150b7b4a,"Ganesan, Garde and Lall",West,Residential,2020-02-15,47879.17
+86cc39b5-9cfb-45e2-a6e3-828a013f45c4,Sahota-Barman,North,Residential,2023-09-15,52605.64
+cd021203-dfbb-4fdb-b92c-c5e99c147911,Loke-Rout,West,Residential,2019-02-20,28697.22
+0ba21f1a-ae95-4796-8b52-f731a43fefea,"Chauhan, Dubey and Bhardwaj",South,Industrial,2024-08-02,41767.44
+e4316ac1-dd00-429b-9194-3dd383c5bcb7,Raju-Seth,South,Commercial,2024-06-30,50417.24
+ae01ebb9-5d88-40aa-80f8-312ca93b007e,Chahal-Khalsa,South,Residential,2021-01-11,65824.64
+a7b80c34-5b43-41f1-ac37-456cbaf407c8,"Bal, Bobal and Gandhi",North,Residential,2020-03-13,27707.97
+0dd99162-eba1-4b7b-b06b-98a1aed1548f,Suri PLC,South,Industrial,2021-07-27,33589.18
+67ff5efc-103a-4fb3-a075-dd87452d4868,Sanghvi-Minhas,West,Industrial,2022-04-17,46580.54
+ccf46db2-3c50-4ed8-96cd-ba7c86206736,Rattan Group,East,Commercial,2024-07-10,55261.38
+a1dbbca0-3c35-4947-9cc3-33f234ee7d1c,Chaudhari-Pingle,East,Commercial,2022-05-31,58221.73
+22c12885-7eb7-4337-b724-a8b2872c55b9,Lal-Bora,Central,Residential,2024-09-12,45327.44
+4ee6923e-2ecc-48a8-b3b0-fbffb68c2ac4,Chawla-Das,East,Commercial,2019-11-07,48288.3
+29d229b7-3e69-4e4a-b403-43e1babcf386,Arora Ltd,South,Residential,2024-03-28,52365.12
+d134f9ba-0688-4465-984c-2444f867e56a,"Chhabra, Sathe and Dora",West,Residential,2024-07-17,47127.1
+1a6901f1-be7e-4a14-9bd1-8191eec63b4d,Master Inc,South,Industrial,2024-02-07,48338.53
+2ebf03c9-0952-4a7e-a777-7978b3fe5835,Pant-Mitra,East,Residential,2020-10-21,52777.97
+9e47dae0-a268-4a36-a9e2-10265273a1de,"Patil, Suri and Ray",North,Industrial,2019-12-05,44261.35
+b163a7a4-1f22-4155-b814-6287b4955896,Kibe Group,East,Commercial,2024-07-28,58698.28
+9f522c17-cffe-4ef2-91c7-5511ff64096d,Din Inc,North,Residential,2021-02-24,36922.21
+1ac592aa-da9f-4d87-884c-e97c4dd23989,Chana and Sons,North,Commercial,2024-05-14,43065.1
+8e0c0c48-480e-4d06-84a0-d8de48760519,"Wagle, Dani and Kurian",East,Commercial,2024-01-08,33130.68
+7855a95d-f396-4a64-a28a-8f99dcb402f4,Subramaniam-Munshi,East,Residential,2024-08-27,53719.27
+66f7c732-a06d-44a1-ba90-2ff67b806b67,Murty PLC,West,Residential,2022-05-31,50477.58
+63cffc76-0fa3-4508-a96f-f231e3afccf2,Buch Group,Central,Commercial,2022-02-09,51639.64
+baa5c312-ef4d-4ebd-9d06-6843977aaee6,"Merchant, Jani and Bajaj",Central,Commercial,2023-08-15,45581.85
+47762bbb-1f86-42df-bae4-ce13a7422f70,"Venkataraman, Thakur and Kala",East,Commercial,2021-12-01,65577.05
+f88cb504-240b-4564-907b-bcb32724667f,"Choudhury, Dhawan and Rege",East,Residential,2023-06-27,67631.18
+b774f899-5359-4b19-b372-ef5a63a3917a,"Kapur, Kurian and Varkey",South,Industrial,2024-10-03,61673.24
+5aa2b2db-8799-4ab2-9c51-805a32aedc92,Rattan-Vig,West,Residential,2020-04-01,69846.07
+1f1de457-813b-48a7-a5c2-88fd5c1c73c8,Misra Ltd,South,Residential,2024-01-21,54091.23
+08785d5d-e2cc-4db9-9eba-2e394f2abf31,Nath-Dewan,East,Commercial,2023-03-18,51106.63
+2f3467fa-5203-4a47-9f76-2174e22247fc,Naik Ltd,Central,Residential,2024-06-09,57316.03
+6f2b2fd1-168a-455f-a200-5466b7ee0da0,Yadav LLC,South,Residential,2022-09-10,37235.6
+9b176585-fbcb-495a-b336-62cde3374ce9,"Kade, Chaudhry and Bhardwaj",East,Residential,2022-12-20,58547.5
+48af6726-5089-43b8-9ed9-c62e77a033bb,"Bir, Choudhry and Bassi",West,Residential,2022-06-26,56764.77
+bd6ce7ba-60f4-4abd-bab5-e2d662bfdac4,"Modi, Jain and Pandit",East,Residential,2023-01-11,44245.07
+b58d6ae4-2eed-4f08-b9d0-2fca5276f366,Amble Ltd,South,Industrial,2021-07-15,58711.54
+e99fb9cc-7eff-4016-90cd-15e5295b49a3,Samra-Thaker,West,Residential,2022-08-21,58876.08
+4efd1773-e821-4bf6-a07a-c47e2369dc9b,Trivedi Group,Central,Residential,2022-06-14,57880.43
+3d7defa7-20bc-4271-9bc3-e6304cae506c,Bhatnagar Ltd,East,Industrial,2023-12-29,58077.25
+0b899a7b-4f9e-4d9e-a5db-881bb2ab93db,Luthra-Khurana,South,Industrial,2019-03-28,46713.47
+135391a8-c4d9-47c1-8503-11818157f985,"Yogi, Pandey and Soni",Central,Commercial,2023-12-25,61746.14
+d04503b3-efff-43c3-aaf2-44893a0e61f6,Tandon Ltd,West,Residential,2022-01-01,45022.94
+bfb33aa0-2681-42a2-ab4e-d54a144ceb8c,Borde-Sengupta,West,Residential,2020-06-13,39633.12
+7c4beb72-ce9c-4f40-8883-2df8ab99dc88,"Lad, Sami and Raval",South,Commercial,2021-10-17,58313.37
+a7cad22f-a3ae-4996-ab2f-577edc44e3ed,"Palan, Bhardwaj and Bajaj",West,Commercial,2022-04-04,54131.56
+574e834a-43cf-4f31-a579-027fe3c93caf,Bobal PLC,East,Commercial,2019-01-07,44647.96
+80922a75-0f17-48c6-9812-2bb1ead76319,Karpe PLC,South,Residential,2022-04-11,34937.17
+8c730c2b-e3e8-4103-8b49-9e0f9581f308,"Contractor, Chandra and Pai",West,Commercial,2019-08-31,57559.64
+e4acd1f3-27e5-4338-a3e9-ba278686cada,Gola-Loke,West,Industrial,2021-01-21,47295.88
+9bc937ab-c079-45ac-815f-5cb04484be92,Mangat PLC,East,Residential,2020-07-02,55333.94
+5aa1d724-ca1d-44a8-ba22-9e1938397d49,Chopra LLC,Central,Residential,2019-04-13,47545.88
+1f6b2744-1f93-4d12-82f6-ee6950c61e25,Parekh LLC,Central,Residential,2020-11-24,58618.53
+75b7e618-c851-40b7-ba4f-c472010091c1,Tella-Sastry,East,Commercial,2020-06-18,50246.75
+fbcbd2f9-8170-4652-8ef0-35883c2c5bbc,Parsa LLC,West,Residential,2022-04-01,38015.84
+36b33741-8f9d-43ef-8c33-5197aa9be899,Deol-Bumb,South,Commercial,2023-11-24,66791.96
+763ccc83-4afe-499a-b3c7-37b0ef2be409,Badami-Sidhu,East,Commercial,2023-12-22,38813.95
+42128a91-503f-4ae0-9a31-f41d5669369a,Loyal LLC,West,Residential,2024-09-15,45467.19
+6d8862b9-1d1d-4ae9-89c8-c6092fc02625,Wali-Reddy,Central,Residential,2024-09-23,52614.33
+a0e2133c-79c6-4f76-b5f0-c58e60bffc98,"Sehgal, Sehgal and Bhasin",Central,Commercial,2020-11-29,55801.9
+65c42f4d-d62d-4ac2-95e9-38e778336aae,Sachar Group,East,Commercial,2019-06-27,46472.63
+d835e170-454e-4fa9-b706-16c08f728ac7,Nagy-Ramachandran,Central,Commercial,2019-07-02,47190.85
+ef237600-d549-4ce0-87a1-3d58cd212426,"Mani, Sama and Rout",East,Residential,2020-09-28,40269.02
+66887616-ee59-44fd-abb3-0659d514e504,Bath Group,North,Residential,2022-07-24,42888.1
+269a4232-63b0-4d74-b917-9db1adfc2888,Sekhon LLC,West,Commercial,2023-04-10,47337.85
+3b754632-d1bd-4752-94f3-b1de05156541,Pandya-Bhandari,Central,Commercial,2024-07-15,29020.95
+13cb03c0-c675-4f4d-983a-18083f2a593e,"Borde, Yadav and Kale",East,Residential,2020-02-15,54011.23
+6588ad50-3e3b-4c36-a747-c0c741f445aa,"Hegde, Wali and Balay",South,Commercial,2020-03-14,46730.88
+4b7c6712-8c34-49ab-96fe-0a8bbe3c0ff3,Bobal Inc,South,Residential,2022-12-20,29545.21
+d2a00204-b64e-4de8-9c50-21351dd19849,"Dash, Dube and Om",North,Industrial,2019-01-18,48395.21
+fabd3a6c-bdc8-454f-8765-8c0c49ae1c70,"Narain, Chandra and Naidu",East,Commercial,2020-10-07,45759.17
+d4538ff8-e1c9-4c6a-a07f-ca6509d912fb,Sidhu PLC,East,Residential,2022-09-05,68918.99
+25844984-ab43-465b-a152-a02aaec39927,Kari-Chakrabarti,Central,Commercial,2023-11-04,33590.78
+819cb33e-b863-4f70-a782-70d7840fc7e6,Barad PLC,Central,Residential,2020-02-27,58708.59
+ed5c4d05-158e-4c2f-b176-0babec0f8ada,Reddy and Sons,East,Residential,2021-10-31,47084.19
+1fcf6404-f048-40b9-bbbe-25b59677ef6e,Vaidya-Hayer,West,Residential,2024-10-07,44147.5
+b690e4b9-5935-40c3-8c88-49b878c77f5f,"Purohit, Sanghvi and Dugar",Central,Residential,2020-02-21,63844.12
+159112d1-bd92-4753-9735-493e36da2bb0,Kunda-Ben,West,Residential,2024-10-23,61209.41
+2c598c45-d465-4f5c-880b-beac32a1a56b,"Mittal, Nath and Sekhon",West,Residential,2023-04-03,71638.19
+a83997b4-85e7-4fac-9b68-f90072bc19a8,"Butala, Barman and Johal",South,Residential,2023-05-04,35935.96
+44da2493-2305-4109-a8ec-2aea1c6697dc,"Nair, Sura and Sarraf",South,Commercial,2019-03-12,51380.49
+e86def9c-51e1-4815-848c-65f631c1d192,"Mann, Chokshi and Ahluwalia",East,Residential,2020-03-07,56956.31
+5a10dae0-b43e-464f-94d1-cfce2078bc59,Bose-Zachariah,Central,Residential,2022-04-09,62639.67
+800ddfd2-4169-4b38-b043-c07844e28ffa,Dhar Inc,Central,Industrial,2022-07-31,67586.46
+0b19ffc6-efdc-4ac3-9b73-c33148482ffb,Subramaniam LLC,North,Commercial,2019-01-16,64567.95
+d071c26c-c3bb-4ba3-b2c5-2b9ab55dc42d,Keer and Sons,South,Industrial,2019-10-02,37631.44
+0f040ae4-55bc-4058-82d7-4be336d86766,Mishra-Bhat,North,Residential,2020-05-27,61676.85
+eba74d27-a54d-4aa4-82d5-85d5cb74c8f6,Ratti-Sachdeva,North,Residential,2023-04-19,51227.49
+8dc1b417-d948-49ae-9042-07c73addf822,Shroff and Sons,East,Residential,2024-06-01,48563.28
+1125d7cf-9eb5-4816-916d-905e3f330f88,Gour-Reddy,West,Residential,2021-03-11,48778.73
+a2f28d17-535c-4a65-9c25-3c977260af8f,Dhaliwal PLC,West,Residential,2023-11-18,64800.09
+42944c7b-fb3c-4fae-bc9a-b67e65440892,"Rattan, Amble and Chowdhury",Central,Residential,2019-02-01,35633.22
+f8b3181f-ed9d-43e2-93ae-eed4d29c959c,Garg-Nadig,Central,Commercial,2020-11-03,36768.05
+0d18ef7d-4feb-414e-8f79-d262fdbd4246,Vig LLC,West,Industrial,2023-04-30,54918.91
+6a17e0fe-6f2f-4e87-be62-c28ac11c1983,"Kakar, Wadhwa and Khanna",South,Residential,2022-08-10,62927.05
+9801113b-2a14-46b3-bfba-97b2ffdc5316,Barad LLC,Central,Commercial,2021-11-26,59267.65
+5bf9b274-c367-451b-be09-9d546dac2902,Bala-Raju,East,Industrial,2021-05-14,53821.33
+ec3c6349-610e-4746-86d1-1f9871a61dec,Gokhale-Taneja,South,Residential,2024-10-03,58285.09
+c1c24888-8308-4c90-963d-1c307b61fd06,Gulati-Sampath,East,Commercial,2020-03-13,48649.2
+a35e9987-a569-4495-82d3-35d52f0d281d,Kurian LLC,Central,Residential,2024-04-15,51677.26
+430c3e47-ef96-424e-b975-dec8f4505ab2,"Wason, Sharaf and Nadig",South,Residential,2023-12-27,65634.45
+88763baf-5a75-4721-8f5f-1a5b2bb1551e,Khosla Group,Central,Residential,2022-02-08,53350.06
+41a29ab7-af30-46ab-91c1-c784e54bdf1c,"Bhakta, Parmer and Kant",East,Residential,2021-05-01,45224.39
+8d4d4cf7-69fe-49e7-8d37-d3ffdd34021f,"Kumar, Khare and Sood",East,Residential,2022-03-27,54519.75
+a182385a-0139-4ee4-8f74-3eb85af11263,Hayer Ltd,West,Commercial,2023-11-06,53127.44
+b95dc383-caf1-46ff-860d-9daee4ee8336,"Menon, Ram and Borde",South,Residential,2024-05-15,47399.6
+6dd7e32e-724c-4d2e-ac67-57952da07c60,Dugar and Sons,North,Residential,2021-05-28,46026.69
+06a9c2dd-2475-4404-bd17-6d129980f05c,"Mittal, Andra and Mann",East,Commercial,2019-10-06,38001.67
+3e95311d-b35f-4a29-9118-cb4d651a62fc,Johal and Sons,East,Residential,2021-05-11,56755.84
+7f033a23-0b4d-4fac-ab8f-69706d26b586,Goel Group,East,Residential,2023-12-17,54924.82
+67fb95c1-8ef2-4c7c-8179-45b29f605cc2,Dash Ltd,South,Commercial,2021-11-18,31775.58
+b569be84-259a-4561-9c68-8d253561db55,Savant-Shan,North,Commercial,2022-08-01,53498.52
+95b17234-c018-4dd7-ac3f-88347bc9bd6d,Krish LLC,South,Commercial,2021-06-03,58942.78
+1050c02b-a3cb-48c3-b1e8-b45f11aabc33,"Dar, Sharma and Bhagat",Central,Residential,2021-10-25,44666.7
+be1759e2-d2b5-4ac3-b087-f78f9bd8615d,"Agate, Bakshi and Kothari",West,Residential,2021-06-05,49034.64
+ad73e3b6-2350-4148-804b-6abdb42dbae3,"Ramanathan, Khatri and Gulati",South,Residential,2021-12-22,51559.25
+a5010a8e-597d-4a4b-a7d0-b7f759c81ed8,Ramanathan Ltd,West,Industrial,2023-04-13,51200.33
+a2dbda29-3aaa-4f0e-9e89-58debad8fa72,"Nayak, Hegde and Shan",South,Industrial,2024-06-22,47335.33
+c07199ae-0801-48ca-9d2c-9660f539e92a,"Raj, Anne and Johal",Central,Residential,2024-11-11,44365.23
+2588b1de-7128-4437-b373-1da27528e2ce,Tandon Group,Central,Industrial,2024-09-06,40650.87
+a3d3eb18-c82f-49ff-bdd0-867dfa177b2e,Goswami Inc,West,Commercial,2020-05-18,49058.08
+94775f81-3f54-4fc8-b72b-6e32c2af6fd6,"Bala, Magar and Chand",North,Residential,2019-07-05,36051.41
+81eef02e-3dfd-4570-806d-a8c0bee6ec8e,Ben PLC,North,Residential,2021-08-01,74142.96
+7842de85-7f36-4f9b-8dba-81e758fe2edf,"Bala, Murthy and Parikh",South,Commercial,2019-09-21,64252.84
+81dece48-d251-472c-b0a4-55bd0423709f,Kulkarni-Sekhon,West,Commercial,2024-10-22,52009.82
+d844d2b0-7bc1-462a-90ca-69bdb04aec60,Oak-Dasgupta,South,Commercial,2020-08-06,43910.12
+d393074d-6dba-470b-a3da-b929b2f34258,Kurian LLC,East,Residential,2020-06-13,48304.81
+cc9fe48d-2e73-4a44-b103-883e4a67752c,Narang-Narasimhan,North,Residential,2022-02-15,42905.76
+edf69a2a-5070-4205-a457-e34afb35fa4e,Basu-Vig,South,Residential,2022-09-03,25826.16
+80fe8843-3390-42bb-b8ef-5737d9962a8c,"Swamy, Trivedi and Varma",North,Residential,2020-10-01,35831.47
+b9e9fd8c-809c-4a09-baee-c75df6ef79a9,Gala Inc,North,Residential,2024-11-14,72447.73
+17ebcbbb-0e7e-4d6e-8791-56e1db0d094b,Bora-Iyengar,East,Residential,2023-03-29,52882.32
+d9bcd689-f71d-4677-8eec-f9a87a85e922,Dey-Arya,East,Commercial,2022-01-26,53962.14
+2fd383c8-d78d-459e-9104-6b5229d8f5ac,"Bath, Sridhar and Dhar",Central,Commercial,2022-01-07,61753.14
+e2b2cf06-de7a-4f18-9baf-ef30e7230220,Sandal LLC,South,Residential,2024-11-30,53878.99
+7a0ee43e-9608-4869-9925-6db56585224d,"Sur, Venkataraman and Verma",East,Commercial,2019-12-25,69172.81
+ad8a0748-db95-45ac-b384-51b161341782,"Bera, Pingle and Oommen",North,Industrial,2023-10-05,43444.43
+234f5e4a-558a-4651-91da-bb585acb1e72,Banik and Sons,North,Industrial,2022-05-11,61234.88
+bbb11328-14cc-494c-8d41-c028c0505a8f,Venkatesh-Thakkar,West,Residential,2023-10-09,58902.69
+02ac1336-1216-42a7-a2ef-999ed763259a,Badal Inc,South,Residential,2023-06-10,57929.25
+68889499-4710-4699-a7ea-5948c4561d97,Brar-Basu,West,Residential,2024-05-22,28692.48
+0318eb4f-0381-44e9-9508-06b8e3be5a0c,Patel-Setty,West,Residential,2023-06-30,66511.58
+2b2187b9-1bbf-4339-ae94-388a05090d41,"Yadav, Dyal and Rajan",East,Residential,2024-08-25,59700.12
+7aa689cd-537b-4aad-b8fb-ef2d28876081,Parekh-Kannan,East,Commercial,2021-11-04,41186.61
+4f4db1c8-9a2e-45eb-809c-6823e711f64c,Baral Ltd,West,Residential,2022-08-04,47808.82
+a987a103-1b07-4667-ad85-2401d3dbd81e,Gulati PLC,East,Residential,2024-12-19,44256.12
+8ccce685-c7e5-41e9-a8da-fafd48e1dc24,"Chandran, Deep and Karpe",North,Residential,2020-09-20,64415.29
+c482b1fe-2560-4ca0-a19e-2fe0ad1d7729,"Pillay, Tata and Kale",East,Residential,2019-05-15,66594.86
+6822681b-6c08-4644-b735-77550e5ddaec,Nanda-Kade,West,Residential,2023-02-06,50807.38
+30c40dad-bf0b-4736-a752-0f7934996586,Biswas-Upadhyay,Central,Industrial,2022-02-16,40640.62
+7c4bdf15-17d9-420b-b346-431bc7746d8a,"Agarwal, Borde and Srinivasan",South,Industrial,2024-03-09,19037.45
+fadac4cb-79c3-4c5b-9aae-8001c0c95dd8,Aggarwal-Rattan,Central,Industrial,2022-08-30,55557.27
+54569f89-0a0d-418a-9f5a-264821dee6c6,Guha PLC,Central,Residential,2022-07-15,40126.67
+19369b50-c6c0-484a-b773-bcee1d246ea2,"Pingle, Gala and Anand",North,Commercial,2021-10-19,52923.8
+74eb87e8-e437-41f9-b53a-4b099ab3d05b,Ramesh Ltd,South,Commercial,2021-08-16,58187.74
+eef9e5cc-dfbe-4e1c-baa4-53e6497dd67e,Thakkar Ltd,West,Industrial,2023-11-08,52541.24
+4ac47c46-6366-4542-a262-57d45f8f3c11,"Nigam, Banik and Solanki",South,Residential,2022-04-05,50042.84
+3d3afe1c-016a-4e07-9d61-16a984d041b2,Dhar-Shah,North,Residential,2020-03-24,67200.22
+1e0dfe64-73a1-46f9-8504-60986ed33c56,Narain-Gandhi,North,Residential,2021-04-23,47721.69
+312542f8-c85c-4db0-a146-73d6f5762585,Oak PLC,South,Residential,2022-04-20,51570.17
+26c79de7-b69a-495a-9e91-e489a2141d71,Varkey Ltd,Central,Commercial,2021-02-04,41543.26
+b6002b5a-0884-4107-ad65-4e809ed9cf09,"Viswanathan, Tiwari and Mitter",North,Residential,2021-11-02,77655.49
+a6c43af5-a441-44d4-820a-ecbc62904f0f,Kumer-Pillay,North,Residential,2019-02-12,51858.58
+b20033de-e6c2-48b5-bd47-2077f4cb2b45,"Oza, Lanka and Dey",Central,Residential,2024-01-01,36215.74
+cc362d80-0a15-4883-b68e-fb69868d4dc0,"Rattan, Bahl and Gara",South,Industrial,2021-10-04,45493.45
+372d010b-f17a-4894-bd0f-ce34630e5afa,Narasimhan and Sons,South,Residential,2024-03-06,40643.97
+86ea3882-59aa-4bbd-8e5a-498a6e6c9815,"Zacharia, Chacko and Sankar",South,Commercial,2022-07-31,58091.61
+73ca30d0-6c5e-4a3f-a74a-7c66afdcdde3,Naidu Inc,Central,Commercial,2019-06-19,44848.72
+4fcfa48b-36a6-4458-a825-0c269fdde3bf,"Sibal, Seth and Karnik",East,Residential,2020-07-21,54135.69
+76886a65-ad35-42bf-9d78-0f37a1f5709a,"Rastogi, Pai and Dixit",South,Commercial,2021-08-07,50897.81
+7f867928-a76a-487b-b293-65094b5a229f,Purohit Ltd,Central,Industrial,2024-04-10,46123.07
+fd68d877-0072-4b1c-b30c-b85d951b7a0c,Ratta-Ramanathan,West,Industrial,2024-05-13,47132.45
+f938a84e-7214-4c6a-8a22-984fb5d69247,"Batta, Parsa and Purohit",North,Residential,2021-10-20,41008.52
+5f932885-5501-477d-8d1b-a6dec0e7b024,"Goyal, Dey and Dash",South,Residential,2023-08-20,44530.87
+a7210523-c2f4-41c8-8405-b3f9f351068b,Gade-Kapur,South,Residential,2024-05-26,53045.67
+39110e25-93ce-4679-8124-5a76bd18db99,Bail Inc,North,Commercial,2022-03-25,51629.4
+4ab8da00-7429-4f9e-9ea4-539047742943,Banik PLC,Central,Industrial,2020-05-27,52647.23
+f183658a-4218-4a43-a6b4-5a46c4390ca9,Mallick Inc,South,Residential,2024-03-19,68116.69
+b21cc92d-1479-4f70-b627-d83707d4509b,Kothari Ltd,South,Residential,2020-08-16,53736.81
+99f47f32-c672-48c9-9dc7-2a5870c02514,Amble-Sandal,North,Commercial,2021-05-19,59693.88
+86cac5a3-d49f-45cf-b13f-924a691df4b4,"Anand, Mistry and Lata",South,Commercial,2023-07-26,64194.3
+b602faf6-4c83-445f-93ae-baa7714feb34,"Viswanathan, Maharaj and Grewal",East,Commercial,2022-04-19,55378.74
+303342e6-e912-4329-aff7-0fd056f5eaa7,Narasimhan-Mani,South,Commercial,2021-07-13,48320.46
+0fb1e87a-b10b-439f-a37c-6691a735e267,Bajwa-Yadav,South,Residential,2020-04-19,51985.27
+ded49211-b887-4c09-b370-430955650192,"Vyas, Bhat and Babu",South,Residential,2023-04-16,54184.84
+534809af-320c-4891-98bb-171102ca1cc0,Goyal-Samra,South,Residential,2021-08-16,32557.94
+dedd6164-d20e-4d5a-b6be-868149168165,"Keer, Kuruvilla and Mahajan",North,Residential,2022-05-19,35607.02
+5748e6ea-8990-48f0-b01d-b875923ba526,Boase-Dada,South,Residential,2024-09-18,44536.29
+c4da50b6-dd6c-489f-b3fb-41e529c08cbe,"Ben, Kaur and Kapoor",North,Residential,2024-04-25,58659.72
+4031cf35-6061-4b2b-b881-64df676d3730,Reddy and Sons,East,Residential,2023-08-28,53978.32
+b819f384-1783-4c7d-b676-1138efeaac6d,Bhandari and Sons,East,Residential,2021-07-14,70536.33
+e20a6e48-16c4-42ac-8386-57ec055ebf75,Garg-Pau,North,Residential,2021-08-21,45774.58
+62e623aa-a774-4b9e-b824-5972d87a77f0,"Lall, Bajwa and Bail",South,Residential,2021-07-18,66159.64
+d115a3ba-f2fb-4c78-bec5-16b0e180b067,"Sachdev, Pradhan and Verma",North,Residential,2021-09-03,66757.47
+9cd20285-27c3-4701-b1c4-755f43a80da8,Sood LLC,East,Residential,2024-07-17,56855.29
+a25f9651-7fb9-469e-81fe-9bb86e49fb36,"Manne, Aggarwal and Pandit",East,Residential,2022-02-27,57988.56
+955a30ce-c5aa-4798-82d6-dcd534dcfeec,Edwin PLC,Central,Residential,2021-07-12,52712.71
+d4111b60-607d-4fa6-b78a-1b22daf58a94,Yohannan PLC,West,Residential,2020-01-03,55653.05
+8f5e486d-aecf-4b5d-a362-6780e3b03bff,Dalal-Samra,West,Residential,2023-05-11,46383.67
+bfb6693d-0d18-48b6-9861-7139bea27b80,"Wali, Solanki and Nath",Central,Residential,2023-03-20,45206.47
+30f997d9-e0ed-4bb0-8dd2-193d0761a8ec,"Parmer, Boase and Konda",South,Industrial,2024-07-03,45306.53
+e9f6d153-b108-447d-ae7a-458a35420fc0,Dua Group,Central,Industrial,2021-09-04,56277.52
+03ce961b-b8f5-46d6-b6b2-a2446d36e150,Halder Inc,South,Residential,2022-03-20,56498.66
+012f13e1-e885-4e78-a528-9fc5d16e888f,"Sampath, Deshmukh and Lalla",North,Industrial,2024-08-25,43255.47
+df8263fc-01bb-4c16-b8a6-93d226ce4db6,"Rajagopalan, Bandi and Sarkar",West,Residential,2020-01-03,41829.6
+cd8c22e7-00eb-4841-a20c-848684b98d01,"Barman, Comar and Gade",Central,Residential,2020-08-25,32372.02
+84c3d7a2-8fac-42c5-a9e7-050a84daf2cb,"Bumb, Dua and Wable",North,Industrial,2022-01-09,46136.62
+a2cde7cb-6af3-4056-91cd-a5246ddd441b,Kala-Chhabra,North,Industrial,2019-03-20,52122.51
+e885de18-1855-44ae-8494-19926f902b70,Pal-Mutti,South,Commercial,2024-01-05,44895.23
+c5d21ae6-0b65-4565-b750-2d4345e6a1d1,"Bora, Prashad and Balay",East,Commercial,2022-08-12,62540.79
+408a4f09-abb8-4bae-a1db-3a153a13e831,"Goda, Trivedi and Kamdar",West,Residential,2022-07-13,70341.11
+1674dbc0-308c-4118-b874-0f568e9a3f3e,"Kata, Seth and Mittal",North,Commercial,2019-06-28,47189.01
+7e84190a-14fc-43e0-b095-767db452f38e,"Balakrishnan, Salvi and Soman",West,Residential,2021-01-27,49173.43
+ef7ea224-8f94-4b2b-9b37-8e7d45cd8227,Majumdar Inc,North,Residential,2019-09-16,61531.19
+9351db2e-8558-4b71-a71c-d194396f16be,Mani PLC,West,Commercial,2023-02-18,52508.01
+4ed3d4da-625e-4b65-8b23-58f57250a8f7,Nayak Inc,South,Residential,2020-01-22,40074.07
+df885837-79d3-4bea-8d73-b893a17e7db6,Nanda Group,West,Industrial,2021-06-06,43043.33
+b4826012-c61c-4ec7-b7e1-d3f05069c862,Brahmbhatt-Pillay,South,Industrial,2022-08-20,47808.64
+611432a3-778b-40b5-a428-0840f2419e58,Chacko Group,North,Commercial,2023-11-05,56758.07
+5a199952-2732-4a38-a92e-4e4a4bf9d82c,"Bath, Mital and Vohra",West,Residential,2019-09-28,29185.47
+a8bb9562-bbfb-463c-bae2-62993591e2b3,Dyal-Kamdar,North,Residential,2019-09-11,63230.72
+08ebbf01-fc07-4e0a-9d28-0827b7747b4d,Dyal-Kothari,East,Commercial,2022-09-26,64500.43
+122bc5e9-d9b0-426c-949d-1a51d907704e,Kulkarni-Divan,South,Residential,2019-05-14,59816.58
+107393a5-fb8e-4dbf-9170-5b4afc3210ee,Dora-Lala,West,Residential,2021-09-29,42571.67
+4239837e-72fc-45eb-aff1-d9ec73c3e8a0,Saran PLC,West,Residential,2024-10-19,39743.17
+73a3471d-42fd-4aeb-bd9b-68ec9c297ba1,"Kalla, Pillai and Pant",West,Residential,2020-10-23,51676.38
+32b59b48-c119-4c4a-9c64-00c142ab0e00,Parsa-Hegde,South,Industrial,2024-10-30,46619.23
+189b64a2-e36f-4a92-ae0c-858737122c4e,"Uppal, Nadkarni and Savant",North,Residential,2022-02-28,33040.79
+f7c8409f-f8ed-4030-9e2d-c3ae80a49a9a,"Bawa, Chaudhuri and Parmer",South,Commercial,2024-12-05,52174.72
+da16d5e0-99d2-42db-9ee7-d3eade6f2c89,"Chanda, Mishra and Parikh",North,Residential,2020-02-13,39517.81
+bb9c59e6-77ca-46b8-9076-ea573aef9c90,"Tak, Pandya and Jain",North,Residential,2024-12-13,31383.67
+de9c5960-af02-4b35-bbce-b9845bd4f746,"Majumdar, Nigam and Thakkar",West,Commercial,2021-02-06,58861.19
+6a29b638-281a-44f3-a226-f490b3baf7d7,"Bhat, Sharaf and Munshi",Central,Residential,2022-12-25,52173.56
+6c3114c7-8b77-444f-93fe-544d59bc8775,"Khanna, Babu and Borah",Central,Residential,2024-08-25,50829.93
+b404b9f5-add4-41fe-a040-d6b4bcfd1468,"Walia, Arya and Wali",West,Residential,2023-10-20,37732.36
+a893e9c0-b5d1-4974-b7e5-ce89b758c928,"Choudhary, Nadkarni and Mane",East,Residential,2023-06-02,41394.39
+5890a516-b698-463c-a7f1-a2a8f8090b7c,Bail-Goyal,North,Commercial,2019-04-13,55970.66
+637fa229-4daa-4c13-b0cd-855c2fa99f62,Ben-Mahal,South,Residential,2020-08-30,65618.36
+64d0852a-b43c-4eaa-acfc-d71dfa16a2b4,Chadha LLC,West,Residential,2020-03-24,48029.32
+3927274b-35a5-4883-96d9-f0fad68c57d1,"Kapadia, Halder and Gala",North,Commercial,2020-01-15,62941.56
+ed5f82aa-9616-4d05-a495-14c4c8d4f2b1,Gour Group,Central,Residential,2021-12-15,42729.28
+2e2d0a3c-c3ee-4d22-b90d-8c38f189b0af,Jayaraman-Chander,West,Residential,2022-10-10,62257.87
+efcd2360-176b-4e01-9141-c98ed8d179f1,"Choudhury, Nigam and Zacharia",East,Industrial,2021-07-16,51607.85
+decb876e-b5ed-4450-b2f1-0492a8cc61fc,"Halder, Tripathi and Kata",North,Commercial,2022-08-24,56433.3
+6497d8da-ca1f-446b-ab11-6bec6d015b8c,"Solanki, Mann and Kamdar",North,Residential,2024-01-01,41970.35
+958f8988-59d6-41f7-abf0-6ec62165f2f4,Khurana Inc,West,Industrial,2021-03-30,45704.17
+65357235-e859-4452-bf9f-419f949d2e5c,Rana-Gade,Central,Residential,2024-01-05,29161.93
+539c1c68-dde3-4d47-b82b-e51621a316b2,"Narayan, Gokhale and Batra",South,Residential,2019-09-30,55034.5
+82f53d08-92c5-4f71-ba5f-67b93316597f,"Goyal, Ranganathan and Mody",South,Residential,2023-03-05,55935.22
+88137ee5-3973-46ec-9111-d2e2a376d1c4,Bansal Ltd,Central,Commercial,2024-08-20,57261.7
+03c97557-9909-41fd-99c9-18e4d3af82c6,Deep-Rana,North,Commercial,2021-04-10,54120.92
+05298bfb-1412-4778-a8bc-8233ac081a34,Goyal Group,West,Residential,2020-12-14,56545.61
+004a7d8c-0a11-4ff3-9563-e8eb9ab9487d,"Sundaram, Dubey and Dutt",South,Residential,2021-05-31,47727.98
+2d807cba-ee9b-489e-8e9f-1f45a33dc10c,Sharma LLC,East,Residential,2020-12-13,32552.78
+bebfc7c6-af08-48c0-bf3e-e0b9535f3137,D’Alia-Agarwal,South,Residential,2022-12-15,64718.21
+2e37b603-c663-4916-8b5a-c78a1e827eac,Mangat Group,North,Residential,2021-12-27,56175.3
+6a90ee29-0f92-4cf8-87f2-9fa46abdb2d9,Kurian Group,West,Residential,2020-03-11,46353.57
+114d2d91-b09d-4612-a2c3-076c09866d22,Sane-Krishnamurthy,North,Residential,2024-05-12,60546.6
+5a375545-5548-4245-b8b6-f0c127f22bd5,Chaudhry Group,West,Residential,2024-01-29,49085.28
+6aa4716f-c593-475f-a132-d37ed5a8072e,Bakshi-Morar,South,Residential,2020-04-17,52476.88
+02894bbe-e06c-48f1-89c7-cf3aa5533992,"Bhakta, Bhagat and Menon",East,Industrial,2020-07-13,41103.81
+b0b4a664-cc9e-49bc-85a8-2eb0946906dd,Kibe PLC,West,Residential,2024-06-02,47127.03
+4d9ed2f0-6bba-4608-821e-98f6e22476d1,Bedi and Sons,South,Residential,2020-04-23,40107.29
+663b0371-6515-4c91-babd-baad82bce871,Rout-Thakur,North,Residential,2024-08-11,38856.03
+6ed5245a-8078-457e-b1a5-0e28963c197b,Arya-Apte,North,Commercial,2019-02-02,49566.28
+9b1ed644-4526-4b09-90ae-d86a83210c02,"Mittal, Handa and Chatterjee",East,Residential,2023-03-21,51964.69
+0f80e1c6-837f-45fa-b62d-0a17cac8a397,Sibal Group,South,Commercial,2020-03-05,36970.28
+a4b53bad-8566-44be-9a19-13af40d5e34a,Walia-Taneja,South,Industrial,2021-02-26,39249.74
+2e7f7f43-1435-4062-945e-2df21f1dd4ed,"Dhawan, Narasimhan and Deo",West,Industrial,2024-09-06,39497.51
+d9abd9e4-19cf-4be2-a779-64f8bdbea418,Master-Kulkarni,East,Residential,2020-08-12,51400.03
+fb7b3772-be0e-4bca-8c8e-95ddb2cb8651,Kothari-Mangat,East,Residential,2021-01-19,52670.77
+36e8632b-deb1-4d8a-8a1d-b78ce46b07b0,Varughese Inc,East,Residential,2024-08-16,48408.81
+79d8f9fa-6e42-4c0b-9cb7-b98f4ebff99b,Khalsa-Khurana,Central,Industrial,2021-08-10,47701.82
+b6cc0dda-965f-4889-96c4-333d89277eaf,Wason-Sankar,North,Residential,2020-01-04,45022.67
+38d03e3f-e794-4e83-b71b-a53322ef0e27,Viswanathan-Khatri,West,Commercial,2022-10-21,50319.03
+2a886000-7a7b-4393-99e3-2588171feb0f,Mannan-Chad,East,Commercial,2020-10-11,40871.38
+0daf89f4-79a9-4e93-a50b-1b4a002b41e2,Garde Ltd,South,Residential,2020-07-18,39673.84
+5ef9a0b3-4a04-43d3-87eb-b6147a65b22b,Balasubramanian Ltd,East,Residential,2019-12-07,63196.66
+7c7765f5-9fbf-4207-bc0e-7889689b19ea,Seth Group,North,Commercial,2019-11-01,60825.37
+1879ec40-ace7-406b-a3de-36f11fd359c2,Bajwa Inc,Central,Residential,2020-01-14,62817.66
+e08c0376-131a-4040-8244-91977bd145e2,Narang PLC,North,Residential,2022-09-16,51976.4
+448a5de5-41ff-46a9-b48b-0050fe7d04cc,Nanda-Gour,East,Commercial,2022-02-21,49073.86
+c3672c31-91fc-4020-b77c-dd5b941350a3,"Sahni, Sankar and Pillay",Central,Commercial,2019-12-21,37617.16
+8ec1ba01-5c59-49ed-85cf-6faae4c1e880,"Vasa, Kothari and Guha",West,Residential,2020-06-06,75342.87
+412d5d8d-8051-4d63-b4c8-ecf284ac9423,Dass-Mitter,West,Residential,2024-07-22,60245.99
+87799283-644f-4ec9-ad27-1a0b04441b21,Sane and Sons,East,Industrial,2020-03-08,50796.2
+a11b7be8-8188-4aee-8e87-e8391733dcef,Soman Ltd,North,Commercial,2021-11-26,51816.93
+977415ef-4805-4d29-8b9b-b85d92e3e46c,Rai Ltd,North,Residential,2023-03-13,40677.22
+14b7b32c-309d-495a-9a9f-5ac8c66db186,"Wagle, Dalal and Shenoy",South,Commercial,2024-10-28,30456.21
+8a8b4770-deaf-4cb3-93ef-16930e8e121f,"Prasad, Verma and Mohanty",West,Residential,2020-04-27,60861.71
+f2e31b2e-7fe0-484a-b40c-a3cf2fe5a36a,Divan-Devan,Central,Residential,2023-02-03,46916.19
+c949c397-861d-4092-a6b2-44f2c242ae5d,Sastry-Kibe,East,Commercial,2024-11-16,34159.9
+66d3e94e-0a71-4bb1-9a97-565645d8d94b,"Ratti, Brahmbhatt and Mody",North,Commercial,2024-08-04,47752.86
+769248cd-a74c-4572-9b6f-6661d56fb299,Misra Ltd,East,Residential,2024-12-16,34580.9
+37ab941c-537d-4ced-bdfb-ceec88b257ef,Edwin-Krishnamurthy,South,Residential,2023-09-28,47547.9
+3053b2cc-c5ad-4a83-a561-2147b03f90fe,"Rajagopal, Chakrabarti and Vora",Central,Residential,2020-10-11,62878.5
+aee63277-8bed-4e49-b1a8-82862688532f,"Muni, Dhingra and Badami",North,Residential,2024-06-21,50367.34
+7c066880-67a7-46e0-9798-b44b4d94adec,"Ratta, Sharaf and Raval",Central,Residential,2023-10-13,52684.16
+245af2c3-bd0b-4170-a5fc-ed316e2afedd,Sane Inc,South,Commercial,2024-02-05,61714.21
+e4b7ffd9-14ad-4e7d-8d28-aea4c91a3262,Sandhu-Joshi,East,Residential,2023-11-26,58118.51
+ef2f22cc-2327-4ee5-9612-5aaf48d1079b,Solanki and Sons,North,Residential,2024-04-13,52943.75
+2f885f25-f298-407e-a7f5-de427da60a44,"Mukhopadhyay, Shah and Gandhi",North,Commercial,2024-04-15,49716.57
+f4788039-140d-445e-af63-69909437c87e,Kulkarni LLC,Central,Residential,2022-11-25,46340.26
+77bed4e7-b0a3-41df-a125-1108ab31d007,"Brahmbhatt, Gala and Sandhu",South,Residential,2024-01-09,48352.18
+74972fdc-fe6e-473a-a038-aa97c3b98695,Bhatnagar PLC,Central,Residential,2019-10-08,27581.23
+f5ed9f56-d449-4581-8991-c1272e3f375e,"Sahota, Ramachandran and Date",East,Commercial,2024-08-05,52156.9
+b49b7e45-eebe-4d34-b461-c43c33d15bdf,"Cheema, Balan and Nagi",Central,Commercial,2020-04-17,52653.07
+d8605bf8-b8dd-4cbe-b12d-789858161e11,Peri LLC,South,Commercial,2024-03-05,43035.82
+efac5698-cc21-41e6-b1c8-e74ab6a8a95c,"Edwin, Deol and Baria",Central,Residential,2021-02-24,58856.31
+e8ea5fdb-1c16-475c-b317-03f7f38daebe,"Bhandari, Bhagat and Dhillon",South,Commercial,2019-07-02,34593.23
+4e559faa-44fe-4ec6-9e93-0c5bc860c376,Soman Inc,South,Residential,2019-12-25,56419.9
+c91d5995-ec19-4dea-998c-e90a5b4fc649,"Atwal, Lad and Sarna",South,Residential,2019-12-05,44316.94
+d2f6a3e4-896d-477c-8528-d1e70bf2ee2d,"Lata, Peri and Chokshi",East,Residential,2021-05-15,51138.21
+8597f170-d6d4-48f4-a3b4-084f2cfc63cd,Dash Group,North,Residential,2023-03-01,46834.66
+e75989c4-6cb1-4e02-8b34-f08929d61482,"Kashyap, Bhatnagar and Kale",South,Commercial,2024-12-28,39455.16
+93e04b2a-0ca9-4268-97b9-57e3fd21339e,Palla Inc,West,Residential,2019-04-04,50682.27
+94b47896-fec8-4628-adf6-be0f6a592da9,Bhakta-Shere,Central,Residential,2019-05-24,42878.13
+6d9c70c8-878f-4eae-ba36-ea1f2b2e567e,Sagar LLC,North,Residential,2024-10-15,53658.23
+9017b3af-9e10-4e52-82d5-03b9cd3f83a9,"Chopra, Ratti and Bera",South,Commercial,2019-12-29,58043.74
+1e758869-27a3-4681-8a42-201dfd8c4273,"Seth, Sharaf and Nagar",West,Residential,2023-10-26,44741.91
+2cde76e0-7c86-4760-bd90-d0cce8acc5f6,Gara Group,West,Industrial,2020-04-16,58576.83
+72438702-98a1-4bda-ac47-7d2d50f888e8,Shanker-Gour,Central,Residential,2022-04-25,66515.0
+aae34b78-21eb-4aca-b95a-b29a6a96680b,Kala-Chadha,Central,Residential,2024-04-23,52018.79
+c14052c7-8e30-4873-81f3-a8a33b92c591,"Chaudhry, Nayak and Comar",Central,Commercial,2023-01-21,52561.17
+749b690a-2ab3-4706-a8fb-147c904cbcce,Bali-Saxena,Central,Residential,2021-08-30,52321.35
+994becf0-e349-41b4-ae73-f17ca84af8df,"Hans, Sanghvi and Singhal",West,Commercial,2022-10-02,47083.8
+1c5cbfbb-1f83-4a22-943d-ec8a7374e895,Sane Group,Central,Commercial,2020-03-09,53883.29
+1d837c69-08f3-4205-a92c-22c07785afb6,"Bail, Cheema and Borra",South,Commercial,2022-01-19,63487.64
+83836697-b1e5-46e9-b25c-081bd328c49f,"Borra, Reddy and Madan",West,Industrial,2019-03-12,49902.89
+54db7e61-e4eb-43f4-8468-b36ce84285a4,Wadhwa LLC,Central,Residential,2024-12-15,48015.09
+5a225a03-0705-4cd6-93a5-26a0bdd40dc3,Cherian-Verma,Central,Commercial,2021-04-18,43687.29
+b00fdb29-fb9f-4810-8e7b-aa816e7c3497,"Rout, Nadig and Hayer",Central,Commercial,2021-06-27,53327.31
+bb869ef2-febe-480f-9e7d-5aaba2a3836c,"Chand, Mahal and Apte",West,Residential,2021-06-24,44617.02
+3bb8a004-d1e0-4e5e-9f57-e39ee10b3467,"Garg, Kala and Trivedi",Central,Residential,2021-03-31,37260.03
+b16372f9-6dac-4096-9b30-6c4198c400ce,Patla Ltd,North,Residential,2021-03-03,44637.35
+1425291d-5738-4d32-9942-4d713dbaa5c9,Rout-Krishnamurthy,North,Commercial,2019-11-08,55939.87
+71c7e7f3-f6d5-442f-9bb3-77b129ab62bd,"Chandra, Mistry and Sundaram",East,Commercial,2023-02-03,53683.06
+3504a749-cb83-42db-85f3-10770ed44043,Dutta-Grewal,East,Residential,2019-03-15,43728.48
+f7c00e77-7ef6-4775-9ffd-ec8baaa8a53c,Swamy Group,Central,Residential,2021-12-09,41850.24
+0d70f905-116e-48a1-b654-497cf688dc65,Nair PLC,West,Residential,2022-09-19,54822.59
+1055a3fb-66ca-4dfb-8e87-11367eed8edf,"Sahni, Tripathi and Baral",Central,Residential,2022-12-26,52092.2
+64a4d0d1-da36-4a23-a8dd-02cc723237d2,Deol-Kadakia,South,Residential,2021-02-21,62183.18
+4403ab8a-b8c3-45d2-a3d5-4e49b625f08d,Yadav Ltd,North,Residential,2020-06-24,46918.86
+d7a4c9a4-d7d8-4cf7-9263-26c04dce6e46,Krishnamurthy Ltd,East,Residential,2021-02-17,53523.61
+9c495124-e977-488c-9aa1-5aa721b459c3,"Guha, Ben and Tak",East,Commercial,2022-08-22,59931.31
+4d8cc5d4-bd07-4a7d-bf7e-f6f3bd88fa6e,"Uppal, Dube and Brar",East,Residential,2019-04-20,43496.02
+5308bf9f-031d-4191-8707-37d931070ddb,"Parmer, Radhakrishnan and Dara",West,Residential,2020-06-23,44314.35
+d6336004-aebc-46da-92ba-6e62f2406982,Sanghvi-Sibal,North,Industrial,2023-09-07,49224.98
+c2a0ce8d-3309-434e-a1d6-7b2c95bbb39f,"Seth, Suri and Dyal",North,Residential,2021-03-15,68445.65
+305f0d72-bba6-420d-993f-d53f0e972b2c,"Tara, Sankaran and Chatterjee",East,Industrial,2019-03-21,43297.36
+5da0809a-6c74-4618-bacd-943135c6bf67,Deep-Dyal,East,Commercial,2023-08-24,47308.2
+15268ac4-7576-4734-acb7-a0d969ddb248,Balay-Kohli,East,Commercial,2024-04-14,41942.75
+e30e01b8-d652-4914-99b0-f9b6e0f2386f,Borra-Banik,Central,Commercial,2024-03-10,51249.85
+be591169-89dc-4edd-8493-28bfe4fb7678,Korpal-Pradhan,East,Residential,2022-07-05,36654.65
+de252a7a-9a24-40ce-8041-87fe06e2c2c5,Savant-Dora,East,Residential,2022-11-08,54467.79
+0f64b96d-2b8e-4b16-a4fc-bb83d8236759,Johal Group,North,Commercial,2020-10-31,34294.84
+8b195350-5ae5-467a-b4f0-9af62e84f017,Sehgal Group,South,Industrial,2024-08-01,27409.11
+4336bcc7-7ffe-4615-8aa1-75b9968ef259,Srinivasan Inc,South,Residential,2020-03-14,53057.95
+257369f9-312f-4d44-9358-a554da893927,"Mander, Bala and Radhakrishnan",South,Residential,2021-08-05,62475.44
+caef6964-acf1-4acb-a374-00aad5015df0,Walia and Sons,Central,Residential,2023-12-08,52756.18
+c40e344f-7fde-4949-98ec-03cfb13eb4b0,Nadkarni Group,South,Commercial,2023-05-17,66693.25
+7a9a7106-1fd0-43a2-a2e3-ad03189677eb,Devan-Bala,East,Residential,2021-01-02,42694.23
+ba34698f-9692-4e30-89d5-c33f92b3b04c,Chaudhry-Korpal,North,Residential,2020-07-24,50002.98
+bae365a0-f9a9-479d-81c7-f60154ba7bab,Kari-Bera,North,Residential,2022-08-30,37232.81
+b472f020-82f2-4680-a94e-2cd686c45760,"Devan, Bhalla and Som",Central,Residential,2019-01-30,59734.05
+8556477d-84f3-4d05-bebe-f0eac29ebe89,"Verma, Shroff and Pingle",West,Commercial,2023-09-12,49820.45
+6a5bdef8-4455-459b-b9e9-362db337479d,Sha PLC,South,Residential,2023-03-03,43659.32
+78882fdc-4aaa-4957-b6a4-fd3d042b5784,"Borra, Dave and Ramachandran",North,Commercial,2020-01-25,53502.4
+8fa5d3da-f58f-43e7-9fc0-d1748c84d39e,Ahluwalia Inc,West,Industrial,2024-08-01,53079.99
+e3e91e32-8a9f-4d8a-aedc-7c60dbad64fc,"Bose, Pandit and Munshi",West,Residential,2022-02-01,55132.55
+3973d395-8327-4b3b-8c28-a97366723777,Badami Ltd,North,Residential,2023-10-02,49926.61
+9973d59a-6278-4381-9e9d-61c80368bd38,Pathak and Sons,East,Commercial,2020-03-04,46889.78
+908f6ce2-2ca6-46b5-9e37-aa5dd76184e4,"Mukhopadhyay, Kashyap and Chada",South,Commercial,2023-11-26,47853.79
+4a9b726b-8c06-441d-9f76-db0a304082ff,Loke and Sons,West,Residential,2023-03-19,64971.85
+6a2e73d0-e5bf-4658-b5b3-e1188d20bf91,"Khare, Rastogi and Sandal",South,Residential,2021-07-12,30326.56
+6ff83999-ea1c-48fe-a1ab-c2cf67b0ba68,Khare-Kata,West,Residential,2019-04-06,14623.35
+142d45e3-07f2-43d6-87f7-7e50c7d2431a,Majumdar PLC,South,Residential,2022-12-07,77516.22
+3033a598-d916-4f22-9fd7-a046e1913dba,"Koshy, Ramachandran and Wali",East,Commercial,2022-02-22,43157.85
+457f64f5-8339-4e1d-9152-54afcbd3ea80,Tak-Sharaf,West,Residential,2020-12-30,46335.27
+d50ba3ee-8ebb-42c4-b875-f8b7b5d51d6c,Sankar-Roy,North,Commercial,2024-10-05,33807.61
+d3d5773e-fafd-4d7f-a947-520d51f56eed,Bajaj Ltd,North,Residential,2022-12-20,51442.76
+2f145380-2119-42f5-ad74-071a3dd7906d,"Acharya, Rege and Ramakrishnan",North,Residential,2022-01-20,38853.62
+b321b03e-879c-4020-9435-83ce8d1af263,"Borah, Sharaf and Nadkarni",North,Commercial,2019-08-12,51557.23
+cb581957-8ef2-4796-81a2-9d05497f0df5,Khurana Ltd,East,Industrial,2024-05-13,59755.32
+12c13531-340f-45a1-b72e-edad5d8b1117,"Kalita, Raval and Andra",East,Commercial,2023-12-14,49819.08
+ba40a32b-9ca3-44ad-b629-8aa9599aba73,"Agate, Dhingra and Arora",South,Industrial,2020-02-25,57683.57
+06bd55e2-9269-4a36-9135-5d90e0ba4d5e,"Bhatt, Dey and Ray",North,Residential,2020-01-27,36838.79
+56d698d4-b84e-49b6-a015-e7594fb7b6a8,Andra Inc,East,Industrial,2020-03-03,56467.84
+93d59057-827b-4898-9f91-27cc1cea9640,Karpe-Sanghvi,West,Residential,2023-09-16,61327.43
+71eaf791-9a83-41e3-98ac-1d3b76ac16a2,Gupta Ltd,West,Commercial,2021-11-25,76933.18
+9c474053-cb2a-4599-96a9-93bdddfba073,Brahmbhatt and Sons,West,Residential,2020-01-17,56048.43
+c1dc93fa-b096-40d6-b591-ed5269bb3908,"Anand, Gole and Jaggi",North,Commercial,2024-07-28,55999.3
+8eadf8e6-6b5e-4031-9d82-5978f307eca1,Rau-Thakkar,East,Residential,2023-02-07,45656.9
+00b49153-e904-451a-97ef-8bc94ce34668,Kothari-Subramaniam,North,Commercial,2024-08-04,39535.56
+1e52f538-867f-4eaa-b683-a86bf0f833cc,Batra Ltd,Central,Residential,2023-11-11,57255.54
+bd84315b-9be3-45fb-be02-a85db9668897,Dutta PLC,North,Residential,2020-06-14,64975.67
+25e70893-7a2d-4d1c-a5ea-410c2b6938dd,Kadakia Inc,South,Residential,2022-01-23,43569.28
+93fe8291-f8e7-4f73-833b-e4683c4c18ca,Swaminathan Inc,Central,Residential,2022-12-12,71714.38
+8df1f0fd-162e-42f6-b24c-15bf6c813d73,Dada-Korpal,North,Residential,2019-04-22,51531.08
+b4b2aa88-9125-48e8-8c27-c01b42e396d8,Som-Goda,East,Residential,2021-04-07,48821.15
+8003e7a1-8b0f-4937-a2e1-8990d1b3ac6f,"Manda, Sheth and Chada",East,Residential,2019-11-08,43519.19
+4a25c9e1-e890-4595-9731-19ca87a6b99d,Barman-Roy,West,Residential,2019-07-14,45264.08
+1cc9e228-c514-4ec2-8595-39ff864a80d2,Sodhi PLC,East,Residential,2019-07-04,32066.08
+5c7df9df-0a4a-4b80-8c01-3620b86181ec,"Chatterjee, Sant and Dani",North,Residential,2022-04-18,47695.02
+971aa004-e1d1-4a0c-8bfd-f3b07a289c21,Bhalla-Kari,East,Residential,2021-11-22,29208.84
+4c973cf8-1157-456a-a0dc-77821a634616,Lal-Nagarajan,South,Commercial,2022-12-30,40976.13
+ad51ce6d-336f-4fae-bae4-1bf9a096e4f6,Shanker-Sodhi,West,Commercial,2023-10-12,45594.95
+6a99f297-c028-4bd6-b159-39aa1b88811b,"Amble, Acharya and Tandon",Central,Commercial,2024-02-27,39577.74
+c91c520f-4ad0-40e1-a3b7-22a51787cce3,Tara-Aurora,East,Residential,2022-03-03,52772.14
+cc47942a-1782-47a0-8f7b-0e9e1a6c4f14,Mann Group,Central,Residential,2023-08-30,35377.53
+80edcacc-be5e-4063-9154-72233a12f9d8,Rajagopalan PLC,East,Commercial,2019-12-13,21694.74
+1ddc7871-dfb2-40aa-9518-73709d0924bd,Sharma-Amble,East,Residential,2022-07-03,52197.89
+d952b9f3-fe94-4629-ade8-190040c892f1,Mangat-Lata,West,Commercial,2023-12-18,58616.57
+e99713e8-44c0-4e79-bbb8-65fc16bf3493,"Dora, Bali and D’Alia",South,Commercial,2019-10-22,49278.37
+c71cd957-a20e-405d-bc9c-4606458891f5,Sharma-Gaba,Central,Industrial,2022-03-17,40428.2
+66f9d950-517e-4d45-ab2f-fad2d908e181,Bera-Jain,Central,Commercial,2021-11-22,55154.69
+5eaeebc0-ad03-466d-9d57-ee8965a350bc,"Wadhwa, Dave and Bajaj",South,Residential,2024-06-21,48597.49
+f376171e-1b19-40ef-90d8-96b896365c68,Mukherjee and Sons,North,Industrial,2023-08-31,48983.01
+ffac1ef6-552e-4414-828a-ebae3e4bc633,Kari-Kaul,East,Residential,2019-05-22,41151.43
+9904c582-8fbb-4cd0-a5ad-d5d68d8deab4,Dhar-Rajagopalan,North,Residential,2020-02-11,57550.61
+ba725620-1ae4-4fb8-ab57-55399c26c9e4,"Kade, Raju and Bumb",South,Commercial,2023-10-15,39669.54
+947a445d-f62a-4f61-838f-95e39baff2cd,"Dugar, Taneja and Sharma",South,Residential,2023-07-17,53450.71
+8d1da3ec-7e7c-44d1-8423-421f48273525,Palla Group,East,Commercial,2022-01-10,36865.07
+d33a8d4a-c1ca-4eea-b8d3-2e11e5095be7,Tella-Om,North,Residential,2023-02-05,56775.49
+8651916d-c8c1-41fe-a726-44ccb51eb699,Kannan-Golla,North,Residential,2021-08-17,55912.04
+30eb099b-51df-4837-bcc0-70251fbad13d,Prasad-Sandal,East,Residential,2019-01-11,56342.58
+1f376f16-5761-4252-b3a0-88c1ee95cc5f,"Jayaraman, Rana and Parsa",South,Residential,2020-02-20,40038.22
+0e560d58-dd9d-4113-995d-8f0abdf34918,"Zachariah, Swamy and Som",North,Commercial,2021-11-01,52297.5
+08be6d2b-5a64-4145-8dd4-a1455368515a,Parekh-Saxena,West,Residential,2019-01-22,32076.55
+eff57ae0-8d2d-470f-a00b-e79f19ee7f30,Khare-Talwar,North,Residential,2023-05-05,65142.04
+28cea2b2-c19c-4397-bd79-2bdf709da64f,Thaman-Kadakia,West,Commercial,2023-12-10,44349.22
+e21f4f46-9b96-4368-b52d-cbd6d59f8b92,Hayre LLC,East,Commercial,2022-12-23,38262.09
+2a536119-d28f-4d16-a3e1-6925da9c34ee,"Shah, Deep and Rama",Central,Commercial,2020-03-21,59739.74
+9a02f21a-865b-4a76-9551-4bddc4b6492c,Batra Ltd,South,Commercial,2020-04-24,52144.34
+43b5ed95-5109-49d6-9c2d-ea7aac00a22c,Seshadri Inc,North,Residential,2019-02-03,39682.28
+28c3d095-59a4-4288-881a-a0ba2915e671,Krish-Roy,South,Residential,2023-06-28,63058.29
+f42eafc4-bc6e-4927-b7f2-742f94124936,Bajwa-Bajwa,South,Residential,2021-05-12,62790.32
+b7241c85-8808-4637-8ea0-6d14fb493cbf,Bhasin-Kapoor,West,Residential,2020-01-29,54594.85
+6331c68a-1a62-4a70-8e71-ad8589a0a058,Prakash PLC,East,Residential,2022-11-03,57676.84
+85e39559-a732-4319-95d8-3935a99d64d9,Ramakrishnan LLC,South,Residential,2019-01-23,43718.6
+73efc1e4-2c32-4ff9-bed6-30c654970bc7,"Bose, Rajagopalan and Issac",East,Residential,2019-04-30,56101.1
+acc9cdd8-665b-41ec-9838-5e7b329ccdd1,Rout Group,South,Residential,2022-08-01,54771.14
+efe45535-c4bf-4ad6-b490-e38b7fdf2e9d,Panchal Group,East,Residential,2019-01-01,47456.37
+5a3ad5d2-6f59-4a98-bb50-c3e9b2696202,Rana Ltd,South,Residential,2023-01-18,51774.9
+18c2fe03-87d9-4442-ab2b-f94308ce6ff4,Ganguly-Sahni,East,Residential,2020-12-21,40096.96
+760ca240-206c-4b1a-b43f-8a2a5bc800a1,"Acharya, Gandhi and Gill",North,Residential,2021-11-26,31286.25
+04087a7d-495d-4a60-b84c-d983c0bc9aeb,Sharaf and Sons,South,Residential,2020-08-11,67556.37
+157e75c0-33cd-4df9-a3ac-4bedf259edf7,Chawla and Sons,North,Residential,2022-10-04,53047.95
+92ce9921-180a-4d21-8eec-dbd9967d16a9,"Chatterjee, Bera and Kamdar",East,Commercial,2021-09-18,47486.65
+5bfeb824-f7e2-42db-a598-594620a2edda,"Divan, Menon and Khalsa",East,Residential,2020-07-08,44162.12
+5c193222-eb31-4458-a12a-3377b894df1c,Joshi PLC,West,Residential,2023-04-22,48405.63
+63dc42be-3635-49c3-b207-c1cb46f7cb49,Bains PLC,Central,Residential,2024-03-02,54731.05
+a9f009d9-98da-455b-acf6-9ba653186ea7,Bahl Inc,East,Residential,2019-07-06,55708.27
+357f3950-2f6f-44c3-bc54-c9488e63cea2,Butala LLC,Central,Residential,2019-01-22,64325.15
+82f7ed30-cf46-4b4b-a232-0cb858a0798a,Merchant Ltd,Central,Residential,2019-01-26,41506.96
+c467792f-195e-448a-ba6e-ca57f4e727a5,Sehgal-Malhotra,Central,Residential,2021-09-13,53792.74
+09d64ab7-df0a-48d5-a517-1ae67bab19b6,"More, Badami and Chatterjee",East,Residential,2023-12-30,48481.78
+20206625-3ede-46bd-9f76-5c2754a5f7c3,Gandhi-Dhingra,South,Residential,2023-12-31,44574.73
+a5984337-3f40-48bc-8834-df441018420a,Lal Group,West,Industrial,2024-12-20,62083.59
+4b8b2855-5165-490c-a5df-0083cc6161ea,Mani-Varughese,West,Commercial,2019-11-22,43893.36
+580bbd04-90e2-4c15-a1eb-42a296557abe,Batra-Nadig,West,Industrial,2024-12-27,46868.18
+84b82bc7-dbac-4a08-93e6-7dc98aa7f856,Rastogi-Das,Central,Industrial,2021-05-30,49250.85
+17cb7a6f-dd3c-415a-b492-d80277274e8a,Yohannan-Konda,South,Residential,2024-07-20,65978.39
+6b3aba23-0b15-4689-bbd1-3aa4c4a977b1,Varkey-Keer,North,Residential,2019-07-30,48163.88
+e745c2e2-bff6-496e-a1eb-15e3bba91642,Shukla-Prabhakar,Central,Residential,2022-06-04,43412.47
+7d71cf80-4962-442d-a51d-3a7f7e4cc2b5,"Gola, Palan and Chadha",East,Residential,2020-10-30,59548.2
+b8fb0f55-1ffd-4ea6-a3e0-c8bde3c08d6f,"Dhar, Puri and Mani",East,Residential,2019-12-28,45000.6
+ac1ac946-4df7-4a84-a414-8083c1c3d576,Kota-Brar,South,Residential,2024-06-27,40131.45
+6fcc6ab5-c0bf-440f-9d0c-fa6ea8595e95,Baral-Karpe,West,Industrial,2024-02-18,60321.47
+b9ac3876-d651-4517-9c9f-3da3a13fc04e,Chakrabarti-Chad,Central,Residential,2020-05-10,32463.56
+8c4f7377-e8b4-42d3-913b-7fcbdafeec49,"Garg, Tara and Konda",West,Residential,2023-07-21,48449.2
+daae4d0d-c5df-45fb-9ef2-ce7189427591,Krishnamurthy-Parekh,North,Residential,2019-05-20,42109.92
+b95c3913-f104-4c36-aadb-e0d1348f76cf,Sur-Bir,East,Residential,2022-11-09,48439.08
+45a0d3ba-ba4d-4b58-ae26-9c6eb4cbf227,"Sachdev, Merchant and Kala",South,Residential,2021-04-29,55797.77
+f3a40766-9185-4bfa-affd-10a084bc3ede,Radhakrishnan PLC,West,Residential,2022-05-23,49167.43
+25f3dace-a6c4-42fe-9308-8e561ca927f9,Dara and Sons,East,Residential,2024-07-20,53322.32
+bdaac5ef-174d-4f46-a271-e2ec21febda3,Sachar-Pillay,North,Residential,2020-12-02,64156.28
+b725be00-3ca3-4410-8791-1cf02a05e32b,Nayak-Luthra,South,Commercial,2022-09-29,47782.13
+69df98c6-90d3-4b0c-9992-ead621fc9573,Vaidya Inc,South,Industrial,2020-12-16,58364.32
+d3f8a0ed-9653-48c5-a85c-eca06ebe0d85,"Deo, Bora and Prabhu",West,Commercial,2023-08-17,52291.76
+e786aba4-69d6-470e-bee2-595e7b6dd4a4,Dua and Sons,North,Commercial,2021-10-31,65825.7
+998bfbd9-8bae-4db6-b4ac-144c762e2d01,"Deol, Devi and Nagi",East,Residential,2019-03-02,46968.8
+97d40169-0903-4220-b693-45b299b51569,Chawla-Handa,North,Residential,2021-12-17,41119.79
+80a393d3-6558-4fcd-93dd-76cfea725b58,Kari PLC,Central,Commercial,2023-04-18,53675.23
+951cd593-ea50-44bf-9650-415b52bb549b,De Ltd,East,Commercial,2021-02-16,58258.35
+722a3a88-9689-43d9-8bc6-88c06bda47d6,"Deol, Bath and Singhal",South,Industrial,2019-09-28,52524.56
+2f580012-69ce-4ba5-a74b-43456df58b02,Bava-Kade,East,Industrial,2022-06-24,63537.69
+3cca8114-c3c7-43be-b77b-acd37be72939,Dugal and Sons,West,Commercial,2023-02-15,51190.88
+3d116b33-5aa5-452b-904b-35c537173eec,"Bakshi, Dyal and Anand",East,Residential,2022-03-28,42174.91
+b1636a16-a897-48fa-8cd5-4a103ce7ae5c,Sethi-Nori,East,Industrial,2024-10-19,36085.04
+c868d7e6-4738-451b-900d-0c057ad78972,Nadkarni Ltd,West,Industrial,2022-09-13,48346.77
+a3b13f41-c194-40cf-b977-347bc6e809ae,"Iyer, Dass and Prakash",East,Residential,2023-08-20,46859.41
+527fb5e4-ed89-40de-9793-a4e4bf1e0862,Mahajan Inc,South,Residential,2019-11-10,57849.7
+26942ccb-8ac6-4279-bc60-963a8ac5a1b9,Nair-Korpal,South,Commercial,2019-12-06,63568.59
+61cfb12a-d870-45dd-937f-8765243eb129,Kumar Inc,South,Residential,2019-03-19,52494.98
+f270bd7b-cf81-406d-83b7-87a54048d403,Sawhney Ltd,South,Residential,2022-05-06,54890.58
+5d23740d-814b-4e2b-9c5a-f6a9d6ba4bbe,Narula-Khosla,West,Residential,2022-01-28,45187.41
+2a69c538-26b4-4c07-bd06-4f7a08bed183,Pant-Kunda,South,Commercial,2019-04-01,39894.51
+2dc79526-e3e9-4414-9c12-e1388ea1c1cd,Kumar PLC,Central,Commercial,2024-02-16,55580.17
+0ec7f961-002a-4320-80ba-6e1670e9ba6f,Borde Inc,West,Residential,2023-12-10,53569.16
+87e44edc-6d0a-41ca-af5b-2c69e53fb8eb,Gulati-Parikh,West,Industrial,2022-08-06,46829.85
+6c7b1e3c-6beb-4eb0-a54d-276ff5d10ee4,Minhas PLC,South,Commercial,2023-05-19,52458.39
+6b9cabe5-5a2e-476e-937d-2eb8c1094490,Bajaj Ltd,North,Residential,2022-12-09,41995.44
+23fc8e6f-8543-4263-a4e0-85d9b3256580,"Reddy, Sarna and Kara",Central,Commercial,2022-11-30,48516.2
+4ab533aa-39ee-4315-be6b-3d8d1af23d2a,Saha LLC,South,Industrial,2024-06-15,52041.14
+0d342628-0ced-41f9-be97-a82d62c58c07,Bal Inc,North,Commercial,2019-04-09,61646.92
+49cfa2db-419d-47d6-ac55-122ea2278d52,Mohan Group,South,Commercial,2020-05-21,52287.4
+a8718d5d-9cb1-4515-b928-a3ed9e635e77,Minhas and Sons,South,Commercial,2023-11-03,38127.5
+a4b23903-7ed3-4a60-b09f-dc94aac775cd,Dasgupta Inc,East,Residential,2019-09-19,48763.54
+61c6a764-ffb7-4afc-b06f-b56e59a64cee,Dhawan Inc,South,Residential,2019-09-13,61199.37
+6f6ef2cb-09e5-4a22-a570-d72960c99398,Som Inc,West,Residential,2024-11-01,51333.7
+7e8d296a-695c-403a-a768-ccaad1830aa9,Pandey-Lalla,Central,Commercial,2024-01-02,49151.18
+4ed32262-e7c7-48b4-bda4-a7a9d1773aa7,Kari-Palan,North,Commercial,2023-06-25,37025.73
+ebd1aae8-0835-4318-8671-5aa5035ca3c3,Randhawa LLC,Central,Industrial,2022-01-01,61364.03
+5a1fb8f9-074b-4901-a2a9-9e7413f5b837,"Mane, Bail and Soni",North,Industrial,2021-11-17,36980.12
+615a5d6a-f833-44f8-9175-49d8f9c4c6a8,"Seth, Sengupta and Chopra",West,Commercial,2023-03-22,35889.19
+7af20308-5285-4717-a986-5d55e15e0860,Som-Ray,South,Residential,2022-04-23,36858.95
+2ad60e7c-c062-4499-b5b3-ce876e5b1252,Sampath Group,South,Residential,2021-03-27,45875.78
+0f6fe220-0cb9-4443-9f9b-874d2a4af91d,Lala-Solanki,North,Residential,2020-12-21,45759.16
+f529c537-8433-4ac3-b119-03f329e42fd3,Bhat Group,West,Commercial,2021-10-04,45741.99
+36272034-6085-49de-a3bd-199a0602366b,"Sura, Sahni and Sani",Central,Commercial,2020-09-19,42151.64
+176684cc-71a8-4b38-884e-278fa3f63d29,Uppal Inc,West,Residential,2019-04-06,60004.44
+04fc5c09-ae94-432c-9a1c-c9a842207aa2,"Merchant, Sahota and Bajwa",Central,Commercial,2023-06-22,57431.51
+6a6d57ef-1000-45eb-8664-0666b75d3ff1,"Sagar, Vora and Contractor",Central,Residential,2021-04-28,59229.07
+848dc4b2-62e8-4dfc-b55c-8e72e7aa58fd,Oak Ltd,East,Residential,2019-12-26,57575.01
+9a46cf52-dc0c-4380-bd7d-5465f928d243,"Walla, Dada and Naidu",West,Residential,2022-02-08,54024.91
+933a8552-3944-434b-89a2-09ae9f82ac7f,Prashad-Dubey,South,Industrial,2021-04-10,42060.16
+b5ffef30-56a9-4e75-98cf-4a31fbf71453,Vasa Ltd,West,Commercial,2023-06-17,31039.04
+df2f2cb1-aac0-4f52-8abf-03d36c29f9b7,Panchal-Vasa,East,Residential,2024-07-07,60279.27
+427a8791-1256-4cae-8b35-18702f3c3cc6,Shah-Ramakrishnan,East,Residential,2021-01-31,54594.23
+f27aca6c-7f1e-4c24-8354-9963094b0121,"Borra, Rout and Chauhan",South,Residential,2020-12-19,49067.56
+2360ad63-20d1-4200-a0d2-2b59f468845f,Luthra LLC,East,Residential,2022-09-10,51185.47
+b33cccf6-a682-4440-8b70-7860156f7ad5,Pathak and Sons,North,Residential,2021-10-19,48058.88
+79c770a6-d4a4-415c-8c5f-a68782f800d4,"Palla, Mohan and Dey",Central,Commercial,2019-08-19,73511.24
+87c3c9b9-7d59-4033-a754-6aaef22ceb00,Varkey Inc,Central,Residential,2019-10-11,37901.82
+0136f711-158a-4c78-bfb0-444aae79ef3d,"Devan, Sachar and Manne",West,Residential,2024-04-25,49922.71
+f17b225f-9b96-481c-99af-3e87d1a2aabd,Mutti and Sons,East,Residential,2020-06-08,67192.49
+a1c314a6-e9aa-46b0-ba5b-be217abc91e0,"Doctor, Pandit and Luthra",East,Residential,2023-10-22,50912.99
+bdfd8357-284c-4268-a9ce-4c5058d7b490,Sarin-Setty,South,Commercial,2023-07-13,47035.55
+e661a968-f31b-467a-b826-cdb41d374179,Mann LLC,North,Residential,2019-01-03,50212.76
+711aa363-2738-4087-b24a-9e1ddc232f8e,Sethi Inc,West,Commercial,2020-06-08,44688.27
+044188e8-edb7-406d-8c47-d0f4121183db,Peri Group,North,Commercial,2024-05-27,58549.45
+5acca18b-3475-48a1-a420-3cb241090bdd,"Dubey, Dutta and Soman",West,Residential,2020-03-06,51248.41
+a46c8d62-5aed-446d-a2f8-ebabaa0809fe,Sama-Dash,Central,Commercial,2021-08-13,39380.91
+f8a0cafb-24ca-4f82-a245-5c32d193e886,Bhagat Ltd,North,Commercial,2021-05-04,49089.78
+fc53b690-f87a-4ea2-af4c-2228a3504161,Munshi-Narayan,West,Residential,2020-10-16,45924.8
+2ad62355-525c-4a03-995f-e1482dfba2fe,Bhakta-Raju,South,Commercial,2022-06-24,59821.57
+684939de-6cff-4b62-95c9-e5f060e91419,Bansal Group,West,Commercial,2024-07-04,25180.91
+23a14ef5-b9b7-413b-b6d2-42531f393379,Goswami and Sons,West,Commercial,2021-01-06,33717.93
+e0d1728a-4b33-4df2-ab83-505be62603d1,Mani-Menon,South,Residential,2024-12-15,56666.13
+2b9f6847-59d9-4380-8046-bfc854157548,"Mitter, Gaba and Rama",Central,Residential,2020-08-05,47756.33
+e502cdc9-8d3f-4e41-96bb-2ab1674d8855,Keer LLC,South,Residential,2024-12-30,44633.35
+7eb4482b-b56d-4425-8b56-8c1afd6adee0,Guha-Manne,North,Residential,2019-08-14,46099.36
+35356f00-1307-4f70-a9a9-f2a72d5d3bf5,"Sarraf, Rao and Kothari",East,Residential,2021-06-09,48691.83
+80bf9279-f932-4514-b5fb-8b23973a1295,Kapadia-Vyas,North,Residential,2021-04-30,31310.4
+eb5fb3b2-c178-42ca-a75a-20e4fa1dfe72,Mistry-Bhat,North,Residential,2021-04-12,63082.2
+b139748e-4db0-4aef-9785-286ad257cf20,"Mangat, Tandon and Keer",South,Commercial,2023-08-17,40526.06
+2299631d-c821-41af-8e0f-34e1af50d722,Chada and Sons,North,Commercial,2020-04-08,35361.28
+07c1c524-8e7a-4b8b-83b8-d7e9da9ccc76,Khurana Inc,Central,Residential,2023-09-26,52467.86
+e6e0b141-3d89-4d39-888a-6c19114c59ea,Rege Group,Central,Residential,2020-11-16,52396.23
+39707134-80ba-4bd6-a816-ee190d680f61,Baral-Raj,North,Residential,2021-08-01,56529.35
+49f6c179-b58a-4080-bd10-9c81c34f301d,Varughese-Memon,North,Residential,2020-09-05,69292.11
+7829b02a-cff5-453f-ad04-07df08f95347,"Uppal, Agarwal and Kala",Central,Commercial,2021-07-02,28525.5
+dfb8b51a-497a-41b9-8ec4-657ae4929bca,"Balan, Bains and Vala",West,Residential,2023-10-13,51029.68
+09046ed3-6042-459a-a8ed-228d61acf537,Sodhi-Seth,North,Commercial,2019-01-09,49782.16
+73e3d8f1-7d91-4188-9c84-7a8bf1ab187c,"Kibe, Comar and Baria",East,Commercial,2024-07-17,41045.92
+422ee48a-01a5-4d4f-8f0a-2232e94861d0,Venkatesh-Muni,East,Residential,2022-01-05,59919.07
+682f68ee-12b0-4cf9-b2aa-a7b079d8c774,"Raghavan, Sama and Mohanty",South,Commercial,2020-02-28,46422.38
+d826a387-372a-46ee-96a9-1eb80ff08ce8,"Sarma, Parmer and Borde",East,Residential,2021-06-25,60658.6
+1b36cc57-630a-4add-a26e-753aa6381ca3,Goda LLC,North,Residential,2021-11-04,52055.7
+12f5c13f-7014-449a-834c-62bb81e96677,"Majumdar, Sibal and Parmar",Central,Commercial,2023-08-20,50108.6
+246779d4-abd5-4746-9bb3-d84dcbcaff65,Mammen-Doshi,South,Commercial,2023-03-25,41071.04
+59450824-638d-4e4c-a7aa-059806bfa6f8,Bumb Ltd,East,Residential,2019-12-22,46528.92
+b52081a4-e3b2-43d7-8bf2-9bc29e932ca7,"Anand, Mani and Mukherjee",Central,Residential,2019-04-08,52114.07
+0e77a8e2-7256-4e6b-a39a-3e04d461d984,Shah Inc,East,Commercial,2024-01-16,46026.82
+84014c4c-6a8b-4c98-8c42-054eb00f63ff,"Issac, Parmar and Gandhi",Central,Commercial,2023-09-29,53645.65
+27b093f8-2dc0-4a56-a56f-4a0d5327ab91,Srinivasan-Sawhney,South,Residential,2024-06-17,56373.83
+b1fe4f04-dc57-4d3a-8280-d8fadc017d8a,"Bhattacharyya, Savant and Golla",Central,Residential,2020-12-14,29087.86
+99893aa2-d9df-4e73-a4f8-9a464db778da,Setty-Tara,West,Commercial,2019-10-20,38755.07
+bdd1d297-49c6-4ae7-98c4-d5dec381dac0,Suresh PLC,North,Residential,2020-11-10,57823.58
+fcc8cf30-5dda-40f4-8f87-e9d7d2484884,Pal-Hans,East,Commercial,2024-08-06,59955.59
+3f41fd2c-4e28-4c85-bd31-4c791da7059a,Misra and Sons,East,Industrial,2023-03-26,36197.55
+1cfeaad3-efad-49b3-81f5-b82360eddf0c,"Chauhan, Narayanan and Buch",North,Residential,2023-11-09,65948.82
+6fef0d1e-2816-4fc3-a791-cebdad81f2ab,Pau-Purohit,North,Industrial,2024-08-01,56409.91
+23be8e7c-345b-44d2-9069-cb2d519b9aed,"Khatri, Ranganathan and Parekh",Central,Residential,2020-04-10,36649.51
+8a731f39-0249-4135-8330-3d1561121c34,Mahal-Rau,East,Commercial,2020-10-22,52158.32
+4b4c606e-dd45-467f-b5eb-e9694cb67fac,Bahri and Sons,Central,Residential,2023-07-24,57161.9
+051a5e17-7811-4eab-9f96-f5997f50937e,Gera-Pandya,South,Residential,2022-09-11,61259.12
+41066715-244e-454e-aa4e-b1021167f971,"Dhar, Ghosh and Batta",Central,Residential,2024-02-16,43843.33
+064ff871-0963-4fcb-be00-7c0ae24124df,Srinivas LLC,East,Residential,2019-12-06,45748.21
+4991be82-41b4-49a2-83a7-eedb280c0be8,"Bhatnagar, Minhas and Sule",South,Commercial,2023-09-12,53080.23
+00d7bd04-e269-45af-b466-6eb934355593,"Sridhar, Joshi and De",Central,Residential,2023-01-17,51635.05
+3911204a-1508-42d9-9b55-712046e5006c,Basak-Wable,West,Residential,2024-07-23,47494.05
+80d01a4c-e62c-4b53-9882-2de51a266889,Narula Group,East,Residential,2024-02-13,55280.29
+8edff64d-7161-4ab8-8825-c87d5d9af8b9,Rana-Chatterjee,North,Commercial,2020-05-27,68545.48
+587975d1-6054-4eaf-9154-f920570fd996,"Jaggi, Padmanabhan and Menon",East,Commercial,2020-05-09,60446.61
+69c0497e-72b0-40dd-a0a9-5892bdb8e424,Hayre-Subramaniam,West,Residential,2024-11-22,37911.53
+cfa571aa-1406-4f79-ae1d-e52ce687457c,"Balasubramanian, Saxena and Ratti",West,Industrial,2022-06-09,43222.95
+4fe9ab38-311e-4cb4-b8ac-aa0ba2fecd4d,Rege PLC,North,Residential,2024-05-10,48060.93
+4fe3fc0b-e91d-4505-812f-de1dd1fc0ff4,"Oak, Prasad and Bawa",North,Residential,2023-07-29,44801.05
+4224c000-92e1-451d-a92c-a09fd8d28bb8,Dube Inc,East,Residential,2020-01-30,43605.36
+668683d7-0676-403f-aaa4-f713207abe82,"Rama, Sagar and Baral",East,Residential,2020-05-26,45364.71
+60c68bca-379c-4a71-a4fd-214d0d77a57e,Mangal PLC,West,Industrial,2022-12-30,42147.89
+68b9703c-352e-482e-bf36-86fc2db20948,Sarma-Kota,North,Residential,2020-07-18,62394.82
+ebf908eb-46b9-46a8-8ed2-6c5dcb7f95be,Kurian Group,South,Residential,2023-07-28,52837.0
+93fbdddc-5621-4ed8-97d6-d29b9cde6026,Ramakrishnan and Sons,West,Residential,2021-12-28,49213.82
+f422ad2e-51ad-4a51-8bed-54583daba561,"Zachariah, Bansal and Mand",East,Commercial,2019-04-04,28542.71
+1a592071-650f-46d8-9f3e-f8f5862bf51d,"Baria, Shenoy and Dhillon",North,Industrial,2019-08-20,59070.79
+2de3774e-02e0-4500-ad68-e3d87b0ce07d,Nath Group,Central,Residential,2019-09-27,57489.43
+50e38aa3-e13f-4a78-a411-a2f50bc6846f,Thakur LLC,Central,Commercial,2024-06-21,43450.29
+2e88a359-5dfc-40e7-99a3-0b485c461145,"Cheema, Kara and Patel",Central,Industrial,2022-11-09,57808.34
+6d5fe26f-54f8-4c81-a6bc-f3d89b44ac8e,"Kapoor, Virk and Nagi",Central,Industrial,2023-12-22,64719.73
+b75bd1b2-2638-4598-8621-92cd48b2b04b,Saxena-Mahal,East,Residential,2021-05-13,47505.62
+df3609ee-ba6b-407c-aae2-d56dd15deb23,"Parikh, Badami and Gopal",South,Residential,2022-06-24,52301.01
+f0d26656-d41f-4ae6-8cdc-a4e0f1a1016e,"Chatterjee, Bala and Bansal",North,Commercial,2020-04-09,51869.54
+e8b70ce6-7214-4541-854e-669d5dd85cb0,Bhat PLC,South,Residential,2021-12-12,34020.24
+f336d4c4-e003-4752-abd9-10d7e82169e7,Chakrabarti Ltd,South,Residential,2022-05-06,46644.52
+fed3d3a6-8ac2-4fbc-ba9c-6b140c27c380,Wason Group,South,Commercial,2022-07-28,43354.67
+c35e565f-2bb3-4855-a1c0-745315cf7792,"Ramaswamy, Vohra and Sastry",South,Industrial,2021-01-02,44950.27
+5601a263-33e7-4ed0-aaaf-7dc604578bd6,Sarna-Sarma,Central,Residential,2022-05-18,45286.41
+da010eea-6385-4f5d-ba62-7245a03c1480,Ratta Inc,East,Commercial,2023-12-24,74994.45
+e9fe4688-5cc2-4cf2-974e-f8dd2cc463e3,Dora LLC,East,Residential,2024-07-05,31396.18
+02e4af37-e0f3-4c89-ae62-b5c487fdc81f,"Gola, Badal and Kalla",East,Residential,2021-02-13,40887.75
+cfeb3983-4476-48b3-832f-1a888f028c97,Saha Ltd,East,Residential,2019-01-06,68023.75
+bd370202-c92f-4746-ac9f-b9c1b96097ae,Manne Group,North,Residential,2022-09-14,39215.43
+05ff93b1-67c3-44e7-994e-a977a379ced8,Chaudhari Inc,Central,Commercial,2024-03-23,63106.03
+81e2b1e8-f1b7-4cda-a55b-d4c08afc3495,Ravi-Om,West,Residential,2020-09-05,44856.3
+c057de73-399b-4ad3-b41c-41af4e9ff0f9,Srinivasan-Subramaniam,Central,Industrial,2020-08-18,23617.05
+53ac1205-9b6f-405b-9f7a-cf400c902905,Swamy Group,North,Commercial,2024-10-17,39889.4
+be4a0f9e-695b-43a8-801d-41a949c5a757,Agrawal-Lalla,South,Residential,2024-11-27,31027.67
+85bf2e53-6163-432a-8c4e-b48d792627bf,Manda-Yogi,South,Commercial,2019-06-22,83772.93
+503d820a-3e8e-4e67-bd4e-dd8c42ebcf02,"Pandit, Date and Rao",East,Residential,2024-10-16,50683.48
+e8ce38b5-dbbd-416e-b0e9-2cb2b2254902,Goda-Cheema,Central,Residential,2023-10-18,43477.01
+60a2dc8d-586a-4d16-852d-d9e8ff8a9390,Chahal-Hayre,Central,Residential,2023-01-15,51421.9
+baa5739e-b331-4644-a8b4-2ee7082e75c4,"Bera, Khare and Sekhon",East,Residential,2024-04-06,73721.16
+eb7a1c22-93b3-4b84-a32e-1230fa457c98,D’Alia Inc,East,Residential,2024-08-28,60197.56
+76a72565-67c4-4d55-852b-8e03447d43c5,Walia-Solanki,North,Commercial,2023-01-12,47076.07
+28699627-ffcf-4cb9-840f-1cd2d5ed7737,Sarma-Vasa,South,Commercial,2024-04-06,60482.26
+e274ec58-b832-46e2-8afb-fa2f24511d97,Rajagopalan-Mann,East,Residential,2020-11-07,47716.02
+498141dd-e40e-4bdd-b5c3-9cd233b0894d,Ghose-Tella,Central,Industrial,2022-10-11,51749.32
+f9fe4ef6-ae99-4fce-9ad4-27472ab8c659,Lad Inc,East,Commercial,2024-03-02,45210.61
+0e2512e7-d5e1-498f-9534-44b97771e75e,Singhal LLC,West,Residential,2019-07-08,58652.54
+ab83ffa1-2e17-4f2a-8003-af306539086f,"Madan, Gade and Hans",East,Industrial,2019-03-01,49569.56
+71084e3d-18b3-4eb7-8838-bbedc089b7de,Kapadia Group,Central,Residential,2023-10-13,32411.8
+2e802d49-d31d-413c-9c8a-4e5cb821db05,Garg-Bath,East,Commercial,2021-08-29,54446.17
+7172804e-8ffd-488d-8f1d-e6b6ce5a5a0c,Khanna-Varghese,North,Industrial,2024-08-17,43363.8
+e5e4a2ab-6cd4-4577-b8e9-4ca5729265ad,Desai PLC,North,Residential,2021-08-29,48052.86
+6b271b9b-52e7-470e-96e2-82f599c6ec7f,Manne-Sur,North,Residential,2021-04-12,48141.56
+af1147e3-b329-4565-a98b-c8894248e96a,Sankar Inc,East,Commercial,2020-02-04,57260.09
+be07b716-27ab-48ec-b607-9ad55815edac,Solanki Group,North,Commercial,2019-06-05,42539.55
+5cfaf036-fffe-4fdd-9bc8-ace2362e0eb1,Bhatt-Toor,South,Residential,2024-08-18,45694.36
+0f914c4a-461e-4aa2-b79a-d905c154ef7a,Dyal Ltd,Central,Residential,2020-08-27,41502.62
+5d767a5e-a045-4e5a-96ae-506645646e67,"Kar, Handa and Shenoy",South,Commercial,2021-12-10,64408.68
+863c89b4-4f90-49d5-9fe1-e4a9b68c257b,Choudhary LLC,Central,Residential,2019-01-03,34963.34
+9436cc11-3168-40ad-a809-bff5f6b33b1d,Bobal LLC,East,Residential,2023-08-06,54000.91
+a0d9ee6c-e64e-4896-b37a-cf78d87f83fc,Thaker-Sule,Central,Residential,2020-08-22,61653.55
+dd90c93f-fd78-4e52-b1cb-fd7d9e3df68c,Mani Ltd,North,Commercial,2024-11-09,53840.52
+93ac47b3-05be-435f-be43-eeae3d854523,Tara-Mital,North,Industrial,2024-06-16,47741.33
+bab40e4d-fe76-49fd-9b53-3a000d285049,"Tara, Khurana and Chand",South,Residential,2023-03-22,35072.33
+561a616d-5eef-43d7-9e6a-e5f3787a306b,Bhatnagar-Savant,East,Residential,2019-03-13,65055.74
+eb957579-7ff2-4e11-a9af-ed322d0336b7,Majumdar-Varghese,East,Residential,2023-09-15,46381.01
+1c918647-1e36-4937-8b10-193eeeb71ccd,Kari-Mann,South,Industrial,2023-11-13,71800.23
+242df2b5-d52c-4491-9379-2ab2996ab7d1,Dani LLC,North,Residential,2022-08-03,52843.22
+e0e099ae-9885-49f4-8f11-aae61ce0d8b3,Lall PLC,East,Commercial,2019-12-17,58202.21
+fcacfe13-e97c-4d00-afa9-f0ec3072c447,"Shankar, Palan and Sen",East,Commercial,2021-06-25,40383.07
+32b13888-c50a-4386-9159-ef53864b1e24,Brar-Chadha,South,Industrial,2021-09-02,69766.41
+176a9cc0-cd15-4e3e-96b4-6eeeafeef3d6,Dada-Iyengar,Central,Commercial,2020-09-26,39571.68
+a0bbb2b4-51f2-4da3-853d-062755f3661f,Om-Singh,South,Commercial,2023-12-04,45677.7
+5290f7d3-861c-47f2-8c64-3217675132eb,"Naidu, Lal and Chaudhry",East,Residential,2020-06-18,54665.38
+514d5f7d-846a-44e7-9213-855a6e8ffa86,Gola PLC,East,Commercial,2022-04-10,50454.93
+de229071-7605-48ea-bbce-43e76830f57a,Boase Ltd,Central,Residential,2020-02-25,39474.06
+3fcc1faf-d4dc-4dd5-864c-6f2afaa8fb25,Singh PLC,East,Residential,2022-12-27,58068.21
+9a45f33f-c6ab-4af6-96f1-9d96d94e7224,"Gaba, Ramesh and Koshy",Central,Residential,2019-01-26,53475.44
+8788368f-c3e1-4c0f-afe0-9de7124c5466,Pall-Behl,Central,Commercial,2024-05-20,60873.14
+5ba41d1c-eb9e-49ec-8a21-d11349de0822,"Madan, Narasimhan and Korpal",South,Residential,2022-11-01,44778.42
+29885f19-1e20-4c9d-9665-c344a0c598a7,Muni-Nagi,North,Industrial,2020-03-17,55005.82
+0b577640-244d-4318-b5fd-2e89f215fc1d,Kalla PLC,North,Commercial,2021-12-03,56269.22
+15275203-6f0a-4451-b86f-9163b424c9eb,Dora Group,Central,Industrial,2024-06-10,53022.19
+9741f928-0639-4beb-9ee4-80669b32b040,Luthra-Kohli,Central,Residential,2020-10-02,35599.82
+b857b16b-596c-40ce-918e-19656f0874cf,Loke-Bose,South,Commercial,2022-02-18,58868.81
+c2b881fa-e056-4cfe-ae4b-01fc0504e48a,Kota-Patla,Central,Industrial,2019-03-29,37930.56
+d3e92b95-174b-4e19-87f4-37ac4de39555,Raval-Goyal,Central,Residential,2023-12-23,50933.22
+da432d74-9d15-4dc7-be46-7a741521c59e,"Karan, Bera and Johal",North,Residential,2022-04-23,46048.1
+f13fc3b5-d69f-4b2e-b0ec-233e001a2de5,Din Ltd,South,Commercial,2023-06-26,47307.09
+13e84f5a-1464-44f0-b182-b7dad19bcac1,Rajagopalan-Parekh,North,Residential,2020-03-18,33882.79
+07090e18-dc9b-41e5-914b-74a09e91ef78,Malhotra-Bhardwaj,Central,Residential,2020-03-06,46376.87
+5b2b5298-aa4a-4aab-86b3-5ec58ad15876,Ratti PLC,East,Residential,2019-10-18,31917.32
+724e8844-bd43-45ff-bca6-73953b990482,"Pillay, Bhalla and Sur",East,Commercial,2021-08-01,66235.93
+bc8b4282-6368-4c78-a5f3-59ba45fff2e8,"Sangha, Sankaran and Mahal",Central,Commercial,2023-07-04,51569.55
+0c8cc91b-8687-4a06-8ba9-52b0c07aa041,Narasimhan-Dhawan,West,Commercial,2019-07-14,63107.46
+8492f206-7b59-4cf5-aa19-7f4d4882c891,Thakur Inc,Central,Residential,2023-05-20,43782.18
+4e2660ca-d817-4ee5-9406-c2038446f0e9,Handa Ltd,South,Residential,2022-04-21,58715.83
+e2b8d2db-a78a-4fa9-a421-c52925f5e1f1,Bora-Rao,East,Industrial,2022-01-02,59637.0
+c80e5904-b8ef-47b1-8343-2047b2826014,"Basak, Bhargava and Toor",South,Industrial,2022-04-30,20603.22
+eb1751cf-9b46-421a-8ff1-d7418a2595b9,Banik Inc,South,Residential,2024-02-26,46618.84
+b7e499b5-9792-4bb8-9d03-0df2cd54eccf,Suri Ltd,East,Commercial,2023-04-15,44782.81
+359ea49c-1ccf-48f6-82ed-6e294c5938d9,Mittal PLC,Central,Industrial,2022-04-19,58391.39
+3605cf53-e4c5-4a66-9ade-a6d7ab215aef,"Om, Grewal and Bansal",Central,Industrial,2022-05-29,66573.13
+dab54cb3-5551-44c8-b11a-370c2acba63f,Chokshi-Purohit,East,Residential,2023-07-21,33559.43
+e455092b-9b39-4de4-97bd-20a70cb8cda0,Om-Morar,South,Commercial,2023-02-09,76351.1
+3ea8a854-c821-4b58-9e28-eedbf41022d3,Chaudhry LLC,East,Commercial,2024-03-17,66643.77
+3b4adbea-cbba-409b-9ea7-57b78c18c749,"Krishnamurthy, Divan and Natt",Central,Residential,2020-06-25,74498.69
+176bcceb-875d-408e-8808-9bb46859816c,Tripathi-Sani,North,Residential,2019-10-13,62201.24
+74500e63-3b3e-4804-a83c-14347f168526,"Oommen, Rama and Karpe",West,Commercial,2020-12-23,60008.45
+0a0ca809-7a70-4422-a219-6205474ee18c,Saran Ltd,North,Residential,2024-11-09,60269.23
+23c1c3dd-342d-409e-b5ab-0fb5209a49d3,Deo-Wadhwa,East,Commercial,2020-08-10,31506.46
+978936d4-5231-442b-8938-39b590b370ae,"Oza, Kata and Barad",South,Residential,2024-04-27,55872.42
+55c9d574-96cc-4d5a-bb65-892eee5fe571,Dubey Inc,West,Commercial,2021-12-30,53806.46
+6e02fd2f-c51c-4abc-bfa2-6f0e8ee57928,Dyal-Ghosh,South,Commercial,2023-10-05,45639.24
+339c216a-55a0-42d7-bf65-d46568de24e0,Mital and Sons,Central,Commercial,2023-08-06,49207.85
+5bf9e0e1-ddb1-4493-8033-404a640a0251,Dyal-Raju,East,Commercial,2024-04-03,49848.88
+d374e186-073f-402a-923b-335669b11149,"Gera, Chana and Ahluwalia",North,Commercial,2020-09-10,47719.81
+4799fe86-5ef2-4f10-a147-e797c2dae305,Srivastava-Amble,Central,Residential,2021-04-02,66805.27
+d90fc0bd-73e4-4bbe-b889-842a7557eceb,Mahajan LLC,South,Residential,2020-11-04,61749.66
+40599b57-f4de-45ff-88ea-c92e5c92ebc0,Ranganathan-Mann,West,Residential,2022-11-23,57983.39
+e111e6d0-3dce-4f3c-98f4-5f87f4fb8e45,Rout-Comar,Central,Residential,2022-07-31,38660.17
+9e3acf97-4afd-4a88-8be6-ff43fdedb865,Dhar Ltd,East,Commercial,2019-04-24,42213.44
+9bc29095-1905-4807-9c7b-0ba885a5ad0d,Banerjee-Dhar,North,Residential,2019-12-31,50516.42
+9c0862b5-497e-4e19-a03f-192d41253583,Chadha-Sundaram,West,Residential,2021-03-01,85071.34
+5beb489b-3d07-4e93-be5b-3a38e6ef84c2,Kala Ltd,East,Residential,2023-04-25,44459.79
+31bdccca-07bc-4015-b4cb-e405c1c65499,Pau and Sons,West,Residential,2023-10-27,41226.79
+4b13723b-db1d-46ea-aff5-961e0db96c3d,Sundaram-Bahri,Central,Residential,2022-12-28,54991.16
+d7dbd629-1c50-4faf-b471-0d8b92a143a1,Bobal LLC,South,Residential,2024-05-14,56887.81
+5851d21b-6a8f-46b8-8f08-bf2b54fb9073,Badami Inc,East,Commercial,2023-02-27,52880.57
+b16fab61-fe29-4ae8-aadf-14caa064e1bc,Desai-Tiwari,Central,Residential,2021-12-28,52668.81
+da0a7b0c-1ca0-4115-b130-b6e7191df142,"Bobal, Bhakta and Rao",Central,Commercial,2023-11-09,55601.47
+2742dbaa-1d88-4721-9f65-d7802d79d0b2,"Datta, Munshi and Varma",Central,Commercial,2021-10-25,36323.38
+14d56bf9-24ae-4916-9504-ca18fdc8b5af,Mohan-Aggarwal,South,Residential,2021-09-08,58006.14
+e738c45c-0ad5-449a-be85-cd46d728a3a8,Chandra-Bawa,South,Residential,2021-07-24,45283.23
+a6eefe68-2dfd-4126-b680-12d75b7ddf37,Mane LLC,North,Commercial,2024-11-10,66921.81
+620d652a-6247-493f-8369-233b3d7e68fe,"Sabharwal, Chaudhuri and Edwin",Central,Residential,2020-11-28,53047.23
+e9064742-183c-4967-a1b5-143cb1ebf385,Vasa and Sons,South,Industrial,2019-09-07,36818.62
+41487258-a412-4e16-8111-7be50adc341b,"Lalla, Badal and Bera",Central,Residential,2024-01-10,54127.05
+4166a2bc-b8ce-445a-ad2f-b66dab17fc3c,Borah PLC,North,Residential,2024-12-07,33953.1
+a1b19fca-c1da-4564-a44d-59d5f3ef8e7c,Hayer-Srivastava,North,Residential,2020-06-04,46985.78
+a1efead4-ba81-467c-a2d0-820778e96145,De PLC,Central,Residential,2019-03-25,52778.38
+23fa141b-8e23-44e0-b4ad-8e4aad4d396d,Oza and Sons,East,Commercial,2022-01-16,54645.69
+681e0858-9f94-419b-9ecc-d956d5f09591,"Chacko, Mani and Bhatt",South,Residential,2023-08-17,53083.69
+7fad3d43-25fe-4ea5-a85c-b927bcf2214c,Mohan and Sons,East,Residential,2024-06-25,39107.48
+6013fe0e-5983-4d99-99f7-7eb92cebe19d,Kashyap and Sons,West,Commercial,2021-05-10,56418.37
+af1ad967-7613-45ee-a411-3cc432b075e9,Sagar-Balay,South,Commercial,2019-11-20,64777.68
+fd2533c5-9a3a-4f22-84ae-d4fb06eead39,"Sha, Varughese and Ratti",West,Residential,2021-09-06,47693.62
+aefe2810-ff7a-4cee-abbe-10f2e97ddf90,"Baria, Swamy and Karpe",West,Residential,2024-09-21,50525.04
+a87b5217-8424-4954-816e-f00113cec35d,Shenoy LLC,West,Commercial,2021-03-19,41963.62
+6eb4cfb2-5a03-40b4-837e-b133e129f277,"Pillai, Karpe and Jhaveri",South,Residential,2021-11-03,53174.54
+9a3e5e18-b343-4f67-8cd4-16e6d3d6d75b,Badal-Nagar,West,Residential,2024-04-19,31404.63
+d1bf25bc-ccc9-4fec-96b9-e61f2b131836,"Nanda, Iyengar and Sahota",Central,Residential,2021-05-25,44234.34
+783b302e-e2ee-44fb-9833-a646b038cb8d,Balan-Dave,East,Commercial,2020-03-31,56372.15
+1f655e03-632d-41a6-ae67-2ace5b81d62c,Chana-Kulkarni,South,Residential,2019-06-06,56498.4
+50530bf7-3ac3-40a6-abfe-89e07643b551,"Rout, Ratta and Bhasin",West,Commercial,2022-09-15,60868.6
+04c8a83b-1fd6-4cda-90f5-2be53adc3926,"Dar, Sahni and Dayal",South,Commercial,2020-02-03,55074.58
+9862fb6f-8b99-4266-a526-fd4e1e5a588b,Bala-Butala,West,Residential,2020-01-30,45589.52
+a32e78ff-fb9a-4fc9-aa93-2ad017663838,Jain-Bhasin,South,Residential,2024-05-14,41285.14
+62e523f5-6188-400b-8bfb-57dcef0b7daa,Dyal-Yohannan,South,Residential,2021-01-04,69299.62
+aaa2798b-5379-4ae0-a23d-68ee10b32217,Chawla-Nadig,East,Residential,2024-01-25,43609.28
+df0e0dc7-b4e5-4b1f-84fa-fe71a76aa40a,"Cherian, Nagi and Bassi",West,Residential,2024-04-07,52920.08
+013a7113-2338-4bf8-8363-8b473b31e8c6,"Vyas, Kibe and Parekh",East,Commercial,2019-02-25,52724.91
+0b7fe14d-4c21-4a09-8296-81991215ac4c,Karan-Datta,North,Residential,2024-02-09,52700.27
+924463bd-484f-4841-8843-547700cef2ae,Koshy-Prabhu,West,Industrial,2024-07-11,60237.38
+8dd24e94-9411-4b62-a131-e6933396b2f2,Naik-Swaminathan,South,Residential,2020-05-24,60853.79
+bf4d8a40-eba5-4d30-93fd-c6e65c59f87a,"Pradhan, Sawhney and Ramaswamy",West,Commercial,2019-02-11,49745.93
+017de2f6-b335-447e-a12e-0fe9c5e141ba,Dutt LLC,South,Commercial,2021-07-02,71374.43
+d2743759-2362-4cac-9027-f8db6b071df2,Dhar-Char,West,Industrial,2023-07-10,32419.41
+82016c23-fa27-4f00-b41b-fb04499e7a55,Uppal Inc,South,Residential,2024-12-20,42107.76
+94bad2ac-5847-449a-8893-4a1b52f6b7f3,"Pingle, Batta and Pai",East,Commercial,2024-10-01,34804.94
+72f529cb-58e3-40c3-94fa-3da909597091,"Sachdeva, Lala and Padmanabhan",South,Residential,2024-07-15,38732.0
+8d44a314-8121-45b2-95ba-d1b6819d85bc,"More, Nagi and Barad",West,Residential,2019-08-04,64706.22
+1c0e384c-1448-429f-94a0-d2ec7414f37a,"Pandya, Loke and Nadkarni",West,Residential,2021-12-05,55012.67
+b0991f91-2b29-4c17-8283-488a5071fa45,Pandya-Issac,East,Commercial,2019-11-23,57849.87
+a0c975f3-0995-4d1b-ae3a-fa9c591c98fe,"Dewan, Nagi and Chaudhuri",South,Residential,2023-07-29,56119.06
+86d5f12b-fb0b-4645-9b2e-5e0c9db56ba6,Devi LLC,East,Industrial,2021-02-24,46372.7
+2341656b-b583-4431-96b5-f61fa773c075,"Guha, Yogi and Suri",North,Commercial,2021-10-12,65732.72
+6400cc27-a00e-47b1-964e-8abf0ef75fd0,"Contractor, Dhar and Jani",West,Commercial,2022-02-16,49762.69
+81b85d9d-3d94-43e2-88b3-650e1663d7c3,Baria Ltd,West,Residential,2022-10-12,39734.97
+8b9b5e9f-841e-4cb5-8f23-664a0bbc3c40,Sagar-Cheema,West,Industrial,2023-03-15,55896.62
+52ceba61-fe7e-4a56-8522-75b3239a6962,Anne-Som,South,Industrial,2022-09-21,29471.63
+e34b4ae9-2a7a-4430-9701-202526d73966,Saxena-Narain,Central,Industrial,2022-08-28,39716.19
+3055e831-7333-42c5-a0af-d3bc3c65c8cc,Tailor-Ravel,South,Industrial,2021-03-09,45182.85
+2bf4a7d9-f97e-4a1c-afb8-01b6be739805,"Savant, Chaudry and Dua",West,Residential,2021-01-15,20698.87
+4aac2b65-9604-4cfd-8e01-8f155e20f8cf,"Garde, Mangal and Anand",East,Commercial,2021-09-09,39823.73
+001adb76-18db-4f66-816a-5b1ecde15387,"Grover, Sethi and Devi",North,Residential,2024-04-11,42395.19
+ba6d0968-8b5b-4c80-b097-d70eb47714a9,Seth Inc,South,Residential,2020-06-05,44155.15
+55593ade-91aa-4f55-97ae-94c2373cdd00,Modi Inc,North,Commercial,2019-03-08,40136.26
+e12bf088-1fb8-4e38-936c-6a8bd93c8bfc,"Hayre, Bhatt and Kunda",Central,Commercial,2021-03-24,49541.73
+39d4fa34-16d3-4d78-83d4-1073374ed79a,Deshpande Ltd,East,Residential,2020-02-18,41388.57
+aee219aa-1d53-4df7-b16f-9964abdce71e,Nagy-Oommen,North,Residential,2021-01-25,47182.8
+ea05cb3c-493a-44b9-be77-514fc970df66,"Varma, Sahni and Prasad",West,Residential,2022-10-21,42194.53
+4b3a8f38-73c9-4991-bc01-2e4c81c81060,Panchal-Jani,East,Commercial,2022-09-14,35895.79
+e5860aa5-06a6-420b-b5ea-ebe6966aa682,Anand-Ghose,Central,Residential,2019-01-16,35439.58
+48db1c4d-1ee4-4894-a75c-d9a335804d7d,Mani-Badal,North,Commercial,2021-10-15,63117.21
+f9d720a5-2f4e-4d0a-b334-5771c44781e0,Din LLC,South,Residential,2024-06-13,37307.98
+8118154c-1a2c-434b-9df0-d84ca124a53c,Panchal-Varma,Central,Industrial,2021-11-17,44367.78
+d86087d0-5734-4e40-b3e8-7b0f8facbaeb,Bhasin PLC,North,Industrial,2019-03-29,36488.88
+97c752d6-4fb4-4257-b13f-78379d52db44,Mangat Inc,South,Residential,2022-10-17,43220.6
+c8e1cf1e-3f91-46c0-8ecd-03ced5ac768f,Bhavsar-Khare,Central,Residential,2024-10-11,54651.92
+6326c5d5-8c40-4986-a004-61458585df47,Patla LLC,North,Residential,2024-12-07,50214.37
+f22cf1cd-82fb-4fa1-a7b8-7c8415ec4072,"Patel, Vala and Dutt",South,Residential,2020-08-10,67075.44
+eddde082-1b55-4407-9fdb-83d21b2e61d5,Raman LLC,Central,Residential,2021-08-28,58951.17
+674f6553-281a-42c1-ab64-da515bf23787,Mitra-Dubey,West,Residential,2020-06-04,50385.63
+c92a0d9c-7ff9-4f43-92ef-7146182100c4,Doctor Group,South,Residential,2022-02-11,43611.53
+2594a731-a702-43f1-92c6-ab479a5fdde9,"Choudhary, Suri and Pandit",West,Commercial,2024-11-09,63428.87
+01423f6c-5a17-44bc-8748-7943d7852804,Korpal-Golla,South,Commercial,2020-01-09,37300.19
+9f47329d-77ad-46e1-ae0e-b32123bd9fce,Pal-Bhavsar,South,Residential,2024-12-24,61467.76
+0f5f0c98-d122-4729-b7b7-78ad176ae217,"Wadhwa, Uppal and Chokshi",Central,Commercial,2022-10-11,40307.75
+1e7fb410-6211-4ed1-8c2c-b548fbf01569,"Date, Dara and Rout",East,Residential,2021-08-19,46512.42
+d6c0cf82-daf2-4283-a62d-f564aad1180f,"Gole, Kothari and Wable",West,Commercial,2024-10-14,54896.49
+9422daf6-8271-4f05-b17e-587c3207b83a,Sundaram and Sons,Central,Residential,2020-07-25,31454.09
+787f10eb-1aff-4abe-a0b5-1e4675154019,Mallick Inc,South,Residential,2020-02-07,52345.33
+82c381e7-9295-4379-9594-a79dd9e78935,Saran Inc,North,Residential,2021-07-14,47806.28
+803a2c62-497b-4cb2-af80-543c8a4d89fa,Jhaveri-Sahota,South,Commercial,2021-05-24,50810.89
+dc681a49-5e50-400a-b390-2d95f644a5cf,Kota Inc,Central,Residential,2022-05-23,51230.48
+9686c7e1-5b2b-47eb-84db-eaa9013de0fe,"Pandit, Bhatia and Kaul",South,Residential,2021-08-22,38489.29
+847d6171-714c-442a-9e99-3c05b6f1305e,Shankar PLC,North,Commercial,2019-11-26,50373.98
+c432376c-1c4e-49db-ba1d-1d7e22a0ab9b,Narasimhan-Bala,East,Residential,2019-06-26,58128.72
+a8338033-5135-478a-aba5-945bca1c85ed,Viswanathan LLC,West,Residential,2024-02-13,49643.26
+2121909e-8e1e-459d-900b-a10391fd2766,"Dhillon, Sharma and Wagle",East,Residential,2022-11-01,48457.12
+192a69c5-a40f-4b83-be37-1489a8b7452d,Ahluwalia Inc,North,Residential,2023-05-25,40397.37
+5bdd0c48-a6e9-497d-af54-172536db0d19,"Vasa, Chana and Char",North,Residential,2021-10-28,56381.56
+05df20fd-bfc6-4a85-be38-3dcf4dcdea9a,Sibal-Barad,South,Residential,2019-02-19,61845.29
+6ad234a0-f51b-46f8-8737-715b30968fb3,Gara-Mammen,West,Residential,2021-02-07,61179.12
+e6922007-74aa-4f79-bba5-8a7d8f868672,Mistry Inc,East,Residential,2021-05-16,36711.55
+c0f7bf84-9fa5-45ee-9766-571930080cc7,Loke LLC,North,Residential,2023-11-21,69612.78
+e2a16b9a-1a5a-4d22-939f-6c274099eb30,"Ramakrishnan, Chaudhry and Reddy",South,Residential,2020-03-17,58353.47
+fafc6b5b-391a-4b72-ada9-73e7f18c93c4,Mangat-Pal,East,Residential,2019-01-09,43009.95
+7c0bc95b-79d4-4303-b8fc-c6d40f94a023,"Mangat, Nayar and Pandya",East,Residential,2022-03-26,51410.95
+ef501456-3c30-479c-ab68-7f27a521ef66,Bir Group,West,Commercial,2024-07-04,51404.42
+3c6c300c-fc13-40b2-b795-d0517247dbf8,Goswami-Gill,Central,Residential,2020-07-27,46750.86
+4aae6d1e-e829-437b-8fed-b742dfc1e4d9,"Goyal, Prasad and Agrawal",South,Residential,2020-11-22,46748.03
+004ff90b-023f-4c68-82a7-a2f7f243d043,Narayan-Sangha,Central,Industrial,2020-04-17,48143.82
+f1894f65-6c4e-445a-8c80-d355eb7acb47,Mohanty Ltd,South,Commercial,2019-05-24,45095.34
+781fdedb-1480-47ee-b770-39274fc5bec6,"Kala, Jayaraman and Prasad",South,Commercial,2020-09-26,44632.39
+fe23bad3-e710-45b9-bdd0-1e71d6676c06,"Vohra, Thaker and Memon",Central,Commercial,2021-10-26,42459.09
+f46754fe-a1a4-4501-97fe-01e1744231b0,Basak-Kaur,East,Residential,2023-07-12,60924.84
+710ecc0f-5f68-458e-8c55-87f2851d326e,Nagy Group,South,Industrial,2020-08-11,41273.54
+03d4f389-b6d3-43a4-abf7-88d4f0da74ad,Kalita-Bains,South,Commercial,2021-04-17,47764.12
+c0042b48-9551-4202-957c-6ca8123a4aca,Varkey Inc,North,Residential,2023-01-11,40709.51
+df46ce9e-0497-4584-8876-33ff2fca575a,Mahajan-Master,West,Commercial,2023-09-13,38297.68
+b3d91dd0-ed4d-4cbd-bade-71d044fbb65c,Rai-Khare,West,Residential,2022-02-15,34543.91
+dbdcecf2-1f69-4944-b574-622528e14f66,Kurian Ltd,North,Residential,2023-03-29,41249.2
+6394c85e-75ed-40e3-8692-70d5c3bf530a,"Mann, Sibal and Kalla",Central,Residential,2021-08-05,34707.52
+904e04ae-c93c-4951-96cb-3f9fa57fc868,"Rastogi, Sura and Dayal",Central,Residential,2020-07-23,42489.62
+1dbcb20a-81f6-4399-a543-7b521318cd39,"Aggarwal, Modi and Khurana",North,Commercial,2019-08-04,48422.45
+f6604193-3198-45af-b466-c435b0f7cf97,Chopra LLC,North,Residential,2019-12-20,52207.13
+0b781339-109a-4174-97a9-603575c8c2a9,Bail LLC,North,Residential,2020-08-20,57489.48
+3e28ce0b-e52a-4cb5-a198-e951218b064d,"Sampath, Bahri and Chad",Central,Residential,2021-02-15,64342.83
+99150e37-6bd8-401e-a568-9aca833a5ef7,Kumar Inc,South,Commercial,2023-05-25,34934.67
+5e3a8598-d443-4350-a69a-f8a607cf2710,"Bahl, Gola and Dhaliwal",South,Residential,2024-08-23,46708.58
+bcaaeff9-52a6-49ef-81ec-8ce4bfce236d,Palla and Sons,West,Industrial,2020-10-31,51179.5
+4a437c60-2508-4588-b76f-34ae8188ea53,"Ganesh, Dada and Kumar",South,Commercial,2024-10-21,43230.4
+18791eec-7f87-47a1-946a-aad994b5889f,Johal and Sons,North,Residential,2021-01-11,38273.26
+9e5fba70-fe4f-4073-90e4-24d8b92e92df,"Rattan, Dugal and Roy",Central,Commercial,2020-10-16,56102.68
+7ad52f80-4f4b-40e3-8e27-2b6ff63e7e0d,"Chacko, Bhasin and Sarraf",South,Industrial,2023-08-26,58638.17
+e13eb7be-1f5c-4f75-87cc-5f6c2fb2d56e,Deshmukh-Kunda,North,Commercial,2021-06-30,48663.99
+13753d2c-182c-4092-9187-d149db110dd2,Gulati-Purohit,Central,Commercial,2019-10-29,52288.9
+6c9615c1-537e-4b44-9d1a-2210b4ba9a7f,Pathak and Sons,Central,Commercial,2023-08-16,29416.05
+bfb2f283-5cae-4342-8e8f-cca1db70ac5e,Narasimhan-Yogi,North,Residential,2020-06-02,19474.15
+8a2f4f32-e09b-4eb6-8434-ec9306ccbbd9,Sabharwal-Agrawal,West,Commercial,2023-09-19,43030.11
+e16d8cf3-b700-421e-a4b5-b1084da524e2,"Sangha, Bhavsar and Doctor",North,Commercial,2023-09-24,54271.78
+550a396b-1fa2-4c47-910a-3cce95fd2efe,"Raju, Shere and Sethi",South,Residential,2024-07-30,47462.0
+8111ac0b-ca4a-4627-bbdc-3f7678108c9e,Konda-Rastogi,North,Commercial,2024-12-04,50753.23
+a336f025-1b6a-4ead-8f41-09d25e08347e,Prabhakar-Purohit,North,Commercial,2019-12-10,48563.1
+a515e851-7409-490d-818f-f1da91417473,Balakrishnan-Kashyap,East,Commercial,2020-05-21,53928.72
+83e1d391-1f3c-45a1-85bf-b9a5a4e41646,"Varkey, Badal and Ratti",East,Residential,2023-09-24,37983.78
+dc95d2c0-482a-49d0-beca-17b5c99ab217,Dewan LLC,North,Commercial,2023-05-02,62638.82
+c97f0408-efc6-414e-9408-a90280721d06,"Bahri, Chauhan and Lata",Central,Commercial,2024-09-23,40533.68
+02f88ed7-7907-4123-9a30-cd90bf739adb,Kata-Gulati,West,Residential,2023-11-14,56125.92
+ecda6f3a-6a94-427c-a300-038a0e8a31bc,Kamdar LLC,Central,Residential,2024-07-02,55985.89
+f65932c3-0186-4059-9eba-18de524c5848,Oommen-Khatri,East,Residential,2019-01-07,59391.83
+878f2a12-631c-42e8-bd8b-4c036b742fc5,"Chad, Mangal and Toor",South,Industrial,2022-08-12,63686.08
+269143d3-063d-4145-b033-e3bb24318de0,Bala-Vala,South,Residential,2022-03-08,45021.07
+989bb5de-a5ca-4733-ac67-4753e3560963,Agate-Singh,North,Commercial,2022-08-27,44030.4
+dbb79061-cf59-4bf3-858b-9c476be1ac2e,Singhal Inc,West,Commercial,2019-03-14,64579.61
+137011c1-c528-4016-89e6-1453da6f6494,Lala-Loyal,South,Commercial,2024-10-19,40754.07
+5b0fa768-a6e1-45c2-88e7-def10e86c6fc,"Parsa, Chaudhary and Anand",South,Commercial,2021-03-18,54110.59
+898cb6fa-4903-4100-8ec7-cde674fcfebd,Hora Group,North,Commercial,2019-07-01,49491.74
+4846b1dc-c94a-44d0-9c8c-bfee8eba13c0,Puri Group,North,Commercial,2024-06-21,55798.18
+157c4d5e-4bb2-4f1a-a7c4-83244cf25420,Chakrabarti-Borah,Central,Commercial,2021-05-06,54365.94
+9e1315c0-2aa2-4bb6-ab20-13a992cbc1bc,Rao-Lanka,North,Residential,2020-05-17,46231.18
+9f8cc51e-6eb8-4aec-ae46-7dac28852e4e,Salvi and Sons,West,Commercial,2022-10-23,69698.81
+17d49c63-a874-461e-8001-43885f09a254,"Sahota, Narayanan and Chawla",East,Residential,2021-03-10,48051.59
+d897594a-f79d-41fc-8a15-ca15086475a5,"Bandi, Zacharia and Sangha",West,Commercial,2022-11-04,55080.22
+96b2b9ce-0f28-47f6-81ec-8d6263817ee0,"Batta, Lala and Keer",Central,Commercial,2021-04-20,63479.8
+c1d46397-d6a6-4287-abfe-a8cb614093b5,Mahajan-Yogi,North,Residential,2024-03-09,43885.87
+81bf0371-8685-49b0-b488-090b31a69695,"Iyer, Bajaj and Hans",South,Residential,2019-12-18,46601.72
+3587466f-a785-4b50-a856-6180f82fb6d5,Narayanan Inc,Central,Commercial,2024-04-15,58407.82
+f8a8a75b-505a-4ce4-95fb-d66630e64f1b,Saraf-Narain,South,Residential,2019-05-18,39908.82
+297a4720-f317-4d9e-a6e5-aa44ec022466,Dewan-Nayar,East,Residential,2020-05-31,54167.79
+854bcd24-05dd-4e48-b549-6fd42777f5ad,Pradhan and Sons,East,Residential,2020-02-05,62855.97
+e67d5a92-d2c0-4fad-b774-cc8f21467ff7,Lala-Kumer,East,Residential,2023-08-14,67025.6
+ac4e850f-0cb2-4389-b6f8-0278750fad38,Tella-Dubey,West,Residential,2022-02-09,53214.92
+c7862a3e-25fa-4595-9371-a11cb777bce2,Sibal-Chawla,South,Industrial,2024-03-19,60380.59
+135e33fa-7ae1-4afc-b98d-4dfd0847d026,Dash-Minhas,East,Commercial,2019-06-13,57489.0
+3603bff6-4609-4c30-8a71-20d809f395a4,Din-Sura,Central,Residential,2024-01-15,43041.87
+e7b18a12-edc3-4eb2-8aab-26c10df0029a,Misra-Tiwari,East,Commercial,2024-02-17,55682.54
+557c07b7-c20c-441e-9426-600888568102,"Luthra, Dugar and Rama",East,Industrial,2023-05-22,52491.25
+47bcfc90-48e2-427d-af37-62fcc9aeccbe,Salvi Ltd,South,Commercial,2024-03-11,47061.54
+e8549b9a-834d-43a3-bee1-a6a1be4f919c,"Pandya, Rege and Ganguly",West,Residential,2021-08-04,48734.6
+eedf3eca-f4d8-4d13-a688-d5c695b60ad0,Ahuja-Manne,West,Commercial,2021-02-22,47613.28
+572f55ea-f13f-47ee-b49a-8ff536bf1bfe,"Contractor, Trivedi and Tata",North,Residential,2020-11-08,32475.07
+20713e9f-aada-4d51-96f7-2f2dea07e0a2,"Madan, Ahuja and Ghosh",East,Residential,2023-11-29,51894.05
+be854e2a-f654-4499-b985-a9b70574493b,Parikh-Nigam,North,Commercial,2024-03-09,49344.32
+4f016d4d-bcc9-42fd-ba2f-c478f262227f,Puri-Dhingra,North,Residential,2024-04-19,56498.0
+b81ca801-aea0-46ca-b812-c3c8caff4729,"Wagle, Dhingra and Shanker",Central,Residential,2024-05-06,38873.08
+5d1f16d4-8fac-432a-b7b5-3456b494c0ea,"Tella, Brahmbhatt and Kamdar",East,Commercial,2023-06-10,31278.16
+793fbefa-e52b-4c9a-a27d-854ecabf5c4d,Ahuja-Morar,South,Commercial,2023-08-03,52388.57
+be2f8f99-a8c4-44e8-8e37-a63d35cc9a41,"Prashad, Kota and Parekh",Central,Residential,2020-11-10,54461.37
+87e29486-c013-46fd-8273-8b1c8be3b8b3,Date-Din,Central,Commercial,2024-08-28,49949.0
+459396dd-a262-4210-b615-5e6bd2bb30aa,"Nagi, Cherian and Mistry",Central,Industrial,2023-04-07,47031.13
+56f2e26c-acb6-446f-91f9-104209db30ad,Shan-Tak,North,Commercial,2019-04-01,72889.34
+6f12845e-ecd2-466c-9597-5e45016a8823,Tak Inc,South,Commercial,2021-08-22,48819.99
+548667cf-c916-423a-9bba-988ae1f22a2a,Sandal PLC,North,Residential,2023-06-04,25916.01
+41f99ac8-26a5-4ed6-87b5-0b25eed11730,Pau Inc,South,Commercial,2020-06-03,51544.44
+05b80e4d-96f5-4cf1-b476-bb041130d050,Tak-Bali,East,Residential,2023-11-03,38366.26
+3d7be42d-35c1-4443-9fb1-a70d1531f6e8,Sathe-Sathe,East,Residential,2019-03-01,57344.37
+53852f52-4934-400d-85c3-bb1625f6450f,Chadha-Bhatnagar,North,Commercial,2022-10-19,58662.31
+966a07cb-75f6-4a4b-bba6-d122815d6cfa,Balay Group,West,Residential,2023-05-12,44385.99
+735db5ec-d9f6-4a1c-96af-c2e670391436,Dar Group,South,Commercial,2021-08-27,51140.36
+5f0b172a-a79f-4159-a4df-e5687242dabe,Sandhu-Kala,Central,Residential,2023-01-21,43099.24
+c0454a48-1bf0-4084-b6ed-2606fae3aeb9,"Badal, Datta and Talwar",North,Residential,2024-09-04,37133.87
+d296d3c1-76a1-4262-93e6-3dab5dc43ce0,"Vohra, Dani and Magar",Central,Industrial,2023-10-17,44082.4
+f6f2d48a-43e9-413c-9a47-d75d64fa6441,De-Bahl,West,Residential,2022-07-03,53870.67
+90cbd692-d4ff-45a6-b41b-5941774431d1,Kibe PLC,East,Commercial,2022-08-14,43124.32
+557b120d-be01-4ef1-bb75-e85bed188d4a,Kulkarni-Acharya,North,Residential,2019-02-04,47972.14
+4d9275ec-91b1-49bb-b9cd-7f04b6e65dd0,"Mand, Krishna and Das",West,Residential,2023-07-17,53014.75
+1bd44e38-ffb1-4f51-962c-6d850597e13a,"Mallick, Kuruvilla and Ravel",West,Residential,2023-09-04,37468.83
+eeb4c282-babf-44e0-8159-018d4fdd9f14,"Boase, Sundaram and Kadakia",North,Residential,2022-11-03,29696.27
+ffc259e0-e70f-49e7-957c-3de88d4d93b5,"Sunder, Bora and Varghese",North,Commercial,2023-02-11,54175.46
+633050ec-af84-4be4-947a-763188a1b120,"Loke, Sathe and Thakkar",Central,Residential,2023-08-19,39762.75
+b9786d79-f3e1-4fcb-97ae-bbe214e33458,"Kala, Mohan and Ramaswamy",South,Commercial,2024-02-14,46920.02
+79f361ea-6655-4f78-b219-492e288aa9db,Kohli-Oza,Central,Residential,2023-06-21,59751.26
+9fb1e9fd-a922-4a67-9855-f043a4a3b14c,"Datta, Patla and Parsa",Central,Residential,2019-01-10,49927.35
+2b88d5ca-5b3e-4a1a-9fcf-7802cb546ebc,"Garde, Dutt and Manda",Central,Commercial,2020-10-20,70214.03
+613f59d6-e95a-4ffd-9c98-7ff81a677d37,Chahal-Dara,West,Commercial,2021-07-20,58162.89
+c6640873-9043-47da-b477-e7e216081d3a,Seshadri-Saini,Central,Commercial,2022-10-11,56239.37
+b26b5831-c6ff-4190-84e9-26e6962455c5,Keer-Deol,West,Commercial,2020-03-14,45356.64
+dc1ae1bf-606c-4f2a-bf9d-ce01a2c395de,Warrior-Mammen,West,Residential,2020-02-05,44951.04
+723a1f61-7169-40bf-9da2-87f3e7eb6f41,Raj-Chad,Central,Residential,2023-10-25,46475.47
+1e581e5a-65b7-463e-8825-5b0f470975ea,Gala-Sem,East,Residential,2022-03-21,57959.11
+9c735fa7-ab7d-4758-a7e5-19ac918a4c1c,Sathe-Sekhon,West,Residential,2024-12-07,57750.26
+6adac875-253b-4361-a517-e7d53a7e5d0c,"Kapoor, Bajaj and Behl",North,Residential,2021-11-11,43080.64
+0a084c8d-7f90-4b23-b57f-18d08a5c19e2,Shah-Chaudhari,South,Residential,2023-03-17,40142.77
+088f1dc8-6602-48ac-aa5e-638d3a9f8b22,"Sahni, Varma and Bhatti",West,Residential,2021-06-03,57937.16
+d8a3565b-f553-4ebd-8fa1-e464a86fd6c4,Tripathi-Raval,South,Commercial,2021-12-25,46956.86
+5fd3677a-7a15-49fe-a0cd-0b58e91fcea9,Prakash-Sarma,West,Commercial,2024-10-23,33931.94
+fdca0fc9-9f32-4552-8c26-c0f7e111beea,Patla-Saraf,South,Residential,2023-05-03,45944.06
+78fb3646-eeb5-4581-b439-a4b9e1ed8a56,"Pradhan, Nadkarni and Chaudhari",North,Commercial,2024-03-04,45419.53
+bdf0aedf-1da0-481a-8d92-bac515820033,Gill-Guha,North,Residential,2020-11-16,38519.53
+74b73af1-738a-4d29-9f6b-fd1266f0520f,Verma-Kari,West,Residential,2020-11-17,32174.23
+a7385e62-7106-454b-86aa-8aa13ba55877,"Gupta, Shanker and Kamdar",East,Industrial,2022-01-14,51463.49
+536ea364-168b-4fc2-ad9c-2195b491a6a9,Jain PLC,South,Commercial,2023-03-23,51744.81
+43323ed5-8f35-4021-82b5-df3d5afb484c,Ramakrishnan-Deshmukh,North,Industrial,2023-02-21,65737.64
+b815ddec-6d62-44e6-8a9e-3dd9bf35549b,Hans PLC,North,Residential,2020-03-31,42031.85
+0dd74fad-9a73-4b50-bd11-b2e613289985,Nigam-Chakrabarti,North,Commercial,2020-01-19,35424.79
+38e35a25-ce4b-4d9c-8301-a00fee31fff5,Bhatti Inc,South,Industrial,2022-02-07,44693.69
+8f832d24-b7a0-41d0-a64e-c68f944789ab,"Manda, Sundaram and Bose",North,Industrial,2020-04-02,42903.48
+4a78ae29-dfa7-4483-b860-b8250c32aec6,Mital PLC,South,Industrial,2019-01-09,44757.77
+d28dc00d-da2f-4d84-9826-6ec02f6b7102,Basak Group,South,Industrial,2020-01-09,52420.69
+9afaa49a-6550-4e17-ab4b-8c38d038583d,"Setty, Sengupta and Devi",North,Residential,2022-12-28,55307.71
+5530b9a8-4a9d-420d-a6ff-ccdebdc01535,Anand Group,West,Commercial,2022-12-08,46432.44
+06cb09a4-3377-46e8-ba3a-3132d69cfaa9,"Balakrishnan, Shukla and Som",North,Commercial,2024-01-28,49361.57
+b8196598-0298-4bd3-9f67-b06efb006f72,Shere LLC,West,Commercial,2021-09-14,52527.48
+6f3a06af-3926-4443-931f-cb247eff3270,Kala Inc,West,Residential,2024-12-11,55274.6
+2c19d455-3d4a-47ab-8210-6180092f30dd,"Tandon, Naidu and Mann",South,Residential,2021-03-07,48463.13
+ee5ba3b5-3b8a-4257-827b-02d4f121112c,"Venkataraman, Dara and Yohannan",South,Commercial,2021-05-31,70172.58
+e9cda45a-b138-404e-b6e5-4f830df9b03c,Pillai-Suresh,South,Industrial,2019-01-02,41423.43
+ecdb7299-203d-4948-b111-5f781d4af105,"Garg, Sankar and Bera",Central,Industrial,2020-09-22,48577.75
+d57f8a19-022e-48a1-ab6e-1e161e5b3e25,"Bhattacharyya, Pandya and Mall",South,Residential,2020-11-07,40236.49
+8dd369f4-38ef-48a1-9fe2-f515d836f0aa,"Mahal, Nayar and Sampath",West,Residential,2022-01-08,54915.63
+7cf8e21f-8958-41dc-b16a-90bf9e1f6b84,"Ram, Seshadri and Mall",Central,Residential,2020-02-12,55583.15
+2fb5e4d8-5ddc-4166-8c57-a602a6b14e1c,Roy Ltd,Central,Residential,2019-12-10,48681.85
+2e11b2be-ee70-42df-b7cc-2a52c6d03f73,Magar-Nair,South,Industrial,2020-06-28,44613.68
+a42cdf03-bfa8-4f5c-8c71-a7393902d475,Merchant-Sidhu,North,Commercial,2024-04-20,63985.73
+f35d948f-6f48-44e7-adaa-54e444e83c13,Madan PLC,North,Industrial,2024-02-27,66146.53
+7685984d-53f7-409e-b5aa-176306f13895,"Vasa, Swamy and Parmar",North,Commercial,2021-04-21,64312.95
+3ff9e8fe-7cff-4407-af7b-6ae572997a69,Palla-Banerjee,East,Commercial,2022-09-18,52105.07
+586a3016-4958-48f8-9148-e0089dbd7431,Agarwal-Arora,South,Residential,2023-06-14,53194.62
+7c3e45ce-29a2-48e4-8f05-370e66c12caf,"Deshpande, Balakrishnan and Walia",West,Industrial,2024-12-20,36024.21
+ee293925-87ec-433a-aea3-887aca2aec4b,Swaminathan-Chaudhari,Central,Commercial,2021-09-12,40057.72
+76e7ea79-7f01-45c7-bae3-c086dafec548,Rajagopalan Inc,South,Commercial,2020-12-14,53489.57
+54a4be18-cbed-40f5-895e-e1c0431ba100,Tandon-Prabhu,West,Commercial,2023-03-09,58553.0
+8b73d1ef-07aa-44b5-b500-6d6adeacb799,Krishnan-Joshi,East,Commercial,2021-05-26,40629.61
+718e0726-5e15-45c1-bf2a-9928e6bd1ec0,Chakrabarti Ltd,North,Commercial,2020-04-04,50233.57
+1999b16e-6072-4b24-a7a2-4f5ea518a74b,Madan Inc,Central,Residential,2021-03-09,44058.65
+46c6dae8-cdd6-4d50-b04d-4f93f3601164,Upadhyay-Goda,North,Residential,2020-04-20,69539.36
+c09720db-272a-45f7-9016-ae95a996a77b,Raghavan-Chander,North,Residential,2021-11-29,62829.53
+e8fc72ae-9e62-4cb8-a7f5-9477a9b3982d,Sampath-Shukla,West,Commercial,2022-12-01,60278.15
+bc6ef9c7-5504-40d5-a629-f7b7a4073190,"Atwal, Chowdhury and Om",Central,Residential,2021-10-21,45682.86
+fd1599ed-6274-4606-bcdb-aa7fb899fbe5,"Singhal, Dalal and Pandit",Central,Residential,2023-02-16,54413.7
+9d956ef8-dab8-49df-a9ad-0ecb7946ebbb,"Bains, Viswanathan and Ghosh",North,Residential,2024-02-16,34615.49
+64e1a00b-f00b-4b4f-9b00-029a1a62f019,Grewal-Dutt,South,Industrial,2020-06-29,71646.78
+73213703-d9f7-48b1-acc1-d2139268f733,Rajagopal-Tara,South,Commercial,2022-12-04,42901.73
+316c8f8e-8303-4e0c-a790-afebdb09ac94,"Shah, Parikh and Arya",East,Commercial,2024-02-10,60293.55
+a0ceccfc-b780-4cb5-9fed-74d859077bfc,Salvi-Sagar,East,Residential,2019-07-26,53102.31
+0acd535d-8a64-42b6-ba45-32a4a33a895d,Chacko-Pradhan,Central,Residential,2023-08-09,22949.47
+50fae32b-8568-4bdf-88f3-2e97f210a483,Karnik-Pillay,South,Residential,2023-06-17,55773.51
+572d10eb-9dbd-419f-93ca-4beda837944d,Thakur-Rajagopalan,North,Residential,2019-02-04,60814.07
+be3fd73d-6da8-4ec9-a502-a5f5b356e5bf,Banerjee-Pandey,West,Residential,2022-08-10,50295.41
+ac118939-09cf-4d6f-ab1c-20d9072c783f,"Dar, Mall and Nagar",North,Commercial,2019-10-23,53138.73
+048e9b39-f970-4d6c-96b5-86c835a5a31b,"Rai, Dave and Cheema",Central,Residential,2023-10-01,47386.09
+365df198-f8be-484c-9d47-6fcc2d528e1a,"Char, Sidhu and Raval",South,Residential,2023-11-10,61212.73
+9152443a-21eb-4597-9f0f-9faf91b2256b,"Nayar, Kunda and Mukhopadhyay",East,Residential,2022-04-13,55649.15
+f58acb9d-2010-4942-971c-628be61611f1,Ravi Group,North,Commercial,2021-09-03,51337.75
+bf5f6800-a438-40cd-9816-87f34e7958cf,Sandal PLC,North,Commercial,2022-09-18,45846.63
+6c39473d-c266-4d6a-bdd7-5bc0e6c236cf,Mukhopadhyay LLC,Central,Industrial,2020-02-01,47384.35
+1160e19f-6d2d-4f8f-96a8-7dcb6e7106c2,"Pal, Boase and Solanki",South,Commercial,2023-03-21,47014.75
+f47a276c-1808-4dae-8923-ebb9c71f4bfa,"Madan, Ranganathan and Sur",South,Residential,2022-12-04,39949.38
+95d20aa4-6d4e-47b3-930b-0337b2f69d6c,"Khare, Sagar and Sibal",Central,Residential,2023-08-25,69225.73
+2a718425-1415-4fb3-9d9d-b4852314a28c,Pant Group,Central,Industrial,2019-01-07,68164.49
+e22441dd-f42a-455b-8a61-26ab9db51ffc,Tak-Sarraf,East,Industrial,2019-01-13,37192.9
+e2e5ee71-fd48-4954-b9d9-56856599545a,Karan LLC,North,Commercial,2022-06-04,61411.9
+4af45edc-3ea5-4822-b9b0-f1533bc9fb59,Sampath-Gaba,West,Commercial,2021-01-29,68771.6
+2e640a90-23f6-4dfc-98c0-e9353a0952ee,Mani LLC,South,Residential,2020-10-05,42392.79
+3868ae13-25c7-4196-ae36-f77befb8ad90,Bedi-Kala,North,Commercial,2019-08-19,36654.96
+3db67bbe-a21e-4b72-9945-10885e426b20,"Wadhwa, Varma and Kothari",North,Commercial,2020-02-28,35374.65
+f2741153-5d69-45b4-9e02-5835ef88aaf2,Sampath-Bal,East,Residential,2024-02-27,50124.23
+8beb82f2-85b1-4c5f-b2ec-8cccfc42e9ae,Bal Inc,East,Residential,2024-05-25,59377.75
+daa87ce3-c1ca-4ea0-a29c-e9fff52534d3,Iyengar Group,South,Industrial,2021-09-11,41900.17
+4ac2bd51-067e-4cc9-a4b1-2c44859c6669,Prashad-Sachdev,South,Industrial,2019-08-06,67550.13
+2f69d01c-480c-4b76-a201-6ae2e26c48c7,"Barad, Naidu and Varma",South,Commercial,2024-08-27,40295.36
+8e3403c2-b26b-422f-9c85-c7692570c7f2,Pant-Kala,West,Residential,2024-07-09,53454.8
+0c098a7e-fffb-43fb-aee9-2ae38dab1f2f,"Shankar, Krishna and Nagarajan",Central,Residential,2021-10-12,51164.44
+ad132fb4-bd4a-48d2-8ec6-ef92ee82849d,"Keer, Vaidya and Jani",Central,Commercial,2023-12-15,55112.1
+c4db1a11-7c97-48be-842b-9c1c703b9e01,"Dhillon, Krishna and Hayer",South,Commercial,2020-01-05,44130.57
+6648d713-7a33-486d-8ef0-b5330c508b6c,"Tata, Bora and Luthra",West,Commercial,2021-10-09,55059.04
+a6d8fca0-e7ed-46a5-83bb-b2b588d34b66,Bansal-Kapadia,West,Commercial,2020-04-15,60862.05
+d6166e03-ed6a-4c9b-8827-71a7a6f0287c,Nadig Group,Central,Residential,2020-02-08,34326.36
+2554e86e-8757-4cba-ab4d-e0866ff9f2c4,Kumer PLC,East,Commercial,2023-07-13,45958.68
+b6718a25-b87a-492c-9093-db4f6e4e678c,Varty-Bedi,East,Residential,2021-02-21,52560.57
+3cfec388-43bf-4734-b4ab-87d0966c936a,Sami-Thaker,North,Commercial,2023-04-17,54199.98
+fde7cd0e-4d50-49d1-bcc6-5b52bc47c32d,Badal-Dhar,East,Commercial,2023-11-07,43048.9
+d72ddbfa-0527-465f-b3ef-588d7a1c1977,Dutt-Kala,West,Residential,2019-09-26,48783.56
+1576d0b0-940f-4bcb-a96d-3bd6791477a8,Toor-Yohannan,East,Residential,2021-10-07,50182.02
+b3660e66-292a-4021-869d-2c32bd33184a,Ravel Group,North,Commercial,2019-06-07,41240.94
+df1a1f97-17bc-4ff3-8894-165a23034b6d,Venkataraman-Om,East,Residential,2024-02-13,47260.51
+b4a1d3f6-b3d4-49d6-a408-81cb778e3b5e,"Savant, Palan and Kapur",South,Residential,2023-11-24,54450.6
+17423116-a197-4bc2-be48-56535dba5e5a,"Anne, Hayre and Basu",North,Residential,2023-12-04,37512.13
+2d72d8c3-4b3e-4cb7-b00f-d01f119a9768,"Dhar, Nanda and Nanda",Central,Commercial,2022-08-11,53403.07
+9f5521b3-d07a-4091-b554-cafc12bd0d1a,Gopal LLC,West,Commercial,2021-09-08,54724.43
+7ecec179-0cde-46df-91c2-14593be014ee,Bhatt-Gara,West,Commercial,2020-12-31,29104.77
+0dd08ee8-aaf6-4284-9333-b602cf7e771c,Ghosh-Chander,West,Commercial,2023-05-21,60802.35
+d8c68a6a-00ad-45c8-86c7-26768d5d9a4c,Zachariah and Sons,Central,Industrial,2024-05-28,45914.34
+faf09bf8-73f1-4c78-98b2-4ee87bf084d4,Gara-Walla,South,Residential,2019-06-14,51400.76
+e18dd9f3-8ca0-4039-bce0-acefc7f56705,"Oak, Rao and Chowdhury",East,Residential,2022-05-13,63115.91
+ee42eb88-6c6e-431a-848f-2cd88e3e9612,"Comar, Pathak and Butala",South,Residential,2024-04-02,43033.85
+84abe55d-d120-4ba2-85e7-949b0ac25b54,Sankaran-Acharya,East,Commercial,2023-12-27,49050.44
+d6e856bd-29aa-413a-bb86-c4f0019594eb,Rana LLC,South,Industrial,2021-05-04,38326.36
+585519f4-19ef-4f13-830a-b1b1825ffe38,Sant and Sons,East,Residential,2020-08-06,47677.35
+1058cbab-23dd-4ece-af34-3087e377cf80,Kota-Chowdhury,East,Residential,2019-03-07,52701.39
+a3d6e301-56dd-4f5d-a95f-db2eba58f6b7,Mangat-Sengupta,Central,Commercial,2020-09-23,54065.35
+ef94a4c1-dc92-48aa-a55a-07eaa90924d8,Pandya LLC,West,Residential,2020-07-13,52164.78
+45d301b9-6f70-4a7b-95d5-b060dc7bc822,"Talwar, Yogi and Mahajan",North,Commercial,2021-11-19,45763.22
+96201ce3-d0c3-439a-89df-88a57fac72f7,Din-Bajaj,North,Industrial,2023-12-10,73699.52
+8d36b564-44b0-4c9d-afb8-c60dd0516656,Rege Inc,Central,Commercial,2021-07-22,38463.08
+62ca7b9a-7419-474a-b1af-a00089cb4b3f,"Purohit, Bhargava and Kohli",West,Residential,2023-09-27,51251.26
+57b7f3e3-6c0b-4663-aae9-39f84297713d,Bhasin-Kala,North,Residential,2024-12-08,54683.0
+c73f0192-a74a-42c2-974e-b3907e0829a7,"Tiwari, Khare and Nagi",North,Residential,2022-10-01,49024.2
+d38a4186-b793-467e-800d-d51177b094e5,Kata-Sabharwal,West,Residential,2019-12-24,49648.64
+3a3a3721-0b78-486b-a673-1c2b21664c06,"Goswami, Varma and Iyer",West,Commercial,2022-02-08,54876.45
+c397cf64-1310-4ca0-9968-01a756d25a8c,Morar LLC,East,Residential,2024-04-19,53979.52
+16c30829-1568-4a2a-8bd0-c46dbc63a3d5,Khosla Ltd,Central,Commercial,2023-05-09,48809.99
+82ad69b1-fc57-4646-9271-830bbee092bb,"Chaudry, Nadkarni and Roy",Central,Commercial,2023-01-21,59119.04
+a033c595-7215-4bc4-a117-fc25b6ea3218,Narayan Ltd,East,Residential,2024-04-12,34794.18
+c6bbb575-3d2e-4d85-bf1d-ad91ec3cf266,Sarkar-Parsa,West,Residential,2024-06-17,38981.34
+4c393d63-aefa-48b2-a286-2dbae01f3d94,Mallick-Sengupta,South,Residential,2023-05-07,51328.38
+25a0f354-74e0-45c9-bee8-f741aded90ce,Mallick Ltd,Central,Commercial,2023-08-12,57969.55
+6c2a4d08-f5ae-4cd1-8d8a-772224ff8987,Raj PLC,Central,Residential,2019-05-13,60678.34
+75ab9eae-a6b6-4b59-8fcf-7ca66bf731b8,Parmar-Bhat,Central,Residential,2019-01-18,64115.44
+156d2e6c-4614-457c-a25a-890fef61ab97,Bath-Karpe,North,Industrial,2021-09-04,49266.49
+428d584c-d9a6-436f-8f23-793b6282a644,Baral-Dugal,West,Residential,2023-06-06,60484.3
+a1515638-a72a-411b-9266-7c1a6c8dc969,"Parikh, Prabhu and Chahal",South,Commercial,2020-12-08,61040.76
+f32ee7cd-e6a6-40d9-8170-0db36417ac4c,"Butala, Choudhury and Morar",Central,Industrial,2024-08-04,52186.77
+4f6ba54f-df0d-4dfa-aba3-04f894b095cb,"Dave, Chokshi and Kala",West,Residential,2020-05-24,46806.92
+9e4bca7c-a781-4346-8963-374bb3b3dfb2,Bhandari Inc,Central,Residential,2021-10-28,48522.75
+f535b283-a6a7-4ac7-87fa-7af7b2c525e8,Pandey-Wali,Central,Residential,2021-07-22,37487.84
+b3ed4ed8-a645-4fad-b25b-0d958ecc694c,Srinivas-Deshpande,South,Commercial,2021-03-07,46039.48
+d400bdfb-9ec0-4873-8f38-3273c37ff48e,Kulkarni-Bakshi,South,Commercial,2022-11-24,58991.91
+0df542bc-6531-411f-a60e-c1b200a97766,"Om, Kalita and Naik",South,Industrial,2019-11-02,32966.1
+ee7179b2-31f7-4b37-ada6-dd0570d31d09,"Loyal, Modi and Kumer",North,Residential,2024-08-03,45626.15
+93427cf6-72d4-489e-8e5f-08a165211b74,Divan-Aurora,North,Residential,2023-07-31,55585.39
+b44ce9ab-c595-4907-beee-39a0685b5928,"Mandal, Madan and Soni",East,Commercial,2020-09-26,48941.94
+c239188b-1acf-4309-9ae6-aa7faae5f0f1,Sidhu-Basu,South,Residential,2020-02-27,47381.89
+11d0793d-d9e5-4da4-ad6e-b0629b1cfc46,"Anne, Bahl and Nair",South,Commercial,2024-06-03,56608.19
+b0b4880b-05ee-4bd3-92a1-fd06d0d4ef92,"Radhakrishnan, Thaker and Mitra",East,Residential,2021-05-25,51408.52
+91f86280-0171-44ea-b862-0d1a27f30af1,Mangal Inc,East,Residential,2019-01-11,36996.11
+eb31a61f-3260-4f4d-ae28-4055486318dd,"Lall, Bala and Chaudry",North,Residential,2024-02-16,55255.72
+d3c0efd8-3b00-4151-845d-0cebed3b7537,Agarwal-Karpe,East,Residential,2022-05-22,57827.01
+e57f6265-81c5-430c-befd-ecf5289043f3,Manne-Sehgal,East,Residential,2019-12-10,45411.84
+fc0254a0-bcdf-4488-a883-3188b2d271e5,"Dora, Ram and Pal",South,Residential,2019-07-24,73919.03
+7e33ef77-1c32-4d84-b393-c16221e94525,Prabhakar LLC,North,Residential,2019-12-12,29209.6
+44d47209-6894-4f41-b90e-7ed4eab26de0,Ramesh Group,West,Industrial,2019-12-09,73028.79
+df1706bd-cc13-4757-9960-cfa679e24d94,Gandhi-Dyal,West,Residential,2022-04-30,50455.14
+bdbffb36-a91f-45db-a801-ce2e9e098e79,"Ramachandran, Chadha and Wadhwa",Central,Commercial,2019-08-03,78953.49
+2a160618-a033-4278-b6cc-fa70ae4de0da,Atwal-Yogi,North,Industrial,2024-11-24,51350.91
+e74ef135-84d6-4325-8edb-b9b32e149347,Walla-Agrawal,South,Industrial,2023-05-09,45333.3
+e4b525d5-4e19-4639-9ffc-a543fec62c45,"Nigam, Mukherjee and Chanda",Central,Residential,2023-11-13,43262.65
+9b15c358-0cef-47b0-926b-7c2d4d987ca2,"Raju, Chawla and Arya",West,Residential,2021-02-11,43638.24
+435e9114-c400-459f-a091-ddb5888d45bd,"Chad, Nadig and Narula",North,Commercial,2019-11-21,49861.02
+ffbf0d23-eb47-4687-806a-1345af8f7207,"More, Mahal and Balasubramanian",South,Residential,2024-12-10,49546.08
+16567b84-69c5-4d14-a5a4-1b7eeb2658a5,"Wagle, Kothari and Misra",East,Residential,2020-01-22,48760.57
+544205c9-0f17-4468-8d8a-43765683128e,Pau Group,East,Industrial,2020-04-27,45779.86
+df3dcdfd-7f51-467a-95b8-cd2fbadd8fac,"Jani, Das and Tara",South,Residential,2021-03-21,72754.43
+34efed40-bb31-429c-a1d5-16aea2ac1e29,"Nagi, Kanda and Ramakrishnan",West,Residential,2020-12-27,39098.15
+f7e87455-864c-411a-bd90-5409cd7dbebb,Jaggi LLC,East,Commercial,2020-12-23,46629.78
+e3655ab0-1adf-4b5d-b31b-26444b1907bf,Sidhu-Mohanty,North,Residential,2024-11-23,44118.46
+6cf536e5-9db3-4b86-bc4b-937b3dd5dc73,"Prakash, Ramanathan and Pant",North,Residential,2020-04-20,46275.82
+22bfbc02-7419-49f8-bd14-12837e0f86dc,Natt-Banerjee,East,Residential,2023-05-17,46393.24
+9c9bdf24-554d-47db-aa24-b272c49368c5,Rajan-Gaba,North,Commercial,2024-12-11,33601.77
+362a9a4b-e19c-42be-8918-098bc0a77bbc,Dixit-Parikh,North,Industrial,2024-07-17,51146.25
+01dc100f-19da-4a56-97f9-e84684c8bd34,Sastry LLC,West,Commercial,2021-04-14,64483.48
+93ddff0c-36ce-44db-a530-98117897e458,"Suri, Mangat and Gola",South,Residential,2024-03-10,61972.58
+21373ebf-176f-428e-87b1-03ba162062cb,Doshi-Varma,South,Commercial,2019-06-10,53101.87
+e42bc9eb-02dd-41c2-87b3-8be720c7aef8,Gola-Mahal,West,Residential,2024-10-01,46248.45
+3d526e9b-89a7-4182-9a1f-3d5c9ab7be06,Bhagat-Prakash,West,Commercial,2019-11-10,44209.38
+8687eb32-51ce-48d5-83b4-66e1b324eec0,Dass and Sons,South,Residential,2024-05-04,56553.35
+1bd478be-5a32-4652-8a3d-1ff2818ea87b,Tailor-Ganguly,Central,Residential,2022-06-11,67146.14
+1c5d3a8d-cb09-46c4-ae07-26afe7e0fac4,Borra and Sons,North,Commercial,2020-02-25,42367.07
+9a8aa00d-e272-4d63-9861-fffb2ba406c1,Yogi-Koshy,East,Commercial,2019-01-28,59692.94
+b7d4c97b-3f7f-4593-b0b8-24c9f7a9852b,Narayan-Ram,South,Residential,2019-05-04,58678.32
+d4fda9bd-074c-4b0b-9619-812ccc924bb7,"Narasimhan, Wagle and Guha",Central,Commercial,2023-07-24,48586.37
+948c7e07-f16e-4ddb-a992-e488fede05a4,Sha Group,South,Commercial,2019-11-28,49340.58
+6375cda2-61b7-45d5-82fb-66baf5a81f38,Tailor-Dhawan,East,Industrial,2023-11-12,67280.65
+f35d0d35-a0d0-48c9-8ba0-9a9b767ef283,"Ganesh, Ravi and Menon",Central,Residential,2022-06-02,54017.14
+01b58a65-52b0-4ece-bd6b-c144a76edce5,"Kumer, Sabharwal and Taneja",North,Residential,2019-11-14,72284.78
+c6d115e6-caf8-497f-9af8-354f50bdabf6,Choudhury Inc,West,Residential,2024-12-30,55900.3
+49900bf4-a1e2-4f8f-9e8e-d85e5154d2de,"Ram, Baria and Nadkarni",East,Residential,2022-09-07,65003.56
+e0274769-f09b-4d28-b017-3f3c3f4ec290,Vasa-Dada,North,Residential,2024-10-31,47993.57
+d51f7fe7-dcc5-4852-ab06-874290d13567,"Krishna, Kar and Boase",East,Residential,2019-06-15,47378.04
+a572a22f-a560-43f2-a544-9840a5922cc3,"Ratti, Iyer and Krish",East,Industrial,2020-07-21,51276.95
+44ce4436-bec7-44dc-8675-841770d685dd,"Sha, Vasa and Shetty",Central,Residential,2020-07-27,39243.11
+d720b46d-7b65-4222-839b-51166a169edd,"Khanna, Hora and Nair",Central,Residential,2023-02-17,42562.75
+c1e17fa1-6477-4a41-b855-f0e0503b6be1,Sridhar-Batta,Central,Residential,2023-02-03,47296.2
+22a60c1b-3ab3-4a23-a449-86154a7f0c2d,"Sinha, Din and Muni",North,Commercial,2021-04-06,48566.2
+66c74712-2e7c-4410-9a75-16c2c8d97186,Bassi-Bakshi,Central,Commercial,2021-04-06,66661.24
+6c8b0805-aa1a-49b8-bde7-b5242601f851,Parmer and Sons,Central,Residential,2021-08-31,57441.54
+4260cb04-cc00-4594-a244-2563a4b5bcf0,Dhaliwal Ltd,North,Commercial,2020-10-11,63551.42
+415c0a80-e202-4f68-aa65-fc49d68f7aed,"Gopal, Apte and Majumdar",South,Commercial,2024-02-26,45887.81
+4dd8c74d-388f-44f5-92a9-f9f27b4bdee1,Deol-Natt,Central,Commercial,2019-07-28,35298.12
+d2758e02-3e63-4bc0-9670-e0ea15a0a17d,"Konda, Bajwa and Doctor",Central,Commercial,2024-04-05,63687.73
+aed2b221-c03e-41b3-b276-104adea23950,Bajaj-Manda,North,Residential,2022-05-02,63212.74
+7c307b20-47ed-4bb2-a077-f1a2cd4dda49,"Sani, Dash and Sandal",West,Commercial,2022-04-24,40453.44
+97575dcb-8b2f-4a70-912f-bb3367046d1f,Tara-Ben,Central,Residential,2019-11-01,54653.79
+127714cd-259a-4c8f-8894-ec3b161b5be7,Balasubramanian-Hari,East,Residential,2024-04-15,53240.31
+70331c3b-5da9-4d7b-bb9f-53ff5a418117,Sastry-Andra,South,Commercial,2023-04-22,58367.78
+d75aa9df-3a66-4354-b918-eb1482831688,Jaggi-Prabhakar,South,Commercial,2024-10-27,44179.02
+9f49720e-75e6-4a67-baa8-84b07968b667,Muni-Tara,East,Residential,2019-11-22,40349.46
+d8b05796-82e3-4fb2-9de9-70b57263fedb,Kari Ltd,Central,Industrial,2021-06-02,49057.33
+880698f5-963f-4b26-8d5d-6ee4116b8366,"Dayal, Bhagat and Gara",North,Residential,2022-09-09,35641.13
+b7cc5fad-9c69-4aff-95aa-f4c5cebe0cf4,Bhargava Ltd,North,Residential,2022-10-21,49237.16
+a97db82c-3d36-44cd-b936-0d59f8ed3131,Mahajan-Iyengar,South,Residential,2022-04-01,55539.35
+56b8b453-4a26-437f-ad42-3488688967b3,Naidu-Divan,East,Residential,2022-09-28,34381.26
+7ffb5f7f-1999-4062-ab9a-d16300295eaa,Mukhopadhyay-Contractor,West,Industrial,2024-02-03,42408.89
+e6d74f1b-5e76-49e4-ba39-acb6d8d7943f,"Biswas, Ganguly and Goswami",Central,Commercial,2020-10-27,67517.53
+9b21c5d4-1518-4786-b127-3ab87022022c,Kota PLC,North,Residential,2024-05-05,40971.76
+4dfce8fe-399a-4256-b257-3b694dd2a2c6,Lalla-Misra,North,Commercial,2020-11-03,55564.86
+7e78e455-bf58-4758-8ebf-04e44cd1f587,Lal-Narain,Central,Residential,2021-12-18,30815.18
+63f60527-f6c4-4255-922c-22e16fc47ac6,"Bajaj, Buch and Suri",South,Industrial,2021-02-06,46591.72
+6c251c2f-12b7-42ef-9ec1-7a422f43eee9,Sibal Group,East,Residential,2022-02-10,60864.76
+d92ddbc4-1484-4178-82b0-22cb9fd59a57,"Mand, Rajan and Mahajan",West,Residential,2020-10-25,46265.43
+d82559fb-fb78-43cb-9502-ec5e844099e0,Golla-Rege,South,Residential,2019-10-15,49607.17
+9c465035-a873-4dd7-a49b-1a4d202e09a5,"Johal, Sanghvi and Koshy",North,Commercial,2023-11-12,49020.0
+72f5a6d2-b497-4f39-9c6f-c0e399f9eb84,Sarkar-Morar,North,Residential,2024-07-16,52927.92
+4be4d117-b959-4c33-a022-ba20d1c172b6,Ramaswamy and Sons,East,Residential,2021-08-29,54846.53
+3b5f876c-01ca-473c-afb1-c34cafb0da1d,Ahuja-Sridhar,North,Commercial,2024-05-24,35908.97
+56dfde95-bdd8-4f1d-a0f8-9290ca1c4137,Ahluwalia Inc,South,Residential,2023-09-26,39964.56
+e3fbc3e4-2515-4ace-ae1e-2a34680a2aaa,Vaidya-Pandya,North,Residential,2023-06-02,62919.9
+d1818c96-0fca-49c7-9419-601cd2f557b3,"Bakshi, Om and Raju",North,Industrial,2019-12-17,45404.21
